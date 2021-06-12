@@ -123,8 +123,8 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: main
-  local_backend: false
+  branch: master
+  local_backend: true
 icon:
   pack:
     ai: true
