@@ -1,20 +1,19 @@
 ---
-title: "Allan Lab - Pictures"
+title: "SEU NetSI Lab - FlyTube"
 layout: piclay
 excerpt: "Allan Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+# FlyTube
+Record the lab, record us. <br>
 
+## Video
 
-## Leiden
+#### Ultra-wideband swarm ranging - collision avoidance experiment video.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJ8yo2ReBdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-#### Gallery
+## Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
@@ -25,7 +24,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
@@ -53,26 +52,4 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 <p> &nbsp; </p>
 
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
 
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>

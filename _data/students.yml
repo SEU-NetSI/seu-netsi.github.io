@@ -8,13 +8,69 @@
 #  education2:
 #  education3:
 
+- name: Zengbao Li | 李增保
+  photo: lizengbao.jpg
+  info: Master student, started Sept 2019
+  email: lizengbao@seu.edu.cn
+  link: https://github.com/shuaibibao
+  number_educ: 1
+  education1: BSc, 
+
+- name: Jianping Huang | 黄剑萍
+  photo: huangjianping.jpg
+  info: Master student, started Sept 2019
+  email: huangjp1997@seu.edu.cn
+  link: https://github.com/hjp1997
+  number_educ: 1
+  education1: BSc, Nanjing University of Science and Technology
+
 - name: Ruiwen Xu | 许瑞文
-  photo: Ruiwen.jpg
+  photo: xuruiwen.jpg
   info: Master student, started Sept 2020
   email: raven@seu.edu.cn
   link: https://ravenxu.top/
   number_educ: 1
   education1: BSc, Northeastern University
+
+- name: Zhi Tao | 陶智
+  photo: taozhi.jpg
+  info: Master student, started Sept 2020
+  email: 220205222@seu.edu.cn
+  link: https://github.com/aqqz
+  number_educ: 1
+  education1: BSc, 
+
+- name: Naiting Chen | 陈乃婷
+  photo: chennaiting.jpg
+  info: Master student, started Sept 2020
+  email: 220204658@seu.edu.cn
+  link: https://github.com/ChenMathilda
+  number_educ: 1
+  education1: BSc, 
+
+- name: Yuming Gao | 高钰铭
+  photo: gaoyuming.jpg
+  info: Master student, started Sept 2021
+  email: withod@seu.edu.cn
+  link: https://github.com/Withod
+  number_educ: 1
+  education1: BSc, Southeast University
+
+- name: Yuying Cheng | 程玉莹
+  photo: chengyuying.jpg
+  info: Master student, started Sept 2021
+  email: 213171553@seu.edu.cn
+  link: https://github.com/seuchengyy
+  number_educ: 1
+  education1: BSc, Southeast University
+
+- name: Haodong Huo | 霍浩东
+  photo: huohaodong.jpg
+  info: Master student, started Sept 2021
+  email: 
+  link: https://github.com/inf1nityhhd
+  number_educ: 1
+  education1: BSc, Henan University
 
 - name: "This could be you!"
   photo: placeholder.jpg
