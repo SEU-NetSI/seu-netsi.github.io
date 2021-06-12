@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Research"
+title: "SEU NetSI Lab - Research"
 layout: textlay
 excerpt: "Allan Lab -- Research"
 sitemap: false

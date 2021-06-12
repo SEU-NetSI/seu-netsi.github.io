@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Publications"
+title: "SEU NetSI Lab - Publications"
 layout: gridlay
 excerpt: "Allan Lab -- Publications."
 sitemap: false
