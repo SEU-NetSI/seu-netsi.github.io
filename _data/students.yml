@@ -1,0 +1,23 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  link: 
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+
+- name: Ruiwen Xu | 许瑞文
+  photo: Ruiwen.jpg
+  info: Master student, started Sept 2020
+  email: raven@seu.edu.cn
+  link: https://ravenxu.top/
+  number_educ: 1
+  education1: BSc, Northeastern University
+
+- name: "This could be you!"
+  photo: placeholder.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0

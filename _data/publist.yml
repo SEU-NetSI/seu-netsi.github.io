@@ -1,0 +1,19 @@
+- title: "Ultra-Wideband Swarm Ranging"
+  image: uwbrange.png
+  description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
+  authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo and Weiwei Wu
+  link:
+    url: https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf
+    display:  IEEE INFOCOM 2021
+  highlight: 1
+  news2:
+
+- title: "Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model"
+  image: 
+  description:
+  authors: Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, Junzhou Luo
+  link:
+    url: https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf
+    display: IEEE ICCCN 2021
+  highlight: 0
+  news2:

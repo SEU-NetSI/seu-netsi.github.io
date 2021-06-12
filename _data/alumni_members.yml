@@ -1,0 +1,17 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  link: 
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+
+- name: Yuchao Shao
+  photo: placeholder.jpg
+  info: Master's degree in 2021, now Research Developer at Alibaba
+  email: yuchaoshao@seu.edu.cn
+  link: 
+  number_educ: 1
+  education1: Master, Southeast University

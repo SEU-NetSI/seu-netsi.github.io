@@ -1,0 +1,34 @@
+I"ü<h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list of publications and patents see <a href="#full-list-of-publications">below</a> or go to <a href="https://scholar.google.ch/citations?user=TqxYWZsAAAAJ">Google Scholar</a>, <a href="https://www.researcherid.com/rid/D-7763-2012">ResearcherID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Ultra-Wideband Swarm Ranging</pubtit>
+      <p><img src="/images/pubpic/uwbrange.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.</p>
+      <p><em>Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo and Weiwei Wu</em></p>
+      <p><strong><a href="https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf">IEEE INFOCOM 2021</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<h2 id="full-list-of-publications">Full List of publications</h2>
+
+<p>Ultra-Wideband Swarm Ranging <br />
+  <em>Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo and Weiwei Wu </em><br /><a href="https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf">IEEE INFOCOM 2021</a></p>
+
+<p>Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model <br />
+  <em>Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, Junzhou Luo </em><br /><a href="https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf">IEEE ICCCN 2021</a></p>
+
+<h2 id="patents">Patents</h2>
+:ET
