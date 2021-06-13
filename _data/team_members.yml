@@ -9,10 +9,13 @@
 #  education3:
 
 - name: Feng Shan
+  chinese: 单冯
+  id: shanfeng
   photo: shanfeng.jpg
-  info: Associate professor, started 
+  info: Associate Professor
   email: shanfeng@seu.edu.cn
   link: https://twinhorse.net/
-  number_educ: 2
-  education1: PhD, Southeast University
-
+  education: 
+    - Ph.D, Southeast University, China
+  office: "223, Computer Building"
+  tel: +86-25-5209l024

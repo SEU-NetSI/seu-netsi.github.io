@@ -1,25 +1,25 @@
 #- name:
-#  photo: rock.jpg
+#  photo: 
 #  info:
 #  email:
 #  link: 
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
+#  education:
 
 - name: Yuchao Shao
+  chinese: 邵瑜超
+  id: shaoyuchao
   photo: shaoyuchao.jpg
   info: Master's degree in 2021, now Research Developer at Alibaba
   email: yuchaoshao@seu.edu.cn
   link: 
-  number_educ: 1
-  education1: Master, Southeast University
+  education: ["Master, Southeast University"]
 
 - name: Jiaxin Zeng
+  chinese: 曾嘉鑫
+  id: zengjiaxin
   photo: zengjiaxin.jpg
   info: Master's degree in 2021, now 
   email: jiaxinzeng@seu.edu.cn
   link: 
   number_educ: 1
-  education1: Master, Southeast University
+  education1: ["Master, Southeast University"]

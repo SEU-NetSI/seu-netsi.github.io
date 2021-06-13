@@ -23,43 +23,18 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-9 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{member.link}}" target="_blank">{{ member.name }}</a></h4>
-  <i>{{ member.info }} 
-  <br>Email: <{{ member.email }}></i>
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} | {{member.chinese}}</a></h4>
+  <i>{{ member.info }}
+  <br>Email: <{{ member.email }}>
+  <br>Tel: {{ member.tel }}
+  <br>Office: {{ member.office }}</i>
+
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
+  {% for item in member.education %}
+    <li>{{ item }}</li>
+  {% endfor %}
   </ul>
 </div>
 
@@ -89,34 +64,28 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{member.link}}" target="_blank">{{ member.name }}</a></h4>
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} | {{member.chinese}}</a></h4>
   <i>{{ member.info }} 
   <br>Email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ member.id }}" aria-expanded="false" aria-controls="collapseExample">
+    See More
+  </button>
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
+  <div class="collapse" id="{{ member.id }}">
+    # Biography
+      {% for item in member.education %}
+      {{ item }}
+      {% endfor %}
+    # Research Interests
+      {% for item in member.interest %}
+      {{ item }}
+      {% endfor %}
+    # Correspondence 
+      {% for item in member.correspondence %}
+      {{ item }}
+      {% endfor %}     
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -146,7 +115,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{member.link}}" target="_blank">{{ member.name }}</a></h4>
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} | {{member.chinese}}</a></h4>
   <i>{{ member.info }}
   <br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -167,7 +136,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 </div>
 {% endif %}
 
-## Former visitors, BSc students
+## Visitors, Bachelor Students
 <div class="row">
 
 <div class="col-sm-6 clearfix">

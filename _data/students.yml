@@ -1,79 +1,139 @@
 #- name:
-#  photo: rock.jpg
+#  photo: 
 #  info:
 #  email:
 #  link: 
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
+#  education:
 
-- name: Zengbao Li | 李增保
+- name: Zengbao Li
+  chinese: 李增保
+  id: lizengbao
   photo: lizengbao.jpg
-  info: Master student, started Sept 2019
+  info: M.Sc. Student, Started Sept. 2019
   email: lizengbao@seu.edu.cn
   link: https://github.com/shuaibibao
-  number_educ: 1
-  education1: BSc, 
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
-- name: Jianping Huang | 黄剑萍
+- name: Jianping Huang
+  chinese: 黄剑萍
+  id: huangjianping
   photo: huangjianping.jpg
-  info: Master student, started Sept 2019
+  info: M.Sc. Student, Started Sept. 2019
   email: huangjp1997@seu.edu.cn
   link: https://github.com/hjp1997
-  number_educ: 1
-  education1: BSc, Nanjing University of Science and Technology
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
-- name: Ruiwen Xu | 许瑞文
+- name: Ruiwen Xu 
+  chinese: 许瑞文
+  id: xuruiwen
   photo: xuruiwen.jpg
-  info: Master student, started Sept 2020
+  info: M.Sc. Student, Started Sept. 2020
   email: raven@seu.edu.cn
-  link: https://ravenxu.top/
-  number_educ: 1
-  education1: BSc, Northeastern University
+  link: https://www.linkedin.com/in/ravenxu/
+  education: 
+    - "2020.09 ~ Now: M.Sc, Department of School of Computer Science and Engineering, Southeast University, China"
+    - "2016.09 ~ 2020.06: B.Sc, Department of School of Software, Northeastern University, China"
+  interest: ["Edge Computing", "Distributed System"]
+  correspondence: 
+    - "Office: 519, Building of Computer, Southeast University"
+    - "Github: https://github.com/RavenLite"
+    - "Blog: https://ravenxu.top/"
 
-- name: Zhi Tao | 陶智
+- name: Zhi Tao
+  chinese: 陶智
+  id: taozhi
   photo: taozhi.jpg
-  info: Master student, started Sept 2020
+  info: M.Sc. Student, Started Sept. 2020
   email: 220205222@seu.edu.cn
   link: https://github.com/aqqz
-  number_educ: 1
-  education1: BSc, 
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
-- name: Naiting Chen | 陈乃婷
+- name: Naiting Chen
+  chinese: 陈乃婷
+  id: chennaiting
   photo: chennaiting.jpg
-  info: Master student, started Sept 2020
+  info: M.Sc. Student, Started Sept. 2020
   email: 220204658@seu.edu.cn
   link: https://github.com/ChenMathilda
-  number_educ: 1
-  education1: BSc, 
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
-- name: Yuming Gao | 高钰铭
+- name: Yuming Gao
+  chinese: 高钰铭
+  id: gaoyuming
   photo: gaoyuming.jpg
-  info: Master student, started Sept 2021
+  info: M.Sc. Student, Started Sept. 2021
   email: withod@seu.edu.cn
   link: https://github.com/Withod
-  number_educ: 1
-  education1: BSc, Southeast University
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
-- name: Yuying Cheng | 程玉莹
+- name: Yuying Cheng
+  chinese: 程玉莹
+  id: chengyuying
   photo: chengyuying.jpg
-  info: Master student, started Sept 2021
+  info: M.Sc. Student, Started Sept. 2021
   email: 213171553@seu.edu.cn
   link: https://github.com/seuchengyy
-  number_educ: 1
-  education1: BSc, Southeast University
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
-- name: Haodong Huo | 霍浩东
+- name: Haodong Huo
+  chinese: 霍浩东
+  id: huohaodong
   photo: huohaodong.jpg
-  info: Master student, started Sept 2021
+  info: M.Sc. Student, Started Sept. 2021
   email: 
   link: https://github.com/inf1nityhhd
-  number_educ: 1
-  education1: BSc, Henan University
+  education: 
+    - 
+    - 
+  interest:
+    -
+    -
+  correspondence:
+    - "Office:"
 
 - name: "This could be you!"
   photo: placeholder.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="https://seu-netsi.net/vacancies">openings</a> for more info
   email: shanfeng@seu.edu.cn
-  number_educ: 0
