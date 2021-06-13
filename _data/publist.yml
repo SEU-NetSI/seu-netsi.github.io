@@ -2,9 +2,14 @@
   image: uwbrange.png
   description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
   authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo and Weiwei Wu
+  year: 2021
+  source: 
+    full: International Conference on Computer Communications
+    abbr: INFOCOM
   link:
-    url: https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf
-    display:  IEEE INFOCOM 2021
+    paper: https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf
+    code: https://github.com/SEU-NetSI/crazyflie-firmware
+    slide: https://twinhorse.net/papers/SZLLW-INFOCOM21_slides.pdf
   highlight: 1
   news2:
 
@@ -12,8 +17,28 @@
   image: 
   description:
   authors: Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, Junzhou Luo
+  year: 2021
+  source: 
+    full: International Conference on Computer Communications and Networks
+    abbr: ICCCN
   link:
-    url: https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf
-    display: IEEE ICCCN 2021
+    paper: https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf
+    code: placeholder
+    slide: placeholder
   highlight: 0
   news2:
+
+- title: "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model"
+  image: lookingb4xing.png
+  description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling. We focus on speed scheduling by considering straight line flights, with applications in monitoring power transmission lines, roads, water/oil/gas pipes and rivers/coasts.
+  authors: Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li
+  year: 2020
+  source: 
+    full: International Conference on Computer Communications
+    abbr: INFOCOM
+  link: 
+    paper: https://twinhorse.net/papers/SLXWL-INFOCOM20p.pdf
+    code: placeholder
+    slide: https://twinhorse.net/papers/SLXWL-INFOCOM20_slides.pdf
+  highlight: 1
+  news: 

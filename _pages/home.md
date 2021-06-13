@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research lab at the [Southeast University](https://www.seu.edu.cn/). Our research interests are in the areas of multi-robot swarm, wireless communication, algorithm design and analysis.
+We are a research group at the [Southeast University](https://www.seu.edu.cn/). Our research interests are in the areas of multi-robot swarm, wireless communication, algorithm design and analysis.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

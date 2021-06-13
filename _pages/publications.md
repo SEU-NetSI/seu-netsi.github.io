@@ -6,12 +6,10 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
+## Group Highlights
 
-## Group highlights
-
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -23,7 +21,7 @@ permalink: /publications/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
@@ -49,15 +47,15 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
-## Full List of publications
+## Full List of Publications
 
 {% for publi in site.data.publist %}
-
+  <div class="well-sm">
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  {{ publi.authors }} <br />
+  {{ publi.source.full }}&nbsp;<b>({{ publi.source.abbr }} {{publi.year}})</b>
+  {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}
+  {% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slides</span></a>{% endif %}
+  {% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}
+  </div>
 {% endfor %}
-
-## Patents
