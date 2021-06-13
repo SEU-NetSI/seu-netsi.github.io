@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI Lab - Publications"
+title: "SEU NetSI - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications."
 sitemap: false
 permalink: /publications/
 ---

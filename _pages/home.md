@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI Lab - Home"
+title: "SEU NetSI - Home"
 layout: homelay
-excerpt: "NetSI Lab at Southeast University."
+excerpt: "SEU NetSI Research Group at Southeast University."
 sitemap: false
 permalink: /
 ---

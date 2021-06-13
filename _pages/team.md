@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI Lab - Team"
+title: "SEU NetSI - Team"
 layout: gridlay
-excerpt: "SEU NetSI Lab: Team members"
+excerpt: "Team"
 sitemap: false
 permalink: /team/
 ---

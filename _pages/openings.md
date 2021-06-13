@@ -1,9 +1,9 @@
 ---
-title: "SEU NetSI Lab - Vacancies"
+title: "SEU NetSI - Opening"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Opening"
 sitemap: false
-permalink: /vacancies
+permalink: /opening
 ---
 
 # Open positions

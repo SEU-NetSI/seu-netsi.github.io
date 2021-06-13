@@ -1,5 +1,5 @@
 # SEU NetSI Website
 
-This is the website of our lab at Southeast University.
+This is the website of our research group at Southeast University.
 
 

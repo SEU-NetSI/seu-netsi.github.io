@@ -1,12 +1,12 @@
 ---
-title: "SEU NetSI Lab - FlyTube"
+title: "SEU NetSI - FlyTube"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "FlyTube"
 permalink: /pictures/
 ---
 
 # FlyTube
-Record the lab, record us. <br>
+Record Experiments, Record Us. <br>
 
 ## Video
 

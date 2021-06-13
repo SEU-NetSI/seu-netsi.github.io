@@ -1,5 +1,5 @@
 ---
-title: "SEU NetSI Lab - AOA"
+title: "SEU NetSI - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI Lab - News"
+title: "SEU NetSI - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "News."
 sitemap: false
 permalink: /allnews.html
 ---
