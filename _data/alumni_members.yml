@@ -12,14 +12,15 @@
   info: Master's degree in 2021, now Research Developer at Alibaba
   email: yuchaoshao@seu.edu.cn
   link: 
-  education: ["Master, Southeast University"]
+  education: 
+    - "Master, Southeast University"
 
 - name: Jiaxin Zeng
   chinese: 曾嘉鑫
   id: zengjiaxin
   photo: zengjiaxin.jpg
-  info: Master's degree in 2021, now 
+  info: Master's degree in 2021 
   email: jiaxinzeng@seu.edu.cn
   link: 
-  number_educ: 1
-  education1: ["Master, Southeast University"]
+  education: 
+    - "Master, Southeast University"
