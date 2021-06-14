@@ -1,36 +1,38 @@
 - title: "Ultra-Wideband Swarm Ranging"
   image: uwbrange.png
   description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
-  authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo and Weiwei Wu
+  authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, and Weiwei Wu
   year: 2021
   source: 
-    full: International Conference on Computer Communications
+    full: IEEE International Conference on Computer Communications
     abbr: INFOCOM
     detail: Virtual Conference, May 10-13, 2021
   link:
     paper: https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf
     code: https://github.com/SEU-NetSI/crazyflie-firmware
     slide: https://twinhorse.net/papers/SZLLW-INFOCOM21_slides.pdf
+    video: https://www.youtube.com/watch?v=hJ8yo2ReBdA&t=1s
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WyCxrWompnEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwC-cc:AAGBfm0AAAAAYMcH4cfRfD6WwIpc3jTPLy8to_ef89Al&scisig=AAGBfm0AAAAAYMcH4QwZHJS6m1Ut35wKwhsejYjv_Vd8&scisf=4&ct=citation&cd=-1&hl=en
+    doi: placeholder
   highlight: 1
-  news2:
 
 - title: "Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model"
   image: 
   description:
-  authors: Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, Junzhou Luo
+  authors: Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, and Junzhou Luo
   year: 2021
   source: 
-    full: International Conference on Computer Communications and Networks
+    full: IEEE International Conference on Computer Communications and Networks
     abbr: ICCCN
     detail: Athens, Greece, July 19-22, 2021
   link:
     paper: https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf
     code: placeholder
     slide: placeholder
+    video: placeholder
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0Ycv4jYEta0J:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwC3Ew:AAGBfm0AAAAAYMcHxEyXlhDigak0bHCPqKO3u0fjuTce&scisig=AAGBfm0AAAAAYMcHxGKH1lciMx3jRsT0d_yolUvQRxN2&scisf=4&ct=citation&cd=-1&hl=en
+    doi: placeholder
   highlight: 0
-  news2:
 
 - title: "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model"
   image: lookingb4xing.png
@@ -38,13 +40,68 @@
   authors: Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li
   year: 2020
   source: 
-    full: International Conference on Computer Communications
+    full: IEEE International Conference on Computer Communications
     abbr: INFOCOM
-    detail: Virtual Conference, July 6-9, 2020. <a href='https://ieeexplore.ieee.org/document/9155376' target='_blank'>DOI</a>
+    detail: Virtual Conference, July 6-9, 2020
   link: 
     paper: https://twinhorse.net/papers/SLXWL-INFOCOM20p.pdf
     code: placeholder
     slide: https://twinhorse.net/papers/SLXWL-INFOCOM20_slides.pdf
+    video: placeholder
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6yDVn09xGLQJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwCsYQ:AAGBfm0AAAAAYMcHqYSwdGuilMqRixz7wti1cR0vx-P5&scisig=AAGBfm0AAAAAYMcHqX3D3A5Y3aK_pAFag0Me8bweUJV9&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/9155376
   highlight: 1
-  news: 
+
+- title: "Offloading Delay Constrained Transparent Computing Tasks with Energy-Efficient Transmission Power Scheduling in Wireless IoT Environment"
+  image: 
+  description: 
+  authors: Feng Shan, Junzhou Luo, Jiahui Jin, and Weiwei Wu
+  year: 2019
+  source: 
+    full: IEEE Internet of Things Journal
+    abbr: IoT-J
+    detail: "vol. 6, no. 3 (2019): 4411-4422"
+  link: 
+    paper: https://twinhorse.net/papers/SLJW-IOTJ19.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:v5FmyQClMgoJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxUjJc:AAGBfm0AAAAAYMdRlJeLLRgs6DCDwzCj_63CmwJNCUvA&scisig=AAGBfm0AAAAAYMdRlLF9uMZt-rJfB9w-lkWDrkA4lQP9&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/8552363
+  highlight: 0
+
+- title: "Delay Minimization for Data Transmission in Wireless Power Transfer Systems"
+  image: 
+  description: 
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, and Xiaojun Shen
+  year: 2019
+  source: 
+    full: IEEE Journal on Selected Areas in Communications
+    abbr: JSAC
+    detail: "vol. 37, no. 2 (2019): 298-312"
+  link: 
+    paper: https://twinhorse.net/papers/SLWS-JSAC18.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:zjxYDap3ES4J:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxXnPE:AAGBfm0AAAAAYMdShPEW7cboge5dLeLpLcemW3YO-hKk&scisig=AAGBfm0AAAAAYMdShHH-7b7Y15C_jL-xL4F6vHX0V5XY&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/8481689
+  highlight: 0
+
+- title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
+  image:
+  description:
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, and Xiaojun Shen
+  year: 2018
+  source:
+    full: IEEE Transactions on Industrial Informatics
+    abbr: TII
+    detail: "vol. 14, no 6 (2018): 2560-2569"
+  link: 
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qENq719T-CEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxQukM:AAGBfm0AAAAAYMdVokNX_tGYikI1kAABJvZ4LXUiPsrl&scisig=AAGBfm0AAAAAYMdVov8s50iqzuc1aXVlJpv8wjz20qHD&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/8481689
+  highlight: 0

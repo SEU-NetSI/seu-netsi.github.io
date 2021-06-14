@@ -8,9 +8,6 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new Master students and BSc students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/opening) **!**
-
-
 Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 
 ## Staff
@@ -25,7 +22,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 
 <div class="col-sm-9 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} | {{member.chinese}}</a></h4>
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.chinese != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
   <i>{{ member.info }}
   <br>Email: <{{ member.email }}>
   <br>Tel: {{ member.tel }}
@@ -68,7 +65,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} | {{member.chinese}}</a></h4>
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.chinese != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
   <i>{{ member.info }} 
   <br>Email: <{{ member.email }}></i>
 

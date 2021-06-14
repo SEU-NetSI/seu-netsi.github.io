@@ -112,15 +112,17 @@
   id: huohaodong
   photo: huohaodong.jpg
   info: M.Sc. Student, Started Sept. 2021
-  email: 
-  link: https://github.com/inf1nityhhd
+  email: inf1nityhhd@163.com
+  link: https://blog.huohaodong.com/
   education: 
     - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/inf1nityhhd' target='_blank'>https://github.com/inf1nityhhd</a>"
+    - "<b>Blog:</b> <a href='https://blog.huohaodong.com' target='_blank'>https://blog.huohaodong.com</a>"
 
 - name: "This could be you!"
+  chinese: placeholder
   photo: placeholder.jpg
   info: See <a href="https://seu-netsi.net/opening">openings</a> for more info
   email: shanfeng@seu.edu.cn
