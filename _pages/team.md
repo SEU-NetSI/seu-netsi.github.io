@@ -31,11 +31,15 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
   <br>Tel: {{ member.tel }}
   <br>Office: {{ member.office }}</i>
 
-  <ul style="overflow: hidden">
-  {% for item in member.education %}
-    <li>{{ item }}</li>
-  {% endfor %}
-  </ul>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ member.id }}" aria-expanded="false" aria-controls="collapseExample">
+  See More
+  </button>
+  <br><br>
+  
+  <div class="collapse" id="{{ member.id }}">
+  <h3>Biography</h3>
+  {{ member.biography }}
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -73,18 +77,34 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
   </button>
 
   <div class="collapse" id="{{ member.id }}">
-    # Biography
-      {% for item in member.education %}
-      {{ item }}
-      {% endfor %}
-    # Research Interests
-      {% for item in member.interest %}
-      {{ item }}
-      {% endfor %}
-    # Correspondence 
-      {% for item in member.correspondence %}
-      {{ item }}
-      {% endfor %}     
+
+  <h3>Biography</h3>
+  <div>
+  <ul>
+  {% for item in member.education %}
+  <li>{{ item }}</li>
+  {% endfor %}  
+  </ul>
+  </div>
+
+  <h3>Interests</h3>
+  <div>
+  <ul>
+  {% for item in member.interest %}
+  <li>{{ item }}</li>
+  {% endfor %}  
+  </ul>
+  </div>
+
+  <h3>Correspondence</h3>
+  <div>
+  <ul>
+  {% for item in member.correspondence %}
+  <li>{{ item }}</li>
+  {% endfor %}  
+  </ul>
+  </div>
+
   </div>
 </div>
 

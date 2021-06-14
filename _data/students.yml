@@ -13,13 +13,11 @@
   email: lizengbao@seu.edu.cn
   link: https://github.com/shuaibibao
   education: 
-    - 
-    - 
+    - "<b>2019.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Room:</b> 307, Building of Jinzhi, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/shuaibibao</a>"
 
 - name: Jianping Huang
   chinese: 黄剑萍
@@ -29,13 +27,11 @@
   email: huangjp1997@seu.edu.cn
   link: https://github.com/hjp1997
   education: 
-    - 
-    - 
+    - "<b>2019.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Room:</b> 431, Building of Computer, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/hjp1997' target='_blank'>https://github.com/hjp1997</a>"
 
 - name: Ruiwen Xu 
   chinese: 许瑞文
@@ -45,13 +41,16 @@
   email: raven@seu.edu.cn
   link: https://www.linkedin.com/in/ravenxu/
   education: 
-    - "2020.09 ~ Now: M.Sc, Department of School of Computer Science and Engineering, Southeast University, China"
-    - "2016.09 ~ 2020.06: B.Sc, Department of School of Software, Northeastern University, China"
-  interest: ["Edge Computing", "Distributed System"]
+    - "<b>2020.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2016.09 ~ 2020.06:</b> B.Sc, Department of <a href='http://sc.neu.edu.cn/' target='_blank'>Software College</a>, <a href='http://www.neu.edu.cn/' target='_blank'>Northeastern University</a>, China"
+  interest: 
+    - "<b>Edge Computing</b>" 
+    - "<b>Distributed System</b>"
   correspondence: 
-    - "Office: 519, Building of Computer, Southeast University"
-    - "Github: https://github.com/RavenLite"
-    - "Blog: https://ravenxu.top/"
+    - "<b>Room:</b> 519, Building of Computer, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/RavenLite' target='_blank'>https://github.com/RavenLite</a>"
+    - "<b>Blog:</b> <a href='https://ravenxu.top' target='_blank'>https://ravenxu.top</a>"
+    - "<b>Feishu:</b> <a href='https://www.feishu.cn/invitation/page/add_contact/?token=610vd8e9-c7f3-41ea-ad32-e77fb4dc1efa&amp;unique_id=YiQQnyO_GpxSOs_h8dtNrg==' target='_blank'>Click Me</a>"
 
 - name: Zhi Tao
   chinese: 陶智
@@ -61,13 +60,11 @@
   email: 220205222@seu.edu.cn
   link: https://github.com/aqqz
   education: 
-    - 
-    - 
+    - "<b>2020.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Room:</b> 307, Building of Jinzhi, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/aqqz' target='_blank'>https://github.com/aqqz</a>"
 
 - name: Naiting Chen
   chinese: 陈乃婷
@@ -77,13 +74,10 @@
   email: 220204658@seu.edu.cn
   link: https://github.com/ChenMathilda
   education: 
-    - 
-    - 
+    - "<b>2020.09 ~ Now:</b> M.Sc, Department of <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Github:</b> <a href='https://github.com/ChenMathilda' target='_blank'>https://github.com/ChenMathilda</a>"
 
 - name: Yuming Gao
   chinese: 高钰铭
@@ -93,13 +87,11 @@
   email: withod@seu.edu.cn
   link: https://github.com/Withod
   education: 
-    - 
-    - 
+    - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
 
 - name: Yuying Cheng
   chinese: 程玉莹
@@ -109,13 +101,11 @@
   email: 213171553@seu.edu.cn
   link: https://github.com/seuchengyy
   education: 
-    - 
-    - 
+    - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, Department of <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Github:</b> <a href='https://github.com/seuchengyy' target='_blank'>https://github.com/seuchengyy</a>"
 
 - name: Haodong Huo
   chinese: 霍浩东
@@ -125,13 +115,10 @@
   email: 
   link: https://github.com/inf1nityhhd
   education: 
-    - 
-    - 
+    - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    -
-    -
   correspondence:
-    - "Office:"
+    - "<b>Github:</b> <a href='https://github.com/inf1nityhhd' target='_blank'>https://github.com/inf1nityhhd</a>"
 
 - name: "This could be you!"
   photo: placeholder.jpg
