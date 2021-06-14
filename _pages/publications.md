@@ -1,15 +1,15 @@
 ---
-title: "SEU NetSI - Publications"
+title: "SEU NetSI - Publication"
 layout: gridlay
-excerpt: "Publications."
+excerpt: "Publication."
 sitemap: false
-permalink: /publications/
+permalink: /publication/
 ---
 
-# Publications
+# Publication
 ## Group Highlights
 
-For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
+For a full list of publication and patents see [below](#full-list-of-publication) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -44,7 +44,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 </div>
 {% endif %}
 
-## Full List of Publications
+## Full List of Publication
 
 <div class="pub-full">
 {% for publi in site.data.publist %}
