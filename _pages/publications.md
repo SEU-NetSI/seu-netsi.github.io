@@ -9,7 +9,7 @@ permalink: /publication/
 # Publication
 ## Group Highlights
 
-For a full list of publication and patents see [below](#full-list-of-publication) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
+For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -44,7 +44,7 @@ For a full list of publication and patents see [below](#full-list-of-publication
 </div>
 {% endif %}
 
-## Full List of Publication
+## Full List of Publications
 
 <div class="pub-full">
 {% for publi in site.data.publist %}

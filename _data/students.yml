@@ -69,12 +69,13 @@
 - name: Naiting Chen
   chinese: 陈乃婷
   id: chennaiting
-  photo: chennaiting.jpg
+  photo: chennaiting.png
   info: M.Sc. Student, Started Sept. 2020
   email: 220204658@seu.edu.cn
   link: https://github.com/ChenMathilda
   education: 
     - "<b>2020.09 ~ Now:</b> M.Sc, Department of <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, Department of <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
   interest:
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/ChenMathilda' target='_blank'>https://github.com/ChenMathilda</a>"
