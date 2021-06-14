@@ -52,13 +52,10 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 <div class="pub-full">
 {% for publi in site.data.publist %}
   <div class="well-sm">
-  {{ publi.title }} <br />
-  {{ publi.authors }} <br />
-  {{ publi.source.full }}&nbsp;<b>({{ publi.source.abbr }} {{publi.year}})</b>
-  {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}
-  {% if publi.link.bibtex != "placeholder" %} <a href="{{ publi.link.bibtex}}" target="_blank"><span class="label label-default pull-right pub-label">Bibtex</span></a>{% endif %}
-  {% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slides</span></a>{% endif %}
-  {% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}
+  {{ publi.authors }}, {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}{% if publi.link.bibtex != "placeholder" %} <a href="{{ publi.link.bibtex}}" target="_blank"><span class="label label-default pull-right pub-label">Bibtex</span></a>{% endif %}{% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slides</span></a>{% endif %}{% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}<br />
+  "{{ publi.title }}," <br />
+  {{ publi.source.full }}&nbsp;<b>({{ publi.source.abbr }} {{publi.year}})</b>, {{ publi.source.detail }}.
+
   </div>
 {% endfor %}
 </div>

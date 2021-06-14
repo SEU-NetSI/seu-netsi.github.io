@@ -6,6 +6,7 @@
   source: 
     full: International Conference on Computer Communications
     abbr: INFOCOM
+    detail: Virtual Conference, May 10-13, 2021
   link:
     paper: https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf
     code: https://github.com/SEU-NetSI/crazyflie-firmware
@@ -22,6 +23,7 @@
   source: 
     full: International Conference on Computer Communications and Networks
     abbr: ICCCN
+    detail: Athens, Greece, July 19-22, 2021
   link:
     paper: https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf
     code: placeholder
@@ -38,6 +40,7 @@
   source: 
     full: International Conference on Computer Communications
     abbr: INFOCOM
+    detail: Virtual Conference, July 6-9, 2020. <a href='https://ieeexplore.ieee.org/document/9155376' target='_blank'>DOI</a>
   link: 
     paper: https://twinhorse.net/papers/SLXWL-INFOCOM20p.pdf
     code: placeholder
