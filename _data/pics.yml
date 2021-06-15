@@ -1,0 +1,36 @@
+flytube:
+  - title: 2021_06_03_icra2021
+    image: 2021_06_03_icra2021.jpg
+  - title: 2021_01_17_haidilao
+    image: 2021_01_17_haidilao.jpg
+  - title: 2020_10_17_fangshan
+    image: 2020_10_17_fangshan.jpg
+
+memberlogo:
+  - title: Peking University
+    image: pekinguniversity.png
+    link: https://english.pku.edu.cn/
+  - title: New York University
+    image: newyorkuniversity.jpg
+    link: https://www.nyu.edu/
+  - title: University of Copenhagen
+    image: copenhagenuniversity.png
+    link: https://www.ku.dk/
+  - title: Southeast University
+    image: southeastuniversity.png
+    link: https://www.seu.edu.cn/english/main.htm
+  - title: Huawei
+    image: huawei.png
+    link: https://www.huawei.com/
+  - title: ByteDance
+    image: bytedance.png
+    link: https://www.bytedance.com/
+  - title: Alibaba
+    image: alibaba.png
+    link: https://www.alibabagroup.com/
+  - title: China Union Pay
+    image: chinaunionpay.png
+    link: http://www.unionpayintl.com/
+  - title: State Grid
+    image: stategrid.png
+    link: http://js.ifeng.com/special/fangtian/

@@ -14,7 +14,11 @@
   link: https://github.com/shuaibibao
   education: 
     - "<b>2019.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, Department of <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"  
   interest:
+    - "<b>Drone Swarm Network</b>"
+    - "<b>Distributed System</b>"
+    - "<b>Source Tracking</b>"
   correspondence:
     - "<b>Room:</b> 307, Building of Jinzhi, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/shuaibibao</a>"
@@ -22,13 +26,16 @@
 - name: Jianping Huang
   chinese: 黄剑萍
   id: huangjianping
-  photo: huangjianping.jpg
+  photo: huangjianping.png
   info: M.Sc. Student, Started Sept. 2019
   email: huangjp1997@seu.edu.cn
   link: https://github.com/hjp1997
   education: 
     - "<b>2019.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, Department of <a href='http://cs.njust.edu.cn/' target='_blank'>School of Computer Science and Engineering</a>, <a href='http://www.njust.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"  
   interest:
+    - "<b>UAV Flight Planning</b>" 
+    - "<b>Energy Scheduling</b>" 
   correspondence:
     - "<b>Room:</b> 431, Building of Computer, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/hjp1997' target='_blank'>https://github.com/hjp1997</a>"
@@ -55,13 +62,16 @@
 - name: Zhi Tao
   chinese: 陶智
   id: taozhi
-  photo: taozhi.jpg
+  photo: taozhi.png
   info: M.Sc. Student, Started Sept. 2020
   email: 220205222@seu.edu.cn
   link: https://github.com/aqqz
   education: 
     - "<b>2020.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, Department of <a href='http://www.hfuu.edu.cn/dzx/' target='_blank'>School of Advanced Manufacturing Engineering</a>, <a href='http://www.hfuu.edu.cn/' target='_blank'>Hefei University</a>, China"
   interest:
+    - "<b>Embedded System</b>"
+    - "<b>Artificial intelligence</b>"
   correspondence:
     - "<b>Room:</b> 307, Building of Jinzhi, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/aqqz' target='_blank'>https://github.com/aqqz</a>"
@@ -77,13 +87,14 @@
     - "<b>2020.09 ~ Now:</b> M.Sc, Department of <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, Department of <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
   interest:
+    - "<b>Embedded System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/ChenMathilda' target='_blank'>https://github.com/ChenMathilda</a>"
 
 - name: Yuming Gao
   chinese: 高钰铭
   id: gaoyuming
-  photo: gaoyuming.jpg
+  photo: gaoyuming.png
   info: M.Sc. Student, Started Sept. 2021
   email: withod@seu.edu.cn
   link: https://github.com/Withod
@@ -91,13 +102,15 @@
     - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
+    - "<b>Algorithm design</b>"
+    - "<b>UAV application</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
 
 - name: Yuying Cheng
   chinese: 程玉莹
   id: chengyuying
-  photo: chengyuying.jpg
+  photo: chengyuying.png
   info: M.Sc. Student, Started Sept. 2021
   email: 213171553@seu.edu.cn
   link: https://github.com/seuchengyy
@@ -105,25 +118,31 @@
     - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, Department of <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
+    - "<b>Source Tracking</b>"
+    - "<b>Mobile Network</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/seuchengyy' target='_blank'>https://github.com/seuchengyy</a>"
 
 - name: Haodong Huo
   chinese: 霍浩东
   id: huohaodong
-  photo: huohaodong.jpg
+  photo: huohaodong.png
   info: M.Sc. Student, Started Sept. 2021
   email: inf1nityhhd@163.com
   link: https://blog.huohaodong.com/
   education: 
     - "<b>2021.09 ~ Now:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, Department of <a href='http://cs.henu.edu.cn/' target='_blank'>School of Computer and Information Engineering</a>, <a href='http://www.henu.edu.cn/' target='_blank'>Henan University</a>, China"
   interest:
+    - "<b>Algorithm Design</b>"
+    - "<b>Distributed System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/inf1nityhhd' target='_blank'>https://github.com/inf1nityhhd</a>"
     - "<b>Blog:</b> <a href='https://blog.huohaodong.com' target='_blank'>https://blog.huohaodong.com</a>"
 
 - name: "This could be you!"
   chinese: placeholder
+  id: placeholder
   photo: placeholder.jpg
   info: See <a href="https://seu-netsi.net/opening">openings</a> for more info
   email: shanfeng@seu.edu.cn

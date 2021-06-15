@@ -59,5 +59,5 @@ Southeast University (SEU), located in Nanjing, the ancient capital city of six 
 We are grateful for funding from Southeast University...
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/funder/seu.png" style="width: 110px">
+  <a href="https://www.seu.edu.cn/english/main.htm" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/funder/seu.png" style="width: 110px"></a>
 </figure>
