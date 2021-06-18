@@ -19,7 +19,7 @@ The group members are from
 
 NetSI group conducts research in the area of Internet of Things and Swarm Intelligence.
 More specially, the focus is on the wireless networking for a swarm of moving things and study how to coordinate their collaboration.
-NetSI group research goal is to provide theoretically sound analysis as well as practically working systems.
+NetSI group research goal is to provide theoretically sound analysis as well as build practically working systems.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
