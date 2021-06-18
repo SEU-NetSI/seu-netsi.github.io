@@ -133,10 +133,9 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: top" />
-  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} | {{member.chinese}}</a></h4>
-  <i>{{ member.info }}
-  <br>Email: <{{ member.email }}></i>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }} | {{member.chinese}}</h4>
+  <i>{{ member.info }}</i>
   {% if member.id != "placeholder" %}
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ member.id }}" aria-expanded="false" aria-controls="collapseExample">
     See More
@@ -214,14 +213,28 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endfor %}
 
 ## From NetSI, to the world!
-<div class="row" style="margin-bottom: 40px;">
+<div class="row">
 {% for pic in site.data.pics.memberlogo %}
-
-<div class="col-sm-2 clearfix">
+{% if pic.attr == "college" %}
+<div class="col-sm-2 col-xs-4 clearfix">
 <a href="{{ pic.link }}" target="_blank">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
 </a>
 </div>
+{% endif %}
+
+{% endfor %}
+</div>
+
+<div class="row" style="margin-bottom: 40px;">
+{% for pic in site.data.pics.memberlogo %}
+{% if pic.attr == "company" %}
+<div class="col-sm-2 col-xs-4 clearfix">
+<a href="{{ pic.link }}" target="_blank">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
+</a>
+</div>
+{% endif %}
 
 {% endfor %}
 </div>

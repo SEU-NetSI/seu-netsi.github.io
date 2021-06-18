@@ -9,12 +9,12 @@
   chinese: 邵瑜超
   id: shaoyuchao
   photo: shaoyuchao.jpg
-  info: Master's degree in 2021, now Research Developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
+  info: Master's degree in 2021,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
   email: yuchaoshao@seu.edu.cn
   link: https://github.com/YuchaoS
   education: 
-    - "<b>2018.09 ~ 2021.06:</b> M.Sc, Department of <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2014.09 ~ 2018.06:</b> B.Sc, Department of <a href='http://computer.hdu.edu.cn/' target='_blank'>Computer and Software School</a>, <a href='http://www.hdu.edu.cn/' target='_blank'>Hangzhou Dianzi University</a>, China"
+    - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2014.09 ~ 2018.06:</b> B.Sc, <a href='http://computer.hdu.edu.cn/' target='_blank'>Computer and Software School</a>, <a href='http://www.hdu.edu.cn/' target='_blank'>Hangzhou Dianzi University</a>, China"
   interest:
     - "<b>Flying Ad Hoc Network</b>"
     - "<b>Distributed System</b>"
@@ -26,12 +26,12 @@
   chinese: 曾嘉鑫
   id: zengjiaxin
   photo: zengjiaxin.jpg
-  info: Master's degree in 2021, now Research Developer at <a href='http://www.unionpayintl.com/' target='_blank'>China UnionPay</a>
+  info: Master's degree in 2021,<br> Research developer at <a href='http://www.unionpayintl.com/' target='_blank'>China UnionPay</a>
   email: jiaxinzeng@seu.edu.cn
   link: https://github.com/unJASON
   education: 
-    - "<b>2018.09 ~ 2021.06:</b> M.Sc, Department of <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2012.09 ~ 2016.06:</b> B.Sc, Department of <a href='http://ci.hfut.edu.cn/' target='_blank'>School of Computer Science and Information Engineering</a>, <a href='http://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
+    - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2012.09 ~ 2016.06:</b> B.Sc, <a href='http://ci.hfut.edu.cn/' target='_blank'>School of Computer Science and Information Engineering</a>, <a href='http://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
   interest:
     - "<b>Wireless Protocol</b>"
     - "<b>Localization</b>"

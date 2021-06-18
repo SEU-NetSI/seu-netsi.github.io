@@ -55,9 +55,3 @@ We are a research group at the [Southeast University](https://www.seu.edu.cn/). 
 Southeast University (SEU), located in Nanjing, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "985 Project", "211 Project". In 2017, SEU was ranked on the list of constructing "Class A first-rate world universities".  
 
 **We are  looking for passionate new M.Sc. students and B.Sc. students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opening) **!**
-
-We are grateful for funding from Southeast University...
-
-<figure class="fourth">
-  <a href="https://www.seu.edu.cn/english/main.htm" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/homepic/funder/seu.png" style="width: 110px"></a>
-</figure>
