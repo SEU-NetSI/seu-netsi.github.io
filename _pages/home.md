@@ -6,11 +6,20 @@ sitemap: false
 permalink: /
 ---
 <div class="page-header">
-  <h3>Net SI <small>Networking and Swarm Intelligence Research Group</small></h3>
+  <h3>NetSI <small>Networking and Swarm Intelligence Research Group</small></h3>
 </div>
 
-We are a research group at the [Southeast University](https://www.seu.edu.cn/). Our research interests are in the areas of multi-robot swarm, wireless communication, algorithm design and analysis.
+The Networking and Swarm Intelligence (NetSI) Research Group is part of the [Jiangsu Provincial Key Laboratory of Networking and Information Security](http://jssec.seu.edu.cn), 
+at the [Southeast University](https://www.seu.edu.cn/). 
+The group members are from 
+[School of Computer Science and Engineering](https://cse.seu.edu.cn), 
+[College of Software Engineering](https://cose.seu.edu.cn), 
+[School of Cyber Science and Engineering](https://cyber.seu.edu.cn), 
+[SEU-Monash Joint Graduate School](https://smjgs.seu.edu.cn).
 
+NetSI group conducts research in the area of Internet of Things and Swarm Intelligence.
+More specially, the focus is on the wireless networking for a swarm of moving things and study how to coordinate their collaboration.
+NetSI group research goal is to provide theoretically sound analysis as well as practically working systems.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
