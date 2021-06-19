@@ -1,12 +1,12 @@
 ---
-title: "SEU NetSI - Opening"
+title: "SEU NetSI - Admission"
 layout: textlay
-excerpt: "Opening"
+excerpt: "Admission"
 sitemap: false
-permalink: /opening
+permalink: /admission
 ---
 
-# Open Positions
+# Get Involved
 
 We are always looking for new group members with passion, talent, and grit!
 
