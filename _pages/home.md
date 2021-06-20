@@ -32,16 +32,16 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide4.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide2.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide1.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide2.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide4.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide3.png" alt="Slide 4" />
         </div>
     </div>
     
@@ -61,6 +61,6 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
   <h3>SEU <small>Southeast University</small></h3>
 </div>
 
-Southeast University (SEU), located in Nanjing, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "985 Project", "211 Project". In 2017, SEU was ranked on the list of constructing "Class A first-rate world universities".  
+Southeast University (SEU), located in Nanjing, China, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "985 Project", "211 Project". In 2017, SEU was ranked on the list of constructing "Class A first-rate world universities".  
 
 **We are  looking for passionate new M.Sc. students and B.Sc. students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opening) **!**
