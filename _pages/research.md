@@ -65,7 +65,9 @@ This project design theoretically sound solutions for this research goal and bui
 #### Picture
 
 #### Introduction
-UAV-aided Edge computing
+
+Millions of Internet of Thing (IoT) devices have been widely deployed to support applications such as smart city, industrial Internet, and smart transportation. These IoT devices periodically upload their collected data and reconfigure themselves to adapt to the dynamic environment. Both operations are resource consuming for low-end IoT devices. An edge computing enabled unmanned aerial vehicle (UAV) is proposed to fly over to collect data and complete reconfiguration computing tasks from IoT devices. 
+
 
 #### Video
 
@@ -82,7 +84,10 @@ Elsevier Computer Networks (<b>COMNET</b>), vol. 183 (2020): 107577.
 #### Picture
 
 #### Introduction
-Energy saving UAV path planning 
+
+Unmanned aerial vehicles (UAVs) are being widely exploited for various applications, e.g., traverse to collect data from ground sensors, patrol to monitor key facilities, move to aid mobile edge computing. 
+We study the UAV path planning problem aiming at minimizing flight energy consumption, which is critical due to its limited onboard storage capacity.
+A practical speed-related energy consumption model is adopted, that is, the power consumption first decreases and then increases as speed increases.
 
 #### Video
 
@@ -127,9 +132,11 @@ Sensors, vol. 18 no. 9 (2018).
 #### Picture
 
 #### Introduction
-Wireless Energy Harvesting
 
-#### Video
+Energy harvesting is a promising technique to address the energy hunger problem for thousands of wireless devices. 
+In Radio Frequency (RF) energy harvesting systems, a wireless device first harvests energy and then transmits data with this energy, hence the 'harvest-then-transmit' (HTT) principle is widely adopted. 
+We must carefully design the HTT schedule, i.e., schedule the timing between harvesting and transmission, and decide the data transmission power such that the throughput can be maximized or the delay can be minimized.
+
 
 #### Related Research
 0. Feng Shan, Junzhou Luo, Weiwei Wu, and Xiaojun Shen,<br>
@@ -164,14 +171,17 @@ IEEE Journal on Selected Areas in Communications (<b>JSAC</b>), vol. 33, no. 3 (
 [<a href="papers/SLWLS-JSAC15.pdf">PDF</a>]
 
 
-### Indoor swarm applications
+### Swarm intelligence and swarm applications
 
 #### Picture
 
 #### Introduction
-Stage preformance
+
+How to coordinate the collaboration for a swarm of moving things for a specific application is a challenging topic.
+We have made a few attempts. For example, (1) reaching destination while avoiding collisiona, (2) three Crazyflie form a regular triangle with only distance information, and (3) stage preformance.
 
 #### Video
+
 
 
 ## Older research 
@@ -181,7 +191,10 @@ Stage preformance
 #### Picture
 
 #### Introduction
-Wireless Energy Harvesting
+
+More and more Internet of Things (IoT) wireless devices have been providing ubiquitous services over the recent years. 
+Since most of these devices are powered by batteries, a fundamental trade-off to be addressed is the depleted energy and the achieved data throughput in wireless data transmission. 
+By exploiting the rate-adaptive capacities of wireless devices, we design rate-adaptive transmission policies to maximize the amount of transmitted data bits under the energy constraints of devices with deadline constraints.
 
 #### Video
 
