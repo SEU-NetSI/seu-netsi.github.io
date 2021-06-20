@@ -13,9 +13,13 @@ permalink: /research/
 #### Picture
 
 #### Introduction
-Ultra-wideband swarm ranging and locationing
+Ultra-wideband (UWB) wireless technology is becoming widely adopted in everyday life, especially after the IEEE 802.15.4z standard is published in 2020.
+Nowadays, the newest iPhone, and AirTags from Apple, the newest Galaxy, and SmartTag from Samsung, are all supporting UWB.
+In the future, not only mobile devices, but also ground and aerial robots will be equipped UWB capability. 
+This project improves the ranging protocol and the indoor locationing for dynamic and dense swarm of devices and robots.
 
 #### Video
+<a href="https://www.youtube.com/watch?v=hJ8yo2ReBdA">https://www.youtube.com/watch?v=hJ8yo2ReBdA</a>
 
 #### Related Research
 
@@ -30,13 +34,30 @@ IEEE <b>INFOCOM</b> 2021, Virtual Conference, May 10-13, 2021.
 ### Ad hoc networking for robotic swarms
 
 #### Picture
+<a href="https://seu-netsi.net/images/reschpic/adhocnetworking.png">https://seu-netsi.net/images/reschpic/adhocnetworking.png</a>
 
 #### Introduction
-Networking 
+
+Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. 
+It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, and mapping.
+Low lantency ad hoc networking is critical for such applications to ensure wireless communication within such dense and dynamic swarms.
+This project proposes a distance based ad hoc routing protocol based on the existing optimized link state routing protocol.
+
 
 ### Source seeking and tracking
 
-Source Seeking
+#### Picture
+
+#### Introduction
+
+There are various type of sources that needs to be sought or tracked, such as wireless radio sources, thermal source, nuclear radiation source, and gas leakage source. 
+Unmanned aerial vehicles (UAVs) fly quickly and freely in the sky, so they are suitable for source seeking and tracking, especially in a time critical scenario.
+However, the UAV can only sense the source strenght at its current location, how to design a moving strategy such that the source is found in the minimum steps is very challenging.
+This project design theoretically sound solutions for this research goal and build practically working systems.
+
+#### Video
+
+#### Related Research
 
 
 ### UAV-aided edge computing
@@ -142,6 +163,15 @@ IEEE Journal on Selected Areas in Communications (<b>JSAC</b>), vol. 33, no. 3 (
 [<a href="https://dx.doi.org/10.1109/JSAC.2015.2391491">DOI</a>]
 [<a href="papers/SLWLS-JSAC15.pdf">PDF</a>]
 
+
+### Indoor swarm applications
+
+#### Picture
+
+#### Introduction
+Stage preformance
+
+#### Video
 
 
 ## Older research 
