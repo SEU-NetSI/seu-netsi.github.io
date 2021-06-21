@@ -5,6 +5,8 @@ excerpt: "SEU NetSI Research Group at Southeast University."
 sitemap: false
 permalink: /
 ---
+
+<div class="page-container">
 <div class="page-header">
   <h3>NetSI <small>Networking and Swarm Intelligence Research Group</small></h3>
 </div>
@@ -63,4 +65,6 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
 
 Southeast University (SEU), located in Nanjing, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "985 Project", "211 Project". In 2017, SEU was ranked on the list of constructing "Class A first-rate world universities".  
 
-**We are  looking for passionate new M.Sc. students and B.Sc. students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opening) **!**
+**We are  looking for passionate new M.Sc. students and B.Sc. students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/admission) **!**
+
+</div>

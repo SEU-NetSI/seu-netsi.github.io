@@ -1,5 +1,5 @@
 - title: "Ultra-Wideband Swarm Ranging"
-  image: uwbrange.png
+  image: uwbrange.jpg
   description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
   authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, and Weiwei Wu
   year: 2021
@@ -15,6 +15,7 @@
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WyCxrWompnEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwC-cc:AAGBfm0AAAAAYMcH4cfRfD6WwIpc3jTPLy8to_ef89Al&scisig=AAGBfm0AAAAAYMcH4QwZHJS6m1Ut35wKwhsejYjv_Vd8&scisf=4&ct=citation&cd=-1&hl=en
     doi: placeholder
   highlight: 1
+  category: uwbswarmrl
 
 - title: "Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model"
   image: 
@@ -33,10 +34,11 @@
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:0Ycv4jYEta0J:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwC3Ew:AAGBfm0AAAAAYMcHxEyXlhDigak0bHCPqKO3u0fjuTce&scisig=AAGBfm0AAAAAYMcHxGKH1lciMx3jRsT0d_yolUvQRxN2&scisf=4&ct=citation&cd=-1&hl=en
     doi: placeholder
   highlight: 0
+  category: uavpathplan
 
 - title: "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model"
   image: lookingb4xing.png
-  description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling. We focus on speed scheduling by considering straight line flights, with applications in monitoring power transmission lines, roads, water/oil/gas pipes and rivers/coasts.
+  description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling.
   authors: Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li
   year: 2020
   source: 
@@ -51,6 +53,64 @@
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6yDVn09xGLQJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwCsYQ:AAGBfm0AAAAAYMcHqYSwdGuilMqRixz7wti1cR0vx-P5&scisig=AAGBfm0AAAAAYMcHqX3D3A5Y3aK_pAFag0Me8bweUJV9&scisf=4&ct=citation&cd=-1&hl=en
     doi: https://ieeexplore.ieee.org/document/9155376
   highlight: 1
+  category: uavpathplan
+
+- title: "Offspeeding: Optimal energy-efficient flight speed scheduling for UAV-assisted edge computing"
+  image:
+  description:
+  authors: Weidu Ye, Junzhou Luo, Feng Shan, Wenjia Wu, Ming Yang
+  year: 2020
+  source:
+    full: International Conference on Communications and Networking
+    abbr: COMNET
+    detail: "vol. 183 (2020): 107577"
+  link: 
+    paper: https://twinhorse.net/papers/YLSWY-CN20.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:znAi7MwIIv8J:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS1AtE:AAGBfm0AAAAAYM-wGtFDHWkRNolt6kwmob60PfxyAqZR&scisig=AAGBfm0AAAAAYM-wGk1I24fZFaxQ7pSrTbkbhFUo-_Da&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://www.sciencedirect.com/science/article/pii/S1389128620312196?via%3Dihub
+  highlight: 0
+  category: uavedgecomputing
+
+- title: "Energy-efficient Trajectory Planning and Speed Scheduling for UAV-assisted Data Collection"
+  image:
+  description: 
+  authors: Weidu Ye, Wenjia Wu, Feng Shan, Ming Yang, and Junzhou Luo
+  year: 2020
+  source: 
+    full: International Conference on Mobility, Sensing and Networking
+    abbr: MSN
+    detail: Dec 17-19, 2020
+  link: 
+    paper: https://twinhorse.net/papers/YWSYL-MSN21p.pdf
+    code: placeholder
+    slide: https://twinhorse.net/papers/YWSYL-MSN21_slides.pdf
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lLWxtkxmse0J:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS0h3U:AAGBfm0AAAAAYM-xn3UQuhXQig3nnuTAWt-NfXL0SzXm&scisig=AAGBfm0AAAAAYM-xn93FhFBCaPTSEt6p3STbup-O6yVs&scisf=4&ct=citation&cd=-1&hl=en
+    doi: placeholder
+  highlight: 0
+  category: uavpathplan
+    
+- title: "CoUAS: Enable Cooperation for Unmanned Aerial Systems"
+  image:
+  description:
+  authors: Ziyao Huang, Weiwei Wu, Feng Shan, Yuxin Bian, Kejie Lu, Zhenjiang Li, Jianping Wang, and Jin Wang
+  year: 2020
+  source: 
+    full: ACM Transactions on Sensor Networks
+    abbr: TOSN
+    detail: "vol. 16, no. 3 (2020): 24:1-24:19"
+  link:
+    paper: https://twinhorse.net/papers/HWSBLLWW-TOSN20.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Cwxb6-MRxfAJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS3VJ0:AAGBfm0AAAAAYM-yTJ0l19pXOa45_demQUqsNIrYrLaA&scisig=AAGBfm0AAAAAYM-yTJ6avTcS0emotoWtBXdFz_ROk7Cx&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://dl.acm.org/doi/10.1145/3388323
+  highlight: 0
+  category: uavpathplan
 
 - title: "Offloading Delay Constrained Transparent Computing Tasks with Energy-Efficient Transmission Power Scheduling in Wireless IoT Environment"
   image: 
@@ -69,24 +129,45 @@
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:v5FmyQClMgoJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxUjJc:AAGBfm0AAAAAYMdRlJeLLRgs6DCDwzCj_63CmwJNCUvA&scisig=AAGBfm0AAAAAYMdRlLF9uMZt-rJfB9w-lkWDrkA4lQP9&scisf=4&ct=citation&cd=-1&hl=en
     doi: https://ieeexplore.ieee.org/document/8552363
   highlight: 0
+  category: eewirelessnet
 
 - title: "Delay Minimization for Data Transmission in Wireless Power Transfer Systems"
-  image: 
-  description: 
+  image:
+  description:
   authors: Feng Shan, Junzhou Luo, Weiwei Wu, and Xiaojun Shen
   year: 2019
-  source: 
+  source:
     full: IEEE Journal on Selected Areas in Communications
     abbr: JSAC
     detail: "vol. 37, no. 2 (2019): 298-312"
-  link: 
+  link:
     paper: https://twinhorse.net/papers/SLWS-JSAC18.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:zjxYDap3ES4J:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxXnPE:AAGBfm0AAAAAYMdShPEW7cboge5dLeLpLcemW3YO-hKk&scisig=AAGBfm0AAAAAYMdShHH-7b7Y15C_jL-xL4F6vHX0V5XY&scisf=4&ct=citation&cd=-1&hl=en
-    doi: https://ieeexplore.ieee.org/document/8481689
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:zjxYDap3ES4J:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zSx6mo:AAGBfm0AAAAAYM-08mo4pL7FS4VsbGEGvoOS0Za5IuNR&scisig=AAGBfm0AAAAAYM-08sa8KJto23SVW_5TH6VtkGtjjlZ2&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/8481689/
   highlight: 0
+  category: harvestingnet
+
+- title: "DroneTank: Planning UAVs’ Flights and Sensors’ Data Transmission under Energy Constraints"
+  image:
+  description:
+  authors: Runqun Xiong, and Feng Shan
+  year: 2018
+  source:
+    full: Sensors
+    abbr: placeholder
+    detail: vol. 18 no. 9 (2018)
+  link:
+    paper: https://twinhorse.net/papers/XS-Sensors18.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:itb-2pzX1c8J:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS2LyA:AAGBfm0AAAAAYM-zNyB641ngHIy2JzS1dDU98VneuvEr&scisig=AAGBfm0AAAAAYM-zN-TBVtoUTxDisQ_AgxYEuodmZj5C&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://www.mdpi.com/1424-8220/18/9/2913
+  highlight: 0
+  category: uavpathplan
 
 - title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
   image:
@@ -105,3 +186,137 @@
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qENq719T-CEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxQukM:AAGBfm0AAAAAYMdVokNX_tGYikI1kAABJvZ4LXUiPsrl&scisig=AAGBfm0AAAAAYMdVov8s50iqzuc1aXVlJpv8wjz20qHD&scisf=4&ct=citation&cd=-1&hl=en
     doi: https://ieeexplore.ieee.org/document/8481689
   highlight: 0
+  category: 
+
+- title: "On Maximizing the Throughput of Packet Transmission under Energy Constraints"
+  image:
+  description:
+  authors: Weiwei Wu, Guangli Dai, Yan Li, and Feng Shan
+  year: 2018
+  source: 
+    full: Sensors
+    abbr: placeholder
+    detail: "vol. 18 no. 7 (2018)"
+  link:
+    paper: https://twinhorse.net/papers/WDLS-Sensors18.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:QimmF6z8SYwJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS9lmY:AAGBfm0AAAAAYM-4jmbBtwutwj8uNEyy_7SDfCE83kug&scisig=AAGBfm0AAAAAYM-4jqaKTAhHnxvqJD92nZ9EZZnA_yAA&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://www.mdpi.com/1424-8220/18/7/2018
+  highlight: 0
+  category: eewirelessnet
+
+- title: "Optimal Rate Schedules with Data Sharing in Energy Harvesting Communication Systems"
+  image: 
+  description:
+  authors: Weiwei Wu, Huafan Li, Feng Shan, and Yingchao Zhao
+  year: 2017
+  source:
+    full: Sensors
+    abbr: placeholder
+    detail: "vol. 17 no. 12 (2017): 2958"
+  link:
+    paper: https://twinhorse.net/papers/WLSZ-Sensors17.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dbLPg1LSlcUJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zSwkJM:AAGBfm0AAAAAYM-1iJNb24Fqmn-Hj6Ph_T4oFLF_RdAk&scisig=AAGBfm0AAAAAYM-1iPoJR45bg9FTGnrSpisZIwdCrtNl&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://www.mdpi.com/1424-8220/17/12/2958
+  highlight: 0
+  category: harvestingnet
+
+- title: "Online Throughput Maximization for Energy Harvesting Communication Systems with Battery Overflow"
+  image:
+  description:
+  authors: Weiwei Wu, Jianping Wang, Xiumin Wang, Feng Shan, and Junzhou Luo
+  year: 2017
+  source:
+    full: IEEE Transactions on Mobile Computing
+    abbr: TMC
+    detail: "vol. 16, no. 1 (2017): 185-197"
+  link:
+    paper: https://twinhorse.net/papers/WWWSL-TMC17.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:yuOiq6bGZlwJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zSw4ag:AAGBfm0AAAAAYM-1-ahfDWyIt-TT0ZTQ_hOqCWA803GN&scisig=AAGBfm0AAAAAYM-1-Us1vWB6W_iidQlZ6lUkFlJKN7dV&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/7426842
+  highlight: 0
+  category: harvestingnet
+
+- title: "Optimal Wireless Power Transfer Scheduling for Delay Minimization"
+  image: 
+  description:
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, and Xiaojun Shen
+  year: 2016
+  source: 
+    full: IEEE International Conference on Computer Communications
+    abbr: INFOCOM
+    detail: San Francisco, CA, USA, April 10-15, 2016
+  link:
+    paper: https://twinhorse.net/papers/SLWS-INFOCOM16.pdf
+    code: placeholder
+    slide: https://twinhorse.net/papers/SLWS-INFOCOM16_slides.pdf
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GUR4t4Z9CAcJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zSzZwE:AAGBfm0AAAAAYM-2fwGnFqiyyhx2LTggpayRi5nxFphV&scisig=AAGBfm0AAAAAYM-2f-w1DvQ2ccYm4HQUowlUzq9POzXv&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/7524521
+  highlight: 0
+  category: harvestingnet
+
+- title: "Energy-efficient Transmission with Data Sharing in Participatory Sensing Systems"
+  image: 
+  description:
+  authors: Weiwei Wu, Jianping Wang, Minming Li, Kai Liu, Feng Shan, and Junzhou Luo
+  year: 2016
+  source:
+    full: IEEE Journal on Selected Areas in Communications
+    abbr: JSAC
+    detail: "vol. 34, no. 12 (2016): 4048-4062"
+  link:
+    paper: https://twinhorse.net/papers/WWLLSL-JSAC16.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:MAb_3QgkQNgJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS8PDU:AAGBfm0AAAAAYM-5JDVtb98W6l3lKidJjRWtJDaj9-0d&scisig=AAGBfm0AAAAAYM-5JJu9nA-Go7MK7HlIkeeU1WRsrcA-&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/7676345/
+  highlight: 0
+  category: eewirelessnet
+  
+- title: "Discrete Rate Scheduling for Packets with Individual Deadlines in Energy Harvesting Systems"
+  image:
+  description:
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Minming Li, and Xiaojun Shen
+  year: 2015
+  source:
+    full: IEEE Journal on Selected Areas in Communications
+    abbr: JSAC
+    detail: "vol. 33, no. 3 (2015): 438-451"
+  link:
+    paper: https://twinhorse.net/papers/SLWLS-JSAC15.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Q0DMRZJy2c0J:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zSz6x0:AAGBfm0AAAAAYM-28x1rxRkInf9J2KJ5jVJDjPOCZ6md&scisig=AAGBfm0AAAAAYM-283jMeeOS1jzXc3TC_YPBDb_KpOea&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://ieeexplore.ieee.org/document/7010886/
+  highlight: 0
+  category: harvestingnet
+
+- title: "Optimal energy efficient packet scheduling with arbitrary individual deadline guarantee"
+  image:
+  description:
+  authors: Feng Shan, Junzhou Luo, and Xiaojun Shen
+  year: 2014
+  source:
+    full: International Conference on Communications and Networking
+    abbr: COMNET
+    detail: "vol. 75 (2014): 351-366"
+  link: 
+    paper: https://twinhorse.net/papers/SLS-CN14.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wiP4yVY5zToJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS8ue0:AAGBfm0AAAAAYM-5oe2qQkG2Vcy5G4OTMHGsNuKz6pee&scisig=AAGBfm0AAAAAYM-5oZ2M2TLcGFfFKt9WYy3MtXqQTREL&scisf=4&ct=citation&cd=-1&hl=en
+    doi: https://www.sciencedirect.com/science/article/pii/S1389128614003843?via%3Dihub
+  highlight: 0
+  category: eewirelessnet

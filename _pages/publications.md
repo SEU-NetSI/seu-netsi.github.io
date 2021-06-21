@@ -6,6 +6,8 @@ sitemap: false
 permalink: /publication/
 ---
 
+<div class="page-container">
+
 # Publication
 ## Group Highlights
 
@@ -27,6 +29,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
+  <p class="lead">{{ publi.source.abbr }} {{publi.year}}</p>
  </div>
 </div>
 
@@ -45,13 +48,18 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 {% endif %}
 
 ## Full List of Publications
+{% assign thisyear = 0 %}
 
-<div class="pub-full">
 {% for publi in site.data.publist %}
+  {% if thisyear != publi.year%}
+  <h3>{{ publi.year }}</h3>
+  {% endif %}
+  {% assign thisyear = publi.year%}
+
   <div class="well-sm">
   {{ publi.authors }}, {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}{% if publi.link.bibtex != "placeholder" %} <a href="{{ publi.link.bibtex}}" target="_blank"><span class="label label-default pull-right pub-label">Bibtex</span></a>{% endif %}{% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slides</span></a>{% endif %}{% if publi.link.video != "placeholder" %} <a href="{{ publi.link.video}}" target="_blank"><span class="label label-danger pull-right pub-label">Video</span></a>{% endif %}{% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}<br />
   "{{ publi.title }}," <br />
-  {{ publi.source.full }}&nbsp;<b>({{ publi.source.abbr }} {{publi.year}})</b>, {{ publi.source.detail }}.{% if publi.link.doi != "placeholder" %} <a href="{{ publi.link.doi}}" target="_blank"><span class="label label-info pull-right pub-label">DOI</span></a>{% endif %}
+  {{ publi.source.full }}{% if publi.source.abbr != "placeholder" %}&nbsp;<b>({{ publi.source.abbr }} {{publi.year}})</b>{% endif %}, {{ publi.source.detail }}.{% if publi.link.doi != "placeholder" %} <a href="{{ publi.link.doi}}" target="_blank"><span class="label label-info pull-right pub-label">DOI</span></a>{% endif %}
 
   </div>
 {% endfor %}

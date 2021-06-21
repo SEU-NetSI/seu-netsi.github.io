@@ -6,6 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
+<div class="page-container">
+
 # Group Members
 
 Jump to [staff](#staff), [master](#master), [alumni](#alumni).
@@ -226,7 +228,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endfor %}
 </div>
 
-<div class="row" style="margin-bottom: 40px;">
+<div class="row">
 {% for pic in site.data.pics.memberlogo %}
 {% if pic.attr == "company" %}
 <div class="col-sm-2 col-xs-4 clearfix">
@@ -237,4 +239,6 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 {% endfor %}
+</div>
+
 </div>

@@ -6,6 +6,8 @@ sitemap: false
 permalink: /admission
 ---
 
+<div class="page-container">
+
 # Get Involved
 
 We are always looking for new group members with passion, talent, and grit!
@@ -14,3 +16,5 @@ Our research group belongs to the Key Laboratory of Computer Network and Informa
 
 ## 2022 Master
 You can follow the [Notice Page](https://cse.seu.edu.cn/22646/list.htm) of the School of Computer Science and Engineering or email us directly for more information.
+
+</div>

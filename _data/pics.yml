@@ -1,10 +1,22 @@
-flytube:
+ourgroup:
+  - title: 2021_06_16_softwarevalley
+    image: 2021_06_16_softwarevalley.jpg
+  - title: 2021_06_16_ktv
+    image: 2021_06_16_ktv.jpg
   - title: 2021_06_03_icra2021
     image: 2021_06_03_icra2021.jpg
   - title: 2021_01_17_haidilao
     image: 2021_01_17_haidilao.jpg
-  - title: 2020_10_17_fangshan
-    image: 2020_10_17_fangshan.jpg
+  - title: 2020_10_17_fangshan_2
+    image: 2020_10_17_fangshan_2.jpg
+  - title: 2020_10_17_fangshan_1
+    image: 2020_10_17_fangshan_1.jpg
+
+seuview:
+  - title: SEU_2021_05_23_1
+    image: SEU_2021_05_23_1.jpg
+  - title: SEU_2020_09_08_1
+    image: SEU_2020_09_08_1.jpg
 
 memberlogo:
   - title: Peking University
