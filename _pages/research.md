@@ -48,7 +48,7 @@ permalink: /research/
 
  <div class="collapse" id="{{ item.id }}">
  {% if item.video != "placeholder" %}
- <h3>Video</h3>
+ <h3>Video (Youtube)</h3>
  {% for video_item in item.video %}
  <iframe width="560" height="315" src="{{ video_item }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  {% endfor %}
