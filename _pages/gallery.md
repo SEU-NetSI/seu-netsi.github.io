@@ -8,81 +8,56 @@ permalink: /gallery/
 <div class="page-container">
 
 # Gallery
-Record Life, Record Us.<br>
+Jump to [Our Group](#our-group), [Southeast University](#southeast-university). 
+
 
 ## Our Group
-(Right-click *'view image'* to see a larger image)
+Record Life, Record Us.<br>
 {% assign number_printed = 0 %}
+{% assign even_odd = 0 %}
 {% for pic in site.data.pics.ourgroup %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix gallery-pic text-primary">
+<div class="col-sm-6 clearfix gallery-pic text-warning">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" class="img-responsive img-rounded" width="100%" style="float: left" />
 {{ pic.intro }} <br><span class="label label-default">{{ pic.date }}</span>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
-
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
 
 ## Southeast University
-(Right-click *'view image'* to see a larger image)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pics.seuview %}
+The first 3 pictures in the first row are taken in Sipailou Campus (Since 1902), <br> the other pictures in the next rows are taken in Jiulonghu Campus (Since 2006).<br>
+Learn more on Wikipedia, <a href="https://en.wikipedia.org/wiki/Southeast_University" target="_blank">Southeast University</a>, <a href="https://en.wikipedia.org/wiki/Nanjing" target="_blank">Nanjing</a>.
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign number_printed = 0 %}
+{% assign even_odd = 0 %}
+{% for pic in site.data.pics.seuview %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-4 clearfix gallery-pic text-success">
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" class="img-responsive img-rounded"  width="100%" style="float: left" />
+{{ pic.intro }} <br>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
-
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
 
 </div>
