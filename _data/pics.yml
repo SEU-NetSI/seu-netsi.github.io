@@ -33,11 +33,11 @@ ourgroup:
     date: "2021-01-17"
   - id: 2020_10_17_fangshan_2
     image: 2020_10_17_fangshan_2.jpg
-    intro: "Autumn travel at Fang Mountain"
+    intro: "Autumn outing at Fang Mountain"
     date: "2020-10-17"
   - id: 2020_10_17_fangshan_1
     image: 2020_10_17_fangshan_1.jpg
-    intro: "Autumn travel at Fang Mountain"
+    intro: "Autumn outing at Fang Mountain"
     date: "2020-10-17"
 
 seuview:

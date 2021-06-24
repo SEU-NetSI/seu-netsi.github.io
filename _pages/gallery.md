@@ -37,7 +37,6 @@ Record Life, Record Us.<br>
 
 ## Southeast University
 The first 3 pictures in the first row are taken in Sipailou Campus (Since 1902), <br> the other pictures in the next rows are taken in Jiulonghu Campus (Since 2006).<br>
-Learn more on Wikipedia, <a href="https://en.wikipedia.org/wiki/Southeast_University" target="_blank">Southeast University</a>, <a href="https://en.wikipedia.org/wiki/Nanjing" target="_blank">Nanjing</a>.
 
 {% assign number_printed = 0 %}
 {% assign even_odd = 0 %}

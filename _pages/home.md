@@ -64,7 +64,8 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
   <h3>SEU <small>Southeast University</small></h3>
 </div>
 <div class="justify-text">
-Southeast University (SEU), located in Nanjing, China, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "<b>985</b> Project", "<b>211</b> Project". In 2017, SEU was ranked on the list of constructing "<b>Class A</b> first-rate world universities".  
+Southeast University (<b>SEU</b>), located in <b>Nanjing</b>, <b>China</b>, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "<b>985</b> Project", "<b>211</b> Project". In 2017, SEU was ranked on the list of constructing "<b>Class A</b> first-rate world universities".<br> 
+Learn more on Wikipedia: <a href="https://en.wikipedia.org/wiki/Southeast_University" target="_blank">Southeast University</a>, <a href="https://en.wikipedia.org/wiki/Nanjing" target="_blank">Nanjing</a>.
 
 **We are looking for passionate new M.Sc. students and B.Sc. students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/admission) **!**
 </div>
