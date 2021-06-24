@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI - Team"
+title: "Team | SEU NetSI"
 layout: gridlay
-excerpt: "Team"
+excerpt: "Welcome to the SEU NetSI Group! We conducts research in the area of Internet of Things and Swarm Intelligence. Our goal is to provide theoretically sound analysis as well as build practically working systems."
 sitemap: false
 permalink: /team/
 ---
@@ -23,7 +23,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-9 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left" />
   <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.chinese != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
   <i>{{ member.info }}
   <br>Email: <{{ member.email }}>
@@ -67,7 +67,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left" />
   <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.id != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
   <i>{{ member.info }} 
   <br>Email: <{{ member.email }}></i>
@@ -135,7 +135,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left" />
   <h4>{{ member.name }} | {{member.chinese}}</h4>
   <i>{{ member.info }}</i>
   {% if member.id != "placeholder" %}
@@ -220,7 +220,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% if pic.attr == "college" %}
 <div class="col-sm-2 col-xs-4 clearfix">
 <a href="{{ pic.link }}" target="_blank">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
+<img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" width="100%" style="float: left" />
 </a>
 </div>
 {% endif %}
@@ -233,7 +233,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% if pic.attr == "company" %}
 <div class="col-sm-2 col-xs-4 clearfix">
 <a href="{{ pic.link }}" target="_blank">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
+<img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" width="100%" style="float: left" />
 </a>
 </div>
 {% endif %}

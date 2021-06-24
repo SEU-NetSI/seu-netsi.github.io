@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI - Publication"
+title: "Publication | SEU NetSI"
 layout: gridlay
-excerpt: "Publication."
+excerpt: "Welcome to the SEU NetSI Group! We conducts research in the area of Internet of Things and Swarm Intelligence. Our goal is to provide theoretically sound analysis as well as build practically working systems."
 sitemap: false
 permalink: /publication/
 ---
@@ -26,7 +26,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p class="lead">{{ publi.source.abbr }} {{publi.year}}</p>

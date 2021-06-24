@@ -1,7 +1,7 @@
 ---
-title: "SEU NetSI - Research"
+title: "Research | SEU NetSI"
 layout: textlay
-excerpt: "Research"
+excerpt: "Welcome to the SEU NetSI Group! We conducts research in the area of Internet of Things and Swarm Intelligence. Our goal is to provide theoretically sound analysis as well as build practically working systems."
 sitemap: false
 permalink: /research/
 ---
@@ -19,7 +19,7 @@ permalink: /research/
  <div class="panel-body">
   <div class="row clearfix">
    <div class="col-sm-6 ">
-   <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/{{ item.image }}" class="img-thumbnail" />
+   <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/{{ item.image }}" class="img-thumbnail" />
    </div>
 
    <div class="col-sm-6 clearfix research-card-intro">

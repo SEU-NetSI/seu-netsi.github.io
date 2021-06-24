@@ -1,57 +1,85 @@
 ourgroup:
-  - title: 2021_06_16_softwarevalley
+  - id: 2021_06_22_seu_1
+    image: 2021_06_22_seu_1.jpg
+    intro: "Graduation memory 2021"
+    date: "2021-06-22"
+  - id: 2021_06_22_seu_2
+    image: 2021_06_22_seu_2.jpg
+    intro: "Graduation memory 2021"
+    date: "2021-06-22"
+  - id: 2021_06_22_seu_3
+    image: 2021_06_22_seu_3.jpg
+    intro: "Graduation memory 2021"
+    date: "2021-06-22"
+  - id: 2021_06_16_softwarevalley
     image: 2021_06_16_softwarevalley.jpg
-  - title: 2021_06_16_ktv
+    intro: "Group meeting at Nanjing Software Valley"
+    date: "2021-06-16"
+  - id: 2021_06_16_ktv
     image: 2021_06_16_ktv.jpg
-  - title: 2021_06_03_icra2021
-    image: 2021_06_03_icra2021.jpg
-  - title: 2021_01_17_haidilao
+    intro: "Graduation party"
+    date: "2021-06-16"
+  - id: 2021_06_03_icra2021_1
+    image: 2021_06_03_icra2021_1.jpg
+    intro: "ICRA 2021 in Xi'an, China"
+    date: "2021-06-03"
+  - id: 2021_06_03_icra2021_2
+    image: 2021_06_03_icra2021_2.jpg
+    intro: "ICRA 2021 in Xi'an, China"
+    date: "2021-06-03"
+  - id: 2021_01_17_haidilao
     image: 2021_01_17_haidilao.jpg
-  - title: 2020_10_17_fangshan_2
+    intro: "New year dinner at Haidilao Hotpot"
+    date: "2021-01-17"
+  - id: 2020_10_17_fangshan_2
     image: 2020_10_17_fangshan_2.jpg
-  - title: 2020_10_17_fangshan_1
+    intro: "Spring travel at Fang Mountain"
+    date: "2020-10-17"
+  - id: 2020_10_17_fangshan_1
     image: 2020_10_17_fangshan_1.jpg
+    intro: "Spring travel at Fang Mountain"
+    date: "2020-10-17"
 
 seuview:
-  - title: SEU_2021_05_23_1
+  - id: SEU_2021_05_23_1
     image: SEU_2021_05_23_1.jpg
-  - title: SEU_2020_09_08_1
+  - id: SEU_2020_09_08_1
     image: SEU_2020_09_08_1.jpg
 
 memberlogo:
-  - title: Peking University
+  - id: Peking University
     image: pekinguniversity.png
     link: https://english.pku.edu.cn/
     attr: college
-  - title: New York University
+  - id: New York University
     image: newyorkuniversity.jpg
     link: https://www.nyu.edu/
     attr: college
-  - title: University of Copenhagen
+  - id: University of Copenhagen
     image: copenhagenuniversity.png
     link: https://www.ku.dk/
     attr: college
-  - title: Southeast University
+  - id: Southeast University
     image: southeastuniversity.png
     link: https://www.seu.edu.cn/english/main.htm
     attr: college
-  - title: Huawei
+  - id: Huawei
     image: huawei.png
     link: https://www.huawei.com/
     attr: company
-  - title: ByteDance
+  - id: ByteDance
     image: bytedance.png
     link: https://www.bytedance.com/
     attr: company
-  - title: Alibaba
+  - id: Alibaba
     image: alibaba.png
     link: https://www.alibabagroup.com/
     attr: company
-  - title: China Union Pay
+  - id: China Union Pay
     image: chinaunionpay.png
     link: http://www.unionpayintl.com/
     attr: company
-  - title: State Grid
+  - id: State Grid
     image: stategrid.png
     link: http://js.ifeng.com/special/fangtian/
     attr: company
