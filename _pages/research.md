@@ -9,11 +9,19 @@ permalink: /research/
 <div class="page-container">
 
 # Research
+{% for item in site.data.research %}
+<p style="display: inline; font-size: 18px"><a href="#{{ item.id }}"><span class="label label-info">{{ item.topic }}</span></a></p>
+{% endfor %}
+
 <div class="research-list">
 {% for item in site.data.research %}
 <div class="panel panel-{{ item.color }}">
  <div class="panel-heading">
-  <h3 class="panel-title">{{ item.topic }}</h3>
+  <h3 class="panel-title">
+   <span id="{{ item.id }}" class="title_placeholder">
+    {{ item.topic }}
+   </span>
+  </h3>
  </div>
  
  <div class="panel-body">
