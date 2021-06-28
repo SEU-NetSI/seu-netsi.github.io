@@ -12,14 +12,15 @@ permalink: /team/
 
 Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 
-## Staff
+<div class="title_placeholder" id="staff"></div>
+<h2>Staff</h2>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row" style="margin-bottom: 0;">
 {% endif %}
 
 <div class="col-sm-9 clearfix">
@@ -56,7 +57,8 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 
-## Master
+<div class="title_placeholder" id="master"></div>
+<h2>Master</h2>
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -123,7 +125,8 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
 {% endif %}
 
 
-## Alumni
+<div class="title_placeholder" id="alumni"></div>
+<h2>Alumni</h2>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}

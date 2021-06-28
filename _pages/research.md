@@ -10,7 +10,7 @@ permalink: /research/
 
 # Research
 {% for item in site.data.research %}
-<p style="display: inline; font-size: 18px"><a href="#{{ item.id }}"><span class="label label-info">{{ item.topic }}</span></a></p>
+<p style="display: inline; font-size: 18px"><a href="#{{ item.id }}-title"><span class="label label-info">{{ item.topic }}</span></a></p>
 {% endfor %}
 
 <div class="research-list">
@@ -18,7 +18,7 @@ permalink: /research/
 <div class="panel panel-{{ item.color }}">
  <div class="panel-heading">
   <h3 class="panel-title">
-   <span id="{{ item.id }}" class="title_placeholder">
+   <span id="{{ item.id }}-title" class="title_placeholder">
     {{ item.topic }}
    </span>
   </h3>
@@ -42,11 +42,11 @@ permalink: /research/
    {% endfor %}
 
    {% if has_related == 1 %}
-   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ item.id }}" aria-expanded="false" aria-controls="collapseExample">
+   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ item.id }}-collapse" aria-expanded="false" aria-controls="collapseExample">
    See More
    </button>
    {% elsif item.video != "placeholder" %}
-   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ item.id }}" aria-expanded="false" aria-controls="collapseExample">
+   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ item.id }}-collapse" aria-expanded="false" aria-controls="collapseExample">
    See More
    </button>
    {% endif %}
@@ -54,7 +54,7 @@ permalink: /research/
    </div>
   </div>
 
- <div class="collapse" id="{{ item.id }}">
+ <div class="collapse" id="{{ item.id }}-collapse">
  {% if item.video != "placeholder" %}
  <h3>Video (YouTube)</h3>
  {% for video_item in item.video %}

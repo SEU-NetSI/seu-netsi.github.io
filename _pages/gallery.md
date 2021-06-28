@@ -8,10 +8,10 @@ permalink: /gallery/
 <div class="page-container">
 
 # Gallery
-Jump to [Our Group](#our-group), [Southeast University](#southeast-university). 
+<p>Jump to <a href="#our-group">Our Group</a>, <a href="#southeast-university">Southeast University</a>.</p>
 
-
-## Our Group
+<div class="title_placeholder" id="our-group"></div>
+<h2>Our Group</h2>
 Record Life, Record Us.<br>
 {% assign number_printed = 0 %}
 {% assign even_odd = 0 %}
@@ -35,7 +35,8 @@ Record Life, Record Us.<br>
 {% endfor %}
 
 
-## Southeast University
+<div class="title_placeholder" id="southeast-university"></div>
+<h2>Southeast University</h2>
 The first 3 pictures in the first row are taken in Sipailou Campus (Since 1902), <br> the other pictures in the next rows are taken in Jiulonghu Campus (Since 2006).<br>
 
 {% assign number_printed = 0 %}
