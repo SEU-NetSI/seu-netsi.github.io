@@ -4,8 +4,7 @@
   color: primary
   introduction: Ultra-wideband (UWB) wireless technology is becoming widely adopted in everyday life, especially after the IEEE 802.15.4z standard is published in 2020. Nowadays, the newest iPhone, and AirTags from Apple, the newest Galaxy, and SmartTag from Samsung, are all supporting UWB. In the future, not only mobile devices, but also ground and aerial robots will be equipped UWB capability. This project improves the ranging protocol and the indoor locationing for dynamic and dense swarm of devices and robots.
   video: 
-    - https://www.youtube.com/embed/hJ8yo2ReBdA
-    
+    - uwbswarmranging.mp4
   
 - topic: "Ad hoc networking for robotic swarms"
   id: adhocnetworkingrs
