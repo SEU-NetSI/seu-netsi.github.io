@@ -10,5 +10,8 @@ permalink: /aboutwebsite.html
 
 This website template is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com), worked by the [Allen Lab](https://www.allanlab.org/).
 
-{% video { site.url }{ site.baseurl }/images/researchvideo/Introduction_to_Jekyll.mp4 %}
+<video controls>
+    <source src="images/researchvideo/Introduction_to_Jekyll.m4v" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
