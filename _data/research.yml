@@ -11,14 +11,17 @@
   image: adhocnetworkingrs.jpg
   color: primary
   introduction: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, and mapping. Low lantency ad hoc networking is critical for such applications to ensure wireless communication within such dense and dynamic swarms. This project proposes a distance based ad hoc routing protocol based on the existing optimized link state routing protocol.
-  video: placeholder
+  video: 
+    - 4GLTEnOLSR.mp4
 
 - topic: "Source seeking and tracking"
   id: sourcest
   image: sourcest.png
   color: primary
   introduction: There are various type of sources that needs to be sought or tracked, such as wireless radio sources, thermal source, nuclear radiation source, and gas leakage source. Unmanned aerial vehicles (UAVs) fly quickly and freely in the sky, so they are suitable for source seeking and tracking, especially in a time critical scenario. However, the UAV can only sense the source strenght at its current location, how to design a moving strategy such that the source is found in the minimum steps is very challenging. This project design theoretically sound solutions for this research goal and build practically working systems.
-  video: placeholder
+  video: 
+    - wifisourceseeking.m4v
+
 
 - topic: "UAV-aided edge computing"
   id: uavedgecomputing
@@ -46,7 +49,8 @@
   image: indoorswarm.jpg
   color: primary
   introduction: How to coordinate the collaboration for a swarm of moving things for a specific application is a challenging topic. We have made a few attempts. For example, (1) reaching destination while avoiding collisiona, (2) three Crazyflie form a regular triangle with only distance information, and (3) stage preformance.
-  video: placeholder
+  video: 
+    - stage60ann.mp4
 
 - topic: "「Older research」Energy efficient wireless networking"
   id: eewirelessnet
