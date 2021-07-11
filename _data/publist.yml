@@ -8,9 +8,9 @@
     abbr: INFOCOM
     detail: Virtual Conference, May 10-13, 2021
   link:
-    paper: https://twinhorse.net/papers/SZLLW-INFOCOM21p.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SZLLW-INFOCOM21p.pdf
     code: https://github.com/SEU-NetSI/crazyflie-firmware
-    slide: https://twinhorse.net/papers/SZLLW-INFOCOM21_slides.pdf
+    slide: https://fengshan.seu-netsi.net/papers/SZLLW-INFOCOM21_slides.pdf
     video: https://www.youtube.com/watch?v=hJ8yo2ReBdA&t=1s
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:WyCxrWompnEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwC-cc:AAGBfm0AAAAAYMcH4cfRfD6WwIpc3jTPLy8to_ef89Al&scisig=AAGBfm0AAAAAYMcH4QwZHJS6m1Ut35wKwhsejYjv_Vd8&scisf=4&ct=citation&cd=-1&hl=en
     doi: placeholder
@@ -27,7 +27,7 @@
     abbr: ICCCN
     detail: Athens, Greece, July 19-22, 2021
   link:
-    paper: https://twinhorse.net/papers/HSXSL-ICCCN21p.pdf
+    paper: https://fengshan.seu-netsi.net/papers/HSXSL-ICCCN21p.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -46,9 +46,9 @@
     abbr: INFOCOM
     detail: Virtual Conference, July 6-9, 2020
   link: 
-    paper: https://twinhorse.net/papers/SLXWL-INFOCOM20p.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20p.pdf
     code: placeholder
-    slide: https://twinhorse.net/papers/SLXWL-INFOCOM20_slides.pdf
+    slide: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20_slides.pdf
     video: placeholder
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6yDVn09xGLQJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zwCsYQ:AAGBfm0AAAAAYMcHqYSwdGuilMqRixz7wti1cR0vx-P5&scisig=AAGBfm0AAAAAYMcHqX3D3A5Y3aK_pAFag0Me8bweUJV9&scisf=4&ct=citation&cd=-1&hl=en
     doi: https://ieeexplore.ieee.org/document/9155376
@@ -65,7 +65,7 @@
     abbr: COMNET
     detail: "vol. 183 (2020): 107577"
   link: 
-    paper: https://twinhorse.net/papers/YLSWY-CN20.pdf
+    paper: https://fengshan.seu-netsi.net/papers/YLSWY-CN20.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -84,9 +84,9 @@
     abbr: MSN
     detail: Dec 17-19, 2020
   link: 
-    paper: https://twinhorse.net/papers/YWSYL-MSN21p.pdf
+    paper: https://fengshan.seu-netsi.net/papers/YWSYL-MSN21p.pdf
     code: placeholder
-    slide: https://twinhorse.net/papers/YWSYL-MSN21_slides.pdf
+    slide: https://fengshan.seu-netsi.net/papers/YWSYL-MSN21_slides.pdf
     video: placeholder
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lLWxtkxmse0J:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zS0h3U:AAGBfm0AAAAAYM-xn3UQuhXQig3nnuTAWt-NfXL0SzXm&scisig=AAGBfm0AAAAAYM-xn93FhFBCaPTSEt6p3STbup-O6yVs&scisf=4&ct=citation&cd=-1&hl=en
     doi: placeholder
@@ -103,7 +103,7 @@
     abbr: TOSN
     detail: "vol. 16, no. 3 (2020): 24:1-24:19"
   link:
-    paper: https://twinhorse.net/papers/HWSBLLWW-TOSN20.pdf
+    paper: https://fengshan.seu-netsi.net/papers/HWSBLLWW-TOSN20.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -122,7 +122,7 @@
     abbr: IoT-J
     detail: "vol. 6, no. 3 (2019): 4411-4422"
   link: 
-    paper: https://twinhorse.net/papers/SLJW-IOTJ19.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SLJW-IOTJ19.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -141,7 +141,7 @@
     abbr: JSAC
     detail: "vol. 37, no. 2 (2019): 298-312"
   link:
-    paper: https://twinhorse.net/papers/SLWS-JSAC18.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SLWS-JSAC18.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -160,7 +160,7 @@
     abbr: placeholder
     detail: vol. 18 no. 9 (2018)
   link:
-    paper: https://twinhorse.net/papers/XS-Sensors18.pdf
+    paper: https://fengshan.seu-netsi.net/papers/XS-Sensors18.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -198,7 +198,7 @@
     abbr: placeholder
     detail: "vol. 18 no. 7 (2018)"
   link:
-    paper: https://twinhorse.net/papers/WDLS-Sensors18.pdf
+    paper: https://fengshan.seu-netsi.net/papers/WDLS-Sensors18.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -217,7 +217,7 @@
     abbr: placeholder
     detail: "vol. 17 no. 12 (2017): 2958"
   link:
-    paper: https://twinhorse.net/papers/WLSZ-Sensors17.pdf
+    paper: https://fengshan.seu-netsi.net/papers/WLSZ-Sensors17.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -236,7 +236,7 @@
     abbr: TMC
     detail: "vol. 16, no. 1 (2017): 185-197"
   link:
-    paper: https://twinhorse.net/papers/WWWSL-TMC17.pdf
+    paper: https://fengshan.seu-netsi.net/papers/WWWSL-TMC17.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -255,9 +255,9 @@
     abbr: INFOCOM
     detail: San Francisco, CA, USA, April 10-15, 2016
   link:
-    paper: https://twinhorse.net/papers/SLWS-INFOCOM16.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SLWS-INFOCOM16.pdf
     code: placeholder
-    slide: https://twinhorse.net/papers/SLWS-INFOCOM16_slides.pdf
+    slide: https://fengshan.seu-netsi.net/papers/SLWS-INFOCOM16_slides.pdf
     video: placeholder
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GUR4t4Z9CAcJ:scholar.google.com/&output=citation&scisdr=CgXAStjmEPjK2zSzZwE:AAGBfm0AAAAAYM-2fwGnFqiyyhx2LTggpayRi5nxFphV&scisig=AAGBfm0AAAAAYM-2f-w1DvQ2ccYm4HQUowlUzq9POzXv&scisf=4&ct=citation&cd=-1&hl=en
     doi: https://ieeexplore.ieee.org/document/7524521
@@ -274,7 +274,7 @@
     abbr: JSAC
     detail: "vol. 34, no. 12 (2016): 4048-4062"
   link:
-    paper: https://twinhorse.net/papers/WWLLSL-JSAC16.pdf
+    paper: https://fengshan.seu-netsi.net/papers/WWLLSL-JSAC16.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -293,7 +293,7 @@
     abbr: JSAC
     detail: "vol. 33, no. 3 (2015): 438-451"
   link:
-    paper: https://twinhorse.net/papers/SLWLS-JSAC15.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SLWLS-JSAC15.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
@@ -312,7 +312,7 @@
     abbr: COMNET
     detail: "vol. 75 (2014): 351-366"
   link: 
-    paper: https://twinhorse.net/papers/SLS-CN14.pdf
+    paper: https://fengshan.seu-netsi.net/papers/SLS-CN14.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
