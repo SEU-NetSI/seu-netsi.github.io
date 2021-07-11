@@ -3,7 +3,7 @@
   id: adhocnetworkingrs
   image: swarmnetworking.png
   color: primary
-  introduction: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, and mapping. Low lantency ad hoc networking is critical for such applications to ensure wireless communication within such dense and dynamic swarms. This project proposes a distance based ad hoc routing protocol based on the existing optimized link state routing protocol.
+  introduction: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, and mapping. Low lantency ad hoc networking is critical for such applications to ensure wireless communication within such dense and dynamic swarms. This project proposes specifically designed ad hoc routing protocols for dense and dynamic swarms based on the existing optimized link state routing protocol.
   video: 
     - 4GLTEnOLSR.mp4
 
@@ -11,7 +11,7 @@
   id: uwbswarmrl
   image: uwbpositioning.png
   color: primary
-  introduction: Ultra-wideband (UWB) wireless technology is becoming widely adopted in everyday life, especially after the IEEE 802.15.4z standard is published in 2020. Nowadays, the newest iPhone, and AirTags from Apple, the newest Galaxy, and SmartTag from Samsung, are all supporting UWB. In the future, not only mobile devices, but also ground and aerial robots will be equipped UWB capability. This project improves the ranging protocol and the indoor locationing for dynamic and dense swarm of devices and robots.
+  introduction: Ultra-wideband (UWB) wireless technology is becoming widely adopted in everyday life, especially after the IEEE 802.15.4z standard was published in 2020. Nowadays, the newest iPhone, and AirTags from Apple, the newest Galaxy, and SmartTag from Samsung, are all supporting UWB. In the future, not only mobile devices, but also ground and aerial robots will be equipped UWB capability. This project improves the ranging protocol and the indoor positioning for dynamic and dense swarm of devices and robots.
   video: 
     - uwbswarmranging.mp4
 
@@ -19,7 +19,7 @@
   id: uavpathplan
   image: uavpathplan.png
   color: primary
-  introduction: Unmanned aerial vehicles (UAVs) are being widely exploited for various applications, e.g., traverse to collect data from ground sensors, patrol to monitor key facilities, move to aid mobile edge computing. We study the UAV path planning problem aiming at minimizing flight energy consumption, which is critical due to its limited onboard storage capacity. A practical speed-related energy consumption model is adopted, that is, the power consumption first decreases and then increases as speed increases.
+  introduction: Collision avoidance is one of the essential needs of dynamic and dense robotic and device swarms. Moreover, Unmanned aerial vehicles (UAVs) are being widely exploited for various applications, e.g., traverse to collect data from ground sensors, patrol to monitor key facilities, move to aid mobile edge computing. We study the UAV path planning problem aiming at minimizing flight energy consumption, which is critical due to its limited onboard storage capacity. A practical speed-related energy consumption model is adopted, that is, the power consumption first decreases and then increases as speed increases.
   video: 
     - swarmrecharge.mp4
 
