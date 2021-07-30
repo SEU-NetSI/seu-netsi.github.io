@@ -169,24 +169,24 @@
   highlight: 0
   category: uavpathplan
 
-- title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
-  image:
-  description:
-  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, and Xiaojun Shen
-  year: 2018
-  source:
-    full: IEEE Transactions on Industrial Informatics
-    abbr: TII
-    detail: "vol. 14, no 6 (2018): 2560-2569"
-  link: 
-    paper: placeholder
-    code: placeholder
-    slide: placeholder
-    video: placeholder
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qENq719T-CEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxQukM:AAGBfm0AAAAAYMdVokNX_tGYikI1kAABJvZ4LXUiPsrl&scisig=AAGBfm0AAAAAYMdVov8s50iqzuc1aXVlJpv8wjz20qHD&scisf=4&ct=citation&cd=-1&hl=en
-    doi: https://ieeexplore.ieee.org/document/8481689
-  highlight: 0
-  category: 
+#- title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
+#  image:
+#  description:
+#  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, and Xiaojun Shen
+#  year: 2018
+#  source:
+#    full: IEEE Transactions on Industrial Informatics
+#    abbr: TII
+#    detail: "vol. 14, no 6 (2018): 2560-2569"
+#  link: 
+#    paper: placeholder
+#    code: placeholder
+#    slide: placeholder
+#    video: placeholder
+#    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:qENq719T-CEJ:scholar.google.com/&output=citation&scisdr=CgWAP6jTEPjK2zxQukM:AAGBfm0AAAAAYMdVokNX_tGYikI1kAABJvZ4LXUiPsrl&scisig=AAGBfm0AAAAAYMdVov8s50iqzuc1aXVlJpv8wjz20qHD&scisf=4&ct=citation&cd=-1&hl=en
+#    doi: https://ieeexplore.ieee.org/document/8481689
+#  highlight: 0
+#  category: 
 
 - title: "On Maximizing the Throughput of Packet Transmission under Energy Constraints"
   image:
