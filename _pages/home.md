@@ -24,7 +24,7 @@ NetSI group conducts research in the area of <b>Internet of Things and Swarm Int
 More specially, the focus is on the wireless networking for a swarm of moving things and study how to coordinate their collaboration.
 NetSI group research goal is to provide theoretically sound analysis as well as build practically working systems.
 </div>
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide home-carousel" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -64,8 +64,14 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
   <h3>SEU <small>Southeast University</small></h3>
 </div>
 <div class="justify-text">
-Southeast University (<b>SEU</b>), located in <b>Nanjing</b>, <b>China</b>, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National "<b>985</b> Project", "<b>211</b> Project". In 2017, SEU was ranked on the list of constructing "<b>Class A</b> first-rate world universities".<br> 
-Learn more on Wikipedia: <a href="https://en.wikipedia.org/wiki/Southeast_University" target="_blank">Southeast University</a>, <a href="https://en.wikipedia.org/wiki/Nanjing" target="_blank">Nanjing</a>.
+Southeast University (SEU), located in <b>Nanjing</b>, <b>China</b>, the ancient capital city of six dynasties, is a prestigious institution of higher learning renowned both at home and abroad. As one of the national key universities directly subordinate to the Ministry of Education of China and jointly established with Jiangsu Province, it is also listed as one of the universities involved in National <em>"985 Project"</em>, <em>"211 Project"</em>.
 
-**We are looking for passionate new M.Sc. students and B.Sc. students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/admission) **!**
+In 2017, SEU was ranked on the list of constructing <em>"Class A First-rate World Universities"</em>, and the discipline of "Computer Science and Technology" was successfully selected as the national <em>"Double First-class Construction Discipline"</em>.
+
+<blockquote>
+<p style="font-size: 16px;">
+Learn more on Wikipedia: <a href="https://en.wikipedia.org/wiki/Southeast_University" target="_blank">Southeast University</a>, <a href="https://en.wikipedia.org/wiki/Nanjing" target="_blank">Nanjing</a>. <br>
+<strong>We are looking for passionate new M.Sc. students and B.Sc. students to <a href="{{ site.url }}{{ site.baseurl }}/admission">join us</a>!</strong>
+</p>
+</blockquote>
 </div>
