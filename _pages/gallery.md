@@ -34,7 +34,6 @@ Record Life, Record Us.<br>
 
 {% endfor %}
 
-
 <div class="title_placeholder" id="southeast-university"></div>
 <h2>Southeast University</h2>
 The first 3 pictures in the first row are taken in Sipailou Campus (Since 1902), <br> the other pictures in the next rows are taken in Jiulonghu Campus (Since 2006).<br>

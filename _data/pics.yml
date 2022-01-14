@@ -1,8 +1,12 @@
 ourgroup:
-  - id: 2021_06_22_seu_1
-    image: 2021_06_22_seu_1.jpg
-    intro: "Graduation memory 2021"
-    date: "2021-06-22"
+  - id: 2022_01_14_caojiawei
+    image: 2022_01_14_caojiawei.jpg
+    intro: "2021 Year-end dinner"
+    date: "2022-01-14"
+  # - id: 2021_06_22_seu_1
+  #   image: 2021_06_22_seu_1.jpg
+  #   intro: "Graduation memory 2021"
+  #   date: "2021-06-22"
   - id: 2021_06_22_seu_2
     image: 2021_06_22_seu_2.jpg
     intro: "Graduation memory 2021"
@@ -17,7 +21,7 @@ ourgroup:
     date: "2021-06-16"
   - id: 2021_06_16_ktv
     image: 2021_06_16_ktv.jpg
-    intro: "Party at Karaoke"
+    intro: "Party at karaoke"
     date: "2021-06-16"
   - id: 2021_06_03_icra2021_1
     image: 2021_06_03_icra2021_1.jpg
@@ -29,7 +33,7 @@ ourgroup:
     date: "2021-06-03"
   - id: 2021_01_17_haidilao
     image: 2021_01_17_haidilao.jpg
-    intro: "New year dinner at Haidilao Hotpot"
+    intro: "2020 Year-end dinner"
     date: "2021-01-17"
   - id: 2020_10_17_fangshan_2
     image: 2020_10_17_fangshan_2.jpg
