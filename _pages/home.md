@@ -31,10 +31,14 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/devswarms.jpeg" alt="Slide 0" />
+        </div>
+        <div class="item">
             <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide4.png" alt="Slide 1" />
         </div>
         <div class="item">
