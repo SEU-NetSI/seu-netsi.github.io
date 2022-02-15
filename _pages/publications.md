@@ -32,7 +32,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
   <p style="font-weight: bold"><a href="{{ publi.highlight.link }}" target="_blank">{{ publi.highlight.source }}</a>
 
 {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}
-{% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slides</span></a>{% endif %}
+{% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slide</span></a>{% endif %}
 {% if publi.link.video != "placeholder" %} <a href="{{ publi.link.video}}" target="_blank"><span class="label label-danger pull-right pub-label">Video</span></a>{% endif %}
 {% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}
 </p>
@@ -63,7 +63,7 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
   {% assign thisyear = publi.year%}
 
   <div class="well-sm">
-  {{ publi.authors }}, {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}{% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slides</span></a>{% endif %}{% if publi.link.video != "placeholder" %} <a href="{{ publi.link.video}}" target="_blank"><span class="label label-danger pull-right pub-label">Video</span></a>{% endif %}{% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}<br />
+  {{ publi.authors }}, {% if publi.link.paper != "placeholder" %} <a href="{{ publi.link.paper}}" target="_blank"><span class="label label-success pull-right pub-label">Paper</span></a>{% endif %}{% if publi.link.slide != "placeholder" %} <a href="{{ publi.link.slide}}" target="_blank"><span class="label label-warning pull-right pub-label">Slide</span></a>{% endif %}{% if publi.link.video != "placeholder" %} <a href="{{ publi.link.video}}" target="_blank"><span class="label label-danger pull-right pub-label">Video</span></a>{% endif %}{% if publi.link.code != "placeholder" %} <a href="{{ publi.link.code}}" target="_blank"><span class="label label-primary pull-right pub-label">Code</span></a>{% endif %}<br />
   "{{ publi.title }}," <br />
   {{ publi.source.full }}{% if publi.source.abbr != "placeholder" %}&nbsp;<b>({{ publi.source.abbr }} {{publi.year}})</b>{% endif %}, {{ publi.source.detail }}.{% if publi.link.bibtex != "placeholder" %} <a role="button" data-toggle="collapse" href="#{{ publi.id }}"><span class="label label-default pull-right pub-label">Bibtex</span></a>{% endif %}{% if publi.link.doi != "placeholder" %} <a href="{{ publi.link.doi}}" target="_blank"><span class="label label-info pull-right pub-label">DOI</span></a>{% endif %}
 
