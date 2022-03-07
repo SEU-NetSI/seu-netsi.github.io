@@ -36,7 +36,7 @@ NetSI group research goal is to provide theoretically sound analysis as well as 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/devswarms.jpeg" alt="Slide 0" />
+            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/devswarm.png" alt="Slide 0" />
         </div>
         <div class="item">
             <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide4.png" alt="Slide 1" />
