@@ -12,15 +12,19 @@
     paper: https://fengshan.seu-netsi.net/papers/SZLLW-INFOCOM21p.pdf
     code: https://github.com/SEU-NetSI/crazyflie-firmware
     slide: https://fengshan.seu-netsi.net/papers/SZLLW-INFOCOM21_slides.pdf
-    video: https://www.youtube.com/watch?v=hJ8yo2ReBdA&t=1s
-    doi: placeholder
+    video: https://www.youtube.com/watch?v=jT3mPQvHadM
+    doi: https://ieeexplore.ieee.org/abstract/document/9488717
   highlight: 
     attr: 1
     source: IEEE INFOCOM 2021
     link: https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference
-  bibtex: "@article{shanultra,
+  bibtex: "@inproceedings{shan2021ultra,
   title={Ultra-Wideband Swarm Ranging},
-  author={Shan, Feng and Zeng, Jiaxin and Li, Zengbao and Luo, Junzhou and Wu, Weiwei}
+  author={Shan, Feng and Zeng, Jiaxin and Li, Zengbao and Luo, Junzhou and Wu, Weiwei},
+  booktitle={IEEE INFOCOM 2021-IEEE Conference on Computer Communications},
+  pages={1--10},
+  year={2021},
+  organization={IEEE}
 }"
   category: uwbswarmrl
 
@@ -39,12 +43,16 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://ieeexplore.ieee.org/abstract/document/9522183
   highlight: 
     attr: 0
-  bibtex: "@article{huangenergy,
+  bibtex: "@inproceedings{huang2021energy,
   title={Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model},
-  author={Huang, Jianping and Shan, Feng and Xiong, Runqun and Shao, Yuchao and Luo, Junzhou}
+  author={Huang, Jianping and Shan, Feng and Xiong, Runqun and Shao, Yuchao and Luo, Junzhou},
+  booktitle={2021 International Conference on Computer Communications and Networks (ICCCN)},
+  pages={1--10},
+  year={2021},
+  organization={IEEE}
 }"
   category: uavpathplan
 
@@ -122,7 +130,7 @@
     code: placeholder
     slide: https://fengshan.seu-netsi.net/papers/YWSYL-MSN21_slides.pdf
     video: placeholder
-    doi: placeholder
+    doi: https://ieeexplore.ieee.org/abstract/document/9394281
   highlight: 
     attr: 0
   bibtex: "@inproceedings{ye2020energy,
