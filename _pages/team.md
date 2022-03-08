@@ -28,7 +28,7 @@ Jump to [staff](#staff), [master](#master), [alumni](#alumni).
   <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.chinese != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
   <i>{{ member.info }}
   <br>Email: <{{ member.email }}>
-  <br>Tel: {{ member.tel }}
+  <br>Website: <a href="{{member.link}}" target="_blank">{{ member.link }}</a>
   <br>Room: {{ member.office }}</i>
 
   {% if member.id != "placeholder" %}
