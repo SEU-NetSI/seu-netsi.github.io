@@ -24,33 +24,34 @@ NetSI group conducts research in the area of <b>Internet of Things and Swarm Int
 More specially, the focus is on the wireless networking for a swarm of moving things and study how to coordinate their collaboration.
 NetSI group research goal is to provide theoretically sound analysis as well as build practically working systems.
 </div>
+
 <div markdown="0" id="carousel" class="carousel slide home-carousel" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-    </ol>
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/devswarm.png" alt="Slide 0" />
-        </div>
-        <div class="item">
-            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide4.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide1.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide2.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/slide3.png" alt="Slide 4" />
-        </div>
-    </div>
+  <!-- Menu -->
+  <ol class="carousel-indicators">
+      <li data-target="#carousel" data-slide-to="0" class="active"></li>
+      <li data-target="#carousel" data-slide-to="1"></li>
+      <li data-target="#carousel" data-slide-to="2"></li>
+      <li data-target="#carousel" data-slide-to="3"></li>
+      <li data-target="#carousel" data-slide-to="4"></li>
+  </ol>
+  <!-- Items -->
+  <div class="carousel-inner" markdown="0">
+      <div class="item active">
+          <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/1-devSwarm.png" alt="Slide 0" />
+      </div>
+      <div class="item">
+          <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/2-sourceTracking.png" alt="Slide 1" />
+      </div>
+      <div class="item">
+          <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/3-uwbRanging.png" alt="Slide 2" />
+      </div>
+      <div class="item">
+          <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/4-speedScheduling.png" alt="Slide 3" />
+      </div>
+      <div class="item">
+          <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/5-lookingB4.png" alt="Slide 4" />
+      </div>
+  </div>
     
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
