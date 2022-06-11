@@ -26,8 +26,8 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
+  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.highlight.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.highlight.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p style="font-weight: bold"><a href="{{ publi.highlight.link }}" target="_blank">{{ publi.highlight.source }}</a>
 

@@ -1,8 +1,6 @@
 - title: "Ultra-Wideband Swarm Ranging"
   id: shan2021ultra
-  image: uwbrange.jpg
-  description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
-  authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, and Weiwei Wu
+  authors: Feng Shan, Jiaxin Zeng, Zengbao Li, Junzhou Luo, Weiwei Wu
   year: 2021
   source: 
     full: IEEE International Conference on Computer Communications
@@ -16,6 +14,8 @@
     doi: https://ieeexplore.ieee.org/abstract/document/9488717
   highlight: 
     attr: 1
+    image: uwbrange.jpg
+    description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
     source: IEEE INFOCOM 2021
     link: https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference
   bibtex: "@inproceedings{shan2021ultra,
@@ -30,9 +30,7 @@
 
 - title: "Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model"
   id: huang2021energy
-  image: 
-  description:
-  authors: Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, and Junzhou Luo
+  authors: Jianping Huang, Feng Shan, Runqun Xiong, Yuchao Shao, Junzhou Luo
   year: 2021
   source: 
     full: IEEE International Conference on Computer Communications and Networks
@@ -58,8 +56,6 @@
 
 - title: "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model"
   id: shan2020looking
-  image: lookingb4xing.png
-  description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling.
   authors: Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li
   year: 2020
   source: 
@@ -74,6 +70,8 @@
     doi: https://ieeexplore.ieee.org/document/9155376
   highlight: 
     attr: 1
+    image: lookingb4xing.png
+    description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling.
     source: IEEE INFOCOM 2020
     link: https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference
   bibtex: "@inproceedings{shan2020looking,
@@ -88,8 +86,6 @@
 
 - title: "Offspeeding: Optimal energy-efficient flight speed scheduling for UAV-assisted edge computing"
   id: ye2020offspeeding
-  image:
-  description:
   authors: Weidu Ye, Junzhou Luo, Feng Shan, Wenjia Wu, Ming Yang
   year: 2020
   source:
@@ -117,9 +113,7 @@
 
 - title: "Energy-efficient Trajectory Planning and Speed Scheduling for UAV-assisted Data Collection"
   id: ye2020energy
-  image:
-  description: 
-  authors: Weidu Ye, Wenjia Wu, Feng Shan, Ming Yang, and Junzhou Luo
+  authors: Weidu Ye, Wenjia Wu, Feng Shan, Ming Yang, Junzhou Luo
   year: 2020
   source: 
     full: International Conference on Mobility, Sensing and Networking
@@ -145,9 +139,7 @@
     
 - title: "CoUAS: Enable Cooperation for Unmanned Aerial Systems"
   id: huang2020couas
-  image:
-  description:
-  authors: Ziyao Huang, Weiwei Wu, Feng Shan, Yuxin Bian, Kejie Lu, Zhenjiang Li, Jianping Wang, and Jin Wang
+  authors: Ziyao Huang, Weiwei Wu, Feng Shan, Yuxin Bian, Kejie Lu, Zhenjiang Li, Jianping Wang, Jin Wang
   year: 2020
   source: 
     full: ACM Transactions on Sensor Networks
@@ -175,9 +167,7 @@
 
 - title: "Offloading Delay Constrained Transparent Computing Tasks with Energy-Efficient Transmission Power Scheduling in Wireless IoT Environment"
   id: shan2018offloading
-  image: 
-  description: 
-  authors: Feng Shan, Junzhou Luo, Jiahui Jin, and Weiwei Wu
+  authors: Feng Shan, Junzhou Luo, Jiahui Jin, Weiwei Wu
   year: 2019
   source: 
     full: IEEE Internet of Things Journal
@@ -205,9 +195,7 @@
 
 - title: "Delay Minimization for Data Transmission in Wireless Power Transfer Systems"
   id: shan2018delay
-  image:
-  description:
-  authors: Feng Shan, Junzhou Luo, Weiwei Wu, and Xiaojun Shen
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Xiaojun Shen
   year: 2019
   source:
     full: IEEE Journal on Selected Areas in Communications
@@ -235,9 +223,7 @@
 
 - title: "DroneTank: Planning UAVs’ Flights and Sensors’ Data Transmission under Energy Constraints"
   id: xiong2018dronetank
-  image:
-  description:
-  authors: Runqun Xiong, and Feng Shan
+  authors: Runqun Xiong, Feng Shan
   year: 2018
   source:
     full: Sensors
@@ -263,40 +249,36 @@
 }"
   category: uavpathplan
 
-# - title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
-#   id: shan2018throughput
-#  image:
-#  description:
-#  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, and Xiaojun Shen
-#  year: 2018
-#  source:
-#    full: IEEE Transactions on Industrial Informatics
-#    abbr: TII
-#    detail: "vol. 14, no 6 (2018): 2560-2569"
-#  link: 
-#    paper: placeholder
-#    code: placeholder
-#    slide: placeholder
-#    video: placeholder
-#    doi: https://ieeexplore.ieee.org/document/8481689
-#  highlight: 0
-#  bibtex: "@article{shan2018throughput,
-#   title={Throughput maximization for the wireless powered communication in green cities},
-#   author={Shan, Feng and Luo, Junzhou and Wu, Weiwei and Dong, Fang and Shen, Xiaojun},
-#   journal={IEEE Transactions on Industrial Informatics},
-#   volume={14},
-#   number={6},
-#   pages={2560--2569},
-#   year={2018},
-#   publisher={IEEE}
-# }"
-#  category: 
+- title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
+  id: shan2018throughput
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, Xiaojun Shen
+  year: 2018
+  source:
+    full: IEEE Transactions on Industrial Informatics
+    abbr: TII
+    detail: "vol. 14, no 6 (2018): 2560-2569"
+  link: 
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://ieeexplore.ieee.org/document/8481689
+  highlight: 0
+  bibtex: "@article{shan2018throughput,
+   title={Throughput maximization for the wireless powered communication in green cities},
+   author={Shan, Feng and Luo, Junzhou and Wu, Weiwei and Dong, Fang and Shen, Xiaojun},
+   journal={IEEE Transactions on Industrial Informatics},
+   volume={14},
+   number={6},
+   pages={2560--2569},
+   year={2018},
+   publisher={IEEE}
+  }"
+  category: 
 
 - title: "On Maximizing the Throughput of Packet Transmission under Energy Constraints"
   id: wu2018maximizing
-  image:
-  description:
-  authors: Weiwei Wu, Guangli Dai, Yan Li, and Feng Shan
+  authors: Weiwei Wu, Guangli Dai, Yan Li, Feng Shan
   year: 2018
   source: 
     full: Sensors
@@ -323,9 +305,7 @@
 
 - title: "Optimal Rate Schedules with Data Sharing in Energy Harvesting Communication Systems"
   id: wu2017optimal
-  image: 
-  description:
-  authors: Weiwei Wu, Huafan Li, Feng Shan, and Yingchao Zhao
+  authors: Weiwei Wu, Huafan Li, Feng Shan, Yingchao Zhao
   year: 2017
   source:
     full: Sensors
@@ -353,9 +333,7 @@
 
 - title: "Online Throughput Maximization for Energy Harvesting Communication Systems with Battery Overflow"
   id: wu2016online
-  image:
-  description:
-  authors: Weiwei Wu, Jianping Wang, Xiumin Wang, Feng Shan, and Junzhou Luo
+  authors: Weiwei Wu, Jianping Wang, Xiumin Wang, Feng Shan, Junzhou Luo
   year: 2017
   source:
     full: IEEE Transactions on Mobile Computing
@@ -383,9 +361,7 @@
 
 - title: "Optimal Wireless Power Transfer Scheduling for Delay Minimization"
   id: shan2016optimal
-  image: 
-  description:
-  authors: Feng Shan, Junzhou Luo, Weiwei Wu, and Xiaojun Shen
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Xiaojun Shen
   year: 2016
   source: 
     full: IEEE International Conference on Computer Communications
@@ -411,9 +387,7 @@
 
 - title: "Energy-efficient Transmission with Data Sharing in Participatory Sensing Systems"
   id: wu2016energy
-  image: 
-  description:
-  authors: Weiwei Wu, Jianping Wang, Minming Li, Kai Liu, Feng Shan, and Junzhou Luo
+  authors: Weiwei Wu, Jianping Wang, Minming Li, Kai Liu, Feng Shan, Junzhou Luo
   year: 2016
   source:
     full: IEEE Journal on Selected Areas in Communications
@@ -441,9 +415,7 @@
   
 - title: "Discrete Rate Scheduling for Packets with Individual Deadlines in Energy Harvesting Systems"
   id: shan2015discrete
-  image:
-  description:
-  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Minming Li, and Xiaojun Shen
+  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Minming Li, Xiaojun Shen
   year: 2015
   source:
     full: IEEE Journal on Selected Areas in Communications
@@ -471,9 +443,7 @@
 
 - title: "Optimal energy efficient packet scheduling with arbitrary individual deadline guarantee"
   id: shan2014optimal
-  image:
-  description:
-  authors: Feng Shan, Junzhou Luo, and Xiaojun Shen
+  authors: Feng Shan, Junzhou Luo, Xiaojun Shen
   year: 2014
   source:
     full: International Conference on Communications and Networking
