@@ -1,16 +1,32 @@
 ourgroup:
+  - id: 2022_06_10_seu_1
+    image: 2022_06_10_seu_1.jpg
+    intro: "Graduation memory 2022"
+    date: "2022-06-10"
+  - id: 2022_06_10_seu_1
+    image: 2022_06_10_seu_2.jpg
+    intro: "Graduation memory 2022"
+    date: "2022-06-10"
+  - id: 2022_06_10_party_1
+    image: 2022_06_10_party_1.jpg
+    intro: "Graduation party 2022"
+    date: "2022-06-10"
+  - id: 2022_06_10_party_2
+    image: 2022_06_10_party_2.jpg
+    intro: "Graduation party 2022"
+    date: "2022-06-10"
   - id: 2022_01_14_caojiawei
     image: 2022_01_14_caojiawei.jpg
     intro: "2021 Year-end dinner"
     date: "2022-01-14"
-  # - id: 2021_06_22_seu_1
-  #   image: 2021_06_22_seu_1.jpg
-  #   intro: "Graduation memory 2021"
-  #   date: "2021-06-22"
-  - id: 2021_06_22_seu_2
-    image: 2021_06_22_seu_2.jpg
+  - id: 2021_06_22_seu_1
+    image: 2021_06_22_seu_1.jpg
     intro: "Graduation memory 2021"
     date: "2021-06-22"
+  # - id: 2021_06_22_seu_2
+  #   image: 2021_06_22_seu_2.jpg
+  #   intro: "Graduation memory 2021"
+  #   date: "2021-06-22"
   - id: 2021_06_22_seu_3
     image: 2021_06_22_seu_3.jpg
     intro: "Graduation memory 2021"
