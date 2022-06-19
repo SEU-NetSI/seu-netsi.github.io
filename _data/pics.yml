@@ -118,6 +118,10 @@ memberlogo:
     image: alibaba.png
     link: https://www.alibabagroup.com/
     attr: company
+  - id: Meituan
+    image: meituan.png
+    link: https://about.meituan.com/
+    attr: company
   - id: China Union Pay
     image: chinaunionpay.png
     link: http://www.unionpayintl.com/
