@@ -158,6 +158,23 @@
     - "<b>Operating System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/L-somebody' target='_blank'>https://github.com/L-somebody</a>"
+    
+    
+- name: Hanjie Yu
+  chinese: 郁寒杰
+  id: yuhanjie
+  photo: yuhanjie.jpg
+  info: M.Sc. Student, Started Sept. 2022
+  email: mfxjx000205@163.com
+  link: https://github.com/mfxjx000205
+  education: 
+    - "<b>2022.09 ~ Now:</b> M.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cs.njupt.edu.cn/' target='_blank'>School of Computer Science</a>, <a href='https://www.njupt.edu.cn/' target='_blank'>Nanjing University of Posts and Telecommunications</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/mfxjx000205' target='_blank'>https://github.com/mfxjx000205</a>"
 
 - name: "This could be you!"
   chinese: placeholder
