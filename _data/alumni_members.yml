@@ -5,6 +5,39 @@
 #  link: 
 #  education:
 
+- name: Zengbao Li
+  chinese: 李增保
+  id: lizengbao
+  photo: lizengbao.jpeg
+  info: Master's degree in 2022,<br> Research developer at <a href='https://about.meituan.com/' target='_blank'>Meituan</a>
+  email: lizengbao@seu.edu.cn
+  link: https://github.com/shuaibibao
+  education: 
+    - "<b>2019.09 ~ 2022.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"  
+  interest:
+    - "<b>Drone Swarm Network</b>"
+    - "<b>Distributed System</b>"
+    - "<b>Source Tracking</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/shuaibibao</a>"
+
+- name: Jianping Huang
+  chinese: 黄剑萍
+  id: huangjianping
+  photo: huangjianping.png
+  info: Master's degree in 2022,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
+  email: huangjp1997@seu.edu.cn
+  link: https://github.com/hjp1997
+  education: 
+    - "<b>2019.09 ~ 2022.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.njust.edu.cn/' target='_blank'>School of Computer Science and Engineering</a>, <a href='http://www.njust.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"  
+  interest:
+    - "<b>UAV Flight Planning</b>" 
+    - "<b>Energy Scheduling</b>" 
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/hjp1997' target='_blank'>https://github.com/hjp1997</a>"
+
 - name: Yuchao Shao
   chinese: 邵瑜超
   id: shaoyuchao
