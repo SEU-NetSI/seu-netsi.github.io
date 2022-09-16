@@ -11,12 +11,7 @@
     doi: https://ieeexplore.ieee.org/document/9858609
   highlight: 
     attr: 0
-  bibtex: @ARTICLE{shan2022tmc,
-  author={Shan, Feng and Huang, Jianping and Xiong, Runqun and Dong, Fang and Luo, Junzhou and Wang, Suyang},
-  journal={IEEE Transactions on Mobile Computing}, 
-  title={Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy Model}, 
-  year={2022},
-  doi={10.1109/TMC.2022.3199237}}
+  bibtex: placeholder
   category: uwbswarmrl
   
 - id: shan2022ultra
