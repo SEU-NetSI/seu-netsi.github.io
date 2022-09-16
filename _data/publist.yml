@@ -11,7 +11,12 @@
     doi: https://ieeexplore.ieee.org/document/9858609
   highlight: 
     attr: 0
-  bibtex: placeholder
+  bibtex: @ARTICLE{shan2022tmc,
+  author={Shan, Feng and Huang, Jianping and Xiong, Runqun and Dong, Fang and Luo, Junzhou and Wang, Suyang},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy Model}, 
+  year={2022},
+  doi={10.1109/TMC.2022.3199237}}
   category: uwbswarmrl
   
 - id: shan2022ultra
@@ -20,14 +25,20 @@
   title: Ultra-Wideband Swarm Ranging Protocol for Dynamic and Dense Networks
   pubinfo: "IEEE/ACM Transactions on Networking (<b>ToN</b>), to appear. Accepted on June 11, 2022."
   link:
-    paper: placeholder
+    paper: https://fengshan.seu-netsi.net/papers/SHZLWL-TON22.pdf
     slide: placeholder
     video: placeholder
-    code: placeholder
-    doi: placeholder
+    code: https://github.com/SEU-NetSI/crazyflie-firmware
+    doi: https://ieeexplore.ieee.org/abstract/document/9810917
   highlight: 
     attr: 0
-  bibtex: placeholder
+  bibtex: "@article{shan2022ultra,
+  title={Ultra-Wideband Swarm Ranging Protocol for Dynamic and Dense Networks},
+  author={Shan, Feng and Huo, Haodong and Zeng, Jiaxin and Li, Zengbao and Wu, Weiwei and Luo, Junzhou},
+  journal={IEEE/ACM Transactions on Networking},
+  year={2022},
+  publisher={IEEE}
+}"
   category: uwbswarmrl
 
 - id: shan2021ultra
