@@ -1,5 +1,21 @@
 - id: shan2022ultra
   year: 2022
+  authors: Feng Shan, Jianping Huang, Runqun Xiong, Fang Dong, Junzhou Luo and Suyang Wang
+  title: Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy Model
+  pubinfo: "IEEE Transactions on Mobile Computing (TMC), to appear. Accepted on Aug. 4, 2022."
+  link:
+    paper: https://fengshan.seu-netsi.net/papers/SHXDLW-TMC22p.pdf
+    slide: placeholder
+    video: placeholder
+    code: placeholder
+    doi: https://ieeexplore.ieee.org/document/9858609
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uwbswarmrl
+  
+- id: shan2022ultra
+  year: 2022
   authors: Feng Shan, Haodong Huo, Jiaxin Zeng, Zengbao Li, Weiwei Wu, and Junzhou Luo
   title: Ultra-Wideband Swarm Ranging Protocol for Dynamic and Dense Networks
   pubinfo: "IEEE/ACM Transactions on Networking (<b>ToN</b>), to appear. Accepted on June 11, 2022."
