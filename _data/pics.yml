@@ -27,10 +27,10 @@ ourgroup:
     image: 2021_06_22_seu_1.jpg
     intro: "Graduation memory 2021"
     date: "2021-06-22"
-   - id: 2021_06_22_seu_2
-     image: 2021_06_22_seu_2.jpg
-     intro: "Graduation memory 2021"
-     date: "2021-06-22"
+  # - id: 2021_06_22_seu_2
+  #   image: 2021_06_22_seu_2.jpg
+  #   intro: "Graduation memory 2021"
+  #   date: "2021-06-22"
   - id: 2021_06_22_seu_3
     image: 2021_06_22_seu_3.jpg
     intro: "Graduation memory 2021"
