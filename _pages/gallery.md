@@ -14,8 +14,11 @@ permalink: /gallery/
 <h2>Our Group</h2>
 Record Life, Record Us.<br>
 {% assign number_printed = 0 %}
-{% assign even_odd = 0 %}
+
 {% for pic in site.data.pics.ourgroup %}
+{% assign even_odd = number_printed | modulo: 2 %}
+
+
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -27,12 +30,17 @@ Record Life, Record Us.<br>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 0 %}
+
+{% if even_odd == 1 %}
 </div>
 {% endif %}
 
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 <div class="title_placeholder" id="southeast-university"></div>
 <h2>Southeast University</h2>
