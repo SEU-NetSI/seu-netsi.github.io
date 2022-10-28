@@ -124,11 +124,10 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 </div>
 {% endif %}
 
-<div class="title_placeholder" id="undergraduate"></div>
-<h2>Undergraduate</h2>
-
+<div class="title_placeholder" id="master"></div>
+<h2>Master</h2>
 {% assign number_printed = 0 %}
-{% for member in site.data.undergraduate_members %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -138,8 +137,9 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 
 <div class="col-sm-6 clearfix">
   <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left" />
-  <h4>{{ member.name }} | {{member.chinese}}</h4>
-  <i>{{ member.info }}</i>
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.id != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
+  <i>{{ member.info }} 
+  <br>Email: <{{ member.email }}></i>
   {% if member.id != "placeholder" %}
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ member.id }}" aria-expanded="false" aria-controls="collapseExample">
     See More
@@ -175,7 +175,7 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
   </ul>
   </div>
 
-  </div>  
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
