@@ -5,41 +5,6 @@
 #  link: 
 #  education:
 
-- name: Zengbao Li
-  chinese: 李增保
-  id: lizengbao
-  photo: lizengbao.jpeg
-  info: M.Sc. Student, Started Sept. 2019
-  email: lizengbao@seu.edu.cn
-  link: https://github.com/shuaibibao
-  education: 
-    - "<b>2019.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"  
-  interest:
-    - "<b>Drone Swarm Network</b>"
-    - "<b>Distributed System</b>"
-    - "<b>Source Tracking</b>"
-  correspondence:
-    - "<b>Room:</b> 307, Jinzhi Building, Jiulonghu Campus, SEU"
-    - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/shuaibibao</a>"
-
-- name: Jianping Huang
-  chinese: 黄剑萍
-  id: huangjianping
-  photo: huangjianping.png
-  info: M.Sc. Student, Started Sept. 2019
-  email: huangjp1997@seu.edu.cn
-  link: https://github.com/hjp1997
-  education: 
-    - "<b>2019.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.njust.edu.cn/' target='_blank'>School of Computer Science and Engineering</a>, <a href='http://www.njust.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"  
-  interest:
-    - "<b>UAV Flight Planning</b>" 
-    - "<b>Energy Scheduling</b>" 
-  correspondence:
-    - "<b>Room:</b> 431, Computer Building, Jiulonghu Campus, SEU"
-    - "<b>Github:</b> <a href='https://github.com/hjp1997' target='_blank'>https://github.com/hjp1997</a>"
-
 - name: Ruiwen Xu 
   chinese: 许瑞文
   id: xuruiwen
@@ -130,7 +95,7 @@
   id: huohaodong
   photo: huohaodong.jpeg
   info: M.Sc. Student, Started Sept. 2021
-  email: inf1nityhhd@163.com
+  email: huohaodong@seu.edu.cn
   link: https://blog.huohaodong.com/
   education: 
     - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
@@ -142,6 +107,39 @@
     - "<b>Room:</b> 431, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/inf1nityhhd' target='_blank'>https://github.com/inf1nityhhd</a>"
     - "<b>Blog:</b> <a href='https://blog.huohaodong.com' target='_blank'>https://blog.huohaodong.com</a>"
+
+- name: Xianhan Cui
+  chinese: 崔鲜汉
+  id: cuixianhan
+  photo: cuixianhan.jpg
+  info: M.Sc. Student, Started Sept. 2021
+  email: cuixianhan@seu.edu.cn
+  link: https://github.com/wei-yixiao
+  education: 
+    - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://ccst.jlu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='http://www.jlu.edu.cn/' target='_blank'>Jilin University</a>, China"
+  interest:
+    - "<b>Algorithm Design</b>"
+    - "<b>Internet of Things</b>"
+  correspondence:
+    - "<b>Room:</b> 702, Kechuang City B3, China (Nanjing) Software Valley"
+    - "<b>Github:</b> <a href='https://github.com/wei-yixiao' target='_blank'>https://github.com/wei-yixiao</a>"
+
+- name: Zhiwei Liu
+  chinese: 刘志威
+  id: liuzhiwei
+  photo: liuzhiwei.jpg
+  info: M.Sc. Student, Started Sept. 2021
+  email: 220214837@seu.edu.cn
+  link: https://github.com/lyonlui
+  education: 
+    - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2012.09 ~ 2016.06:</b> B.Sc, <a href='https://sie.nchu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.nchu.edu.cn/' target='_blank'>Nanchang Hangkong University</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Autonomous Driving</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/lyonlui' target='_blank'>https://github.com/lyonlui</a>"
 
 - name: Chunyi Li
   chinese: 黎纯一
@@ -175,7 +173,23 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/mfxjx000205' target='_blank'>https://github.com/mfxjx000205</a>"
-
+    
+- name: Yongtao Ou
+  chinese: 欧勇涛
+  id: ouyongtao
+  photo: ouyongtao.jpg
+  info: M.Sc. Student, Started Sept. 2022
+  email: 2629045949@qq.com
+  link: https://github.com/shang-huan
+  education: 
+    - "<b>2022.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2018.09 ~ 2022.06:</b> B.Sc, <a href='http://math.suda.edu.cn/' target='_blank'>School of Mathematical Sciences</a>, <a href='https://www.suda.edu.cn/' target='_blank'>Soochow University</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/shang-huan' target='_blank'>https://github.com/shang-huan</a>"
+    
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
