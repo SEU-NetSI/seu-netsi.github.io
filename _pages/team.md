@@ -124,10 +124,10 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 </div>
 {% endif %}
 
-<div class="title_placeholder" id="master"></div>
-<h2>Master</h2>
+<div class="title_placeholder" id="undergraduate"></div>
+<h2>Undergraduate</h2>
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.undergraduate_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
