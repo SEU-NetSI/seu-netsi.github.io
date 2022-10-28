@@ -5,18 +5,17 @@
 #  link: 
 #  education:
 
-- name: Yuchao Shao
-  chinese: 邵瑜超
-  id: shaoyuchao1
-  photo: shaoyuchao.jpeg
-  info: Master's degree in 2021,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
-  email: yuchaoshao@seu.edu.cn
-  link: https://github.com/YuchaoS
+- name: Shenghao Jia
+  chinese: 贾晟浩
+  id: jiashenghao
+  photo: jiashenghao.jpg
+  info: Undergraduate Student, Started Sept. 2019
+  email: 213192223@seu.edu.cn
+  link: https://github.com/ShenghaoJia
   education: 
-    - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2014.09 ~ 2018.06:</b> B.Sc, <a href='http://computer.hdu.edu.cn/' target='_blank'>Computer and Software School</a>, <a href='http://www.hdu.edu.cn/' target='_blank'>Hangzhou Dianzi University</a>, China"
+    - "<b>2021.09 ~ Now:</b> Undergraduate, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    - "<b>Flying Ad Hoc Network</b>"
-    - "<b>Distributed System</b>"
+    - "<b>Wireless Communication</b>"
+    - "<b>Artificial Intelligence</b>"
   correspondence:
-    - "<b>Github:</b> <a href='https://github.com/YuchaoS' target='_blank'>https://github.com/YuchaoS</a>"
+    - "<b>Github:</b> <a href='https://github.com/ShenghaoJia' target='_blank'>https://github.com/ShenghaoJia</a>"
