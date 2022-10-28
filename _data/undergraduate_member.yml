@@ -1,1 +1,22 @@
+#- name:
+#  photo: 
+#  info:
+#  email:
+#  link: 
+#  education:
 
+- name: Yuchao Shao
+  chinese: 邵瑜超
+  id: shaoyuchao
+  photo: shaoyuchao.jpeg
+  info: Master's degree in 2021,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
+  email: yuchaoshao@seu.edu.cn
+  link: https://github.com/YuchaoS
+  education: 
+    - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2014.09 ~ 2018.06:</b> B.Sc, <a href='http://computer.hdu.edu.cn/' target='_blank'>Computer and Software School</a>, <a href='http://www.hdu.edu.cn/' target='_blank'>Hangzhou Dianzi University</a>, China"
+  interest:
+    - "<b>Flying Ad Hoc Network</b>"
+    - "<b>Distributed System</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/YuchaoS' target='_blank'>https://github.com/YuchaoS</a>"
