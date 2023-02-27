@@ -37,7 +37,7 @@
     - "<b>Embedded System</b>"
     - "<b>Artificial intelligence</b>"
   correspondence:
-    - "<b>Room:</b> 307, Jinzhi Building, Jiulonghu Campus, SEU"
+    - "<b>Room:</b> 246, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/aqqz' target='_blank'>https://github.com/aqqz</a>"
 
 - name: Naiting Chen
@@ -70,7 +70,7 @@
     - "<b>Algorithm design</b>"
     - "<b>UAV application</b>"
   correspondence:
-    - "<b>Room:</b> 501, Computer Building, Jiulonghu Campus, SEU"
+    - "<b>Room:</b> 431, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
 
 - name: Yuying Cheng
@@ -139,6 +139,7 @@
     - "<b>Internet of Things</b>"
     - "<b>Autonomous Driving</b>"
   correspondence:
+    - "<b>Room:</b> 307, Jinzhi Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/lyonlui' target='_blank'>https://github.com/lyonlui</a>"
 
 - name: Chunyi Li
@@ -155,6 +156,7 @@
     - "<b>Internet of Things</b>"
     - "<b>Operating System</b>"
   correspondence:
+    - "<b>Room:</b> 403, Sanjiang Building, Suzhou Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/L-somebody' target='_blank'>https://github.com/L-somebody</a>"
     
     
@@ -163,7 +165,7 @@
   id: yuhanjie
   photo: yuhanjie.jpg
   info: M.Sc. Student, Started Sept. 2022
-  email: mfxjx000205@163.com
+  email: yuhanjie@seu.edu.cn
   link: https://github.com/mfxjx000205
   education: 
     - "<b>2022.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
@@ -172,6 +174,7 @@
     - "<b>Internet of Things</b>"
     - "<b>Algorithm Design</b>"
   correspondence:
+    - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/mfxjx000205' target='_blank'>https://github.com/mfxjx000205</a>"
     
 - name: Yongtao Ou
@@ -188,6 +191,7 @@
     - "<b>Internet of Things</b>"
     - "<b>Algorithm Design</b>"
   correspondence:
+    - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/shang-huan' target='_blank'>https://github.com/shang-huan</a>"
     
 - name: "This could be you!"
