@@ -1,4 +1,12 @@
 ourgroup:
+  - id: 2022_02_24_MOVIE
+    image: 2022_02_24_MOVIE.jpg
+    intro: "2023 new term movie after lunch"
+    date: "2022-02-24"
+  - id: 2023_02_24_LUNCH
+    image: 2022_02_24_LUNCH.jpg
+    intro: "2023 new term lunch"
+    date: "2022-02-24"
   - id: 2022_09_25_JSCC
     image: 2022_09_26_JSCC.jpg
     intro: "JSCC 2022 in Nanjing, China"
