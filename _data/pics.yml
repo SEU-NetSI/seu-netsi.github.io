@@ -1,4 +1,8 @@
 ourgroup:
+  - id: 2022_05_10_BMW
+    image: 2023_05_10_BMW.jpg
+    intro: "BMW Group visit our lab"
+    date: "2023-05-10"
   - id: 2022_02_24_MOVIE
     image: 2023_02_24_MOVIE.jpg
     intro: "2023 new term movie after lunch"
