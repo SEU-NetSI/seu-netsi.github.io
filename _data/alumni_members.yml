@@ -5,6 +5,54 @@
 #  link: 
 #  education:
 
+- name: Ruiwen Xu 
+  chinese: 许瑞文
+  id: xuruiwen
+  photo: xuruiwen.jpg
+  info: Master's degree in 2023,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
+  email: raven@seu.edu.cn
+  link: https://www.linkedin.com/in/ravenxu/
+  education: 
+    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2016.09 ~ 2020.06:</b> B.Sc, <a href='http://sc.neu.edu.cn/' target='_blank'>Software College</a>, <a href='http://www.neu.edu.cn/' target='_blank'>Northeastern University</a>, China"
+  interest: 
+    - "<b>Edge Computing</b>" 
+    - "<b>Distributed System</b>"
+  correspondence: 
+    - "<b>Github:</b> <a href='https://github.com/RavenLite' target='_blank'>https://github.com/RavenLite</a>"
+    - "<b>Blog:</b> <a href='https://ravenxu.top' target='_blank'>https://ravenxu.top</a>"
+
+- name: Zhi Tao
+  chinese: 陶智
+  id: taozhi
+  photo: taozhi.jpg
+  info: Master's degree in 2023,<br> Research developer at <a href='https://www.zte.com.cn/china/' target='_blank'>ZTE</a>
+  email: 220205222@seu.edu.cn
+  link: https://github.com/aqqz
+  education: 
+    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://www.hfuu.edu.cn/dzx/' target='_blank'>School of Advanced Manufacturing Engineering</a>, <a href='http://www.hfuu.edu.cn/' target='_blank'>Hefei University</a>, China"
+  interest:
+    - "<b>Embedded System</b>"
+    - "<b>Artificial intelligence</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/aqqz' target='_blank'>https://github.com/aqqz</a>"
+
+- name: Naiting Chen
+  chinese: 陈乃婷
+  id: chennaiting
+  photo: chennaiting.jpg
+  info: Master's degree in 2023,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
+  email: 220204658@seu.edu.cn
+  link: https://github.com/ChenMathilda
+  education: 
+    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
+  interest:
+    - "<b>Embedded System</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/ChenMathilda' target='_blank'>https://github.com/ChenMathilda</a>"
+
 - name: Zengbao Li
   chinese: 李增保
   id: lizengbao
@@ -70,50 +118,3 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/unJASON' target='_blank'>https://github.com/unJASON</a>"
 
-- name: Ruiwen Xu 
-  chinese: 许瑞文
-  id: xuruiwen
-  photo: xuruiwen.jpg
-  info: Master's degree in 2023,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
-  email: raven@seu.edu.cn
-  link: https://www.linkedin.com/in/ravenxu/
-  education: 
-    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2016.09 ~ 2020.06:</b> B.Sc, <a href='http://sc.neu.edu.cn/' target='_blank'>Software College</a>, <a href='http://www.neu.edu.cn/' target='_blank'>Northeastern University</a>, China"
-  interest: 
-    - "<b>Edge Computing</b>" 
-    - "<b>Distributed System</b>"
-  correspondence: 
-    - "<b>Github:</b> <a href='https://github.com/RavenLite' target='_blank'>https://github.com/RavenLite</a>"
-    - "<b>Blog:</b> <a href='https://ravenxu.top' target='_blank'>https://ravenxu.top</a>"
-
-- name: Zhi Tao
-  chinese: 陶智
-  id: taozhi
-  photo: taozhi.jpg
-  info: Master's degree in 2023,<br> Research developer at <a href='https://www.zte.com.cn/china/' target='_blank'>ZTE</a>
-  email: 220205222@seu.edu.cn
-  link: https://github.com/aqqz
-  education: 
-    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://www.hfuu.edu.cn/dzx/' target='_blank'>School of Advanced Manufacturing Engineering</a>, <a href='http://www.hfuu.edu.cn/' target='_blank'>Hefei University</a>, China"
-  interest:
-    - "<b>Embedded System</b>"
-    - "<b>Artificial intelligence</b>"
-  correspondence:
-    - "<b>Github:</b> <a href='https://github.com/aqqz' target='_blank'>https://github.com/aqqz</a>"
-
-- name: Naiting Chen
-  chinese: 陈乃婷
-  id: chennaiting
-  photo: chennaiting.jpg
-  info: Master's degree in 2023,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
-  email: 220204658@seu.edu.cn
-  link: https://github.com/ChenMathilda
-  education: 
-    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
-  interest:
-    - "<b>Embedded System</b>"
-  correspondence:
-    - "<b>Github:</b> <a href='https://github.com/ChenMathilda' target='_blank'>https://github.com/ChenMathilda</a>"
