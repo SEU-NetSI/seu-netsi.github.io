@@ -143,7 +143,24 @@
   correspondence:
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/shang-huan' target='_blank'>https://github.com/shang-huan</a>"
-    
+
+- name: Yifan Xie
+  chinese: 谢伊凡
+  id: xieyifan
+  photo: xieyifan.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: 1584594639@qq.com
+  link: https://iven0322.github.io/
+  education: 
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://math.suda.edu.cn/' target='_blank'>School of Computer Sciences and Technology</a>, <a href='https://www.suda.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/shang-huan' target='_blank'>https://github.com/Iven0322</a>"
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
