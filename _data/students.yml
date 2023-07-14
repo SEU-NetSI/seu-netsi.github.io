@@ -177,6 +177,21 @@
   correspondence:
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/AZyfen' target='_blank'>https://github.com/AZyfen</a>"
+- name: Jiangpeng Liu
+  chinese: 刘江鹏
+  id: liujiangpeng
+  photo: liujiangpeng.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: jiangpengliu0712@163.com
+  link: https://liudamie.github.io/
+  education: 
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://maths.hfut.edu.cn/' target='_blank'>School of Mathematics</a>, <a href='https://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
+  interest:
+    - "<b>Unmanned System Swarm Cooperation</b>"
+  correspondence:
+    - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/Liudamie' target='_blank'>https://github.com/Liudamie</a>"
 
 - name: "This could be you!"
   chinese: placeholder
