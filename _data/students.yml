@@ -161,6 +161,23 @@
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/Iven0322' target='_blank'>https://github.com/Iven0322</a>"
 
+- name: Yafen Zhang
+  chinese: 张雅芬
+  id: zhangyafen
+  photo: zhangyafen.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: 1017761470@qq.com
+  link: https://github.com/AZyfen
+  education: 
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='https://cs.ahut.edu.cn/' target='_blank'>School of Computer Sciences and Technology</a>, <a href='https://www.njust.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+
+  correspondence:
+    - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/AZyfen' target='_blank'>https://github.com/AZyfen</a>"
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
