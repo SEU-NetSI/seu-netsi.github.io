@@ -177,6 +177,7 @@
   correspondence:
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/AZyfen' target='_blank'>https://github.com/AZyfen</a>"
+  
 - name: Jiangpeng Liu
   chinese: 刘江鹏
   id: liujiangpeng
@@ -193,7 +194,7 @@
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/Liudamie' target='_blank'>https://github.com/Liudamie</a>"
 
-  - name: Wang WenYu
+- name: Wang WenYu
   chinese: 王文虞
   id: wangwenyu
   photo: wangwenyu.jpg
@@ -206,7 +207,7 @@
   interest:
     - "<b>scientific researching</b>"
   correspondence:
-    - "<b>Room:</b> , , SuZhou Campus, SEU"
+    - "<b>Room:</b> 0, SuZhou Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/WenYu1706' target='_blank'>https://github.com/WenYu1706</a>"
 
 - name: Yunxi Hou
@@ -218,8 +219,7 @@
   link: https://github.com/hyx18234172491
   education:
     - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://ccst.tyut.edu.cn/' target='_blank'>College of Computer Science and Technology(College of Data Science)
-                                                                                          </a>, <a href='https://www.tyut.edu.cn/' target='_blank'>Taiyuan University of Technology</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://ccst.tyut.edu.cn/' target='_blank'>College of Computer Science and Technology(College of Data Science)</a>, <a href='https://www.tyut.edu.cn/' target='_blank'>Taiyuan University of Technology</a>, China"
   interest:
     - "<b>Unmanned System Swarm Cooperation</b>"
   correspondence:
