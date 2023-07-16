@@ -193,6 +193,22 @@
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/Liudamie' target='_blank'>https://github.com/Liudamie</a>"
 
+  - name: Wang WenYu
+  chinese: 王文虞
+  id: wangwenyu
+  photo: wangwenyu.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: wangwenyu_0113@163.com
+  link: https://github.com/WenYu1706
+  education: 
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  interest:
+    - "<b>scientific researching</b>"
+  correspondence:
+    - "<b>Room:</b> , , SuZhou Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/WenYu1706' target='_blank'>https://github.com/WenYu1706</a>"
+
 - name: Yunxi Hou
   chinese: 侯云曦
   id: houyunxi
@@ -209,6 +225,7 @@
   correspondence:
     - "<b>Room:</b> 238, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/hyx18234172491' target='_blank'>https://github.com/hyx18234172491</a>"
+
 
 - name: "This could be you!"
   chinese: placeholder
