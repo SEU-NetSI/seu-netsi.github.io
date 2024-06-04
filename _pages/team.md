@@ -56,11 +56,10 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 </div>
 {% endif %}
 
-
-<div class="title_placeholder" id="master"></div>
-<h2>Master</h2>
+<div class="title_placeholder" id="phd"></div>
+<h2>PhD</h2>
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.phd_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -124,10 +123,10 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 </div>
 {% endif %}
 
-<div class="title_placeholder" id="phd"></div>
-<h2>PhD</h2>
+<div class="title_placeholder" id="master"></div>
+<h2>Master</h2>
 {% assign number_printed = 0 %}
-{% for member in site.data.phd_members %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
