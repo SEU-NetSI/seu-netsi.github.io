@@ -124,6 +124,73 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 </div>
 {% endif %}
 
+<div class="title_placeholder" id="phd"></div>
+<h2>PhD</h2>
+{% assign number_printed = 0 %}
+{% for member in site.data.phd_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left" />
+  <h4><a href="{{member.link}}" target="_blank">{{ member.name }} {% if member.id != "placeholder" %} | {{member.chinese}}{% endif %}</a></h4>
+  <i>{{ member.info }} 
+  <br>Email: <{{ member.email }}></i>
+  {% if member.id != "placeholder" %}
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ member.id }}" aria-expanded="false" aria-controls="collapseExample">
+    See More
+  </button>
+  {% endif %}
+
+  <div class="collapse" id="{{ member.id }}">
+
+  <h3>Biography</h3>
+  <div>
+  <ul>
+  {% for item in member.education %}
+  <li>{{ item }}</li>
+  {% endfor %}  
+  </ul>
+  </div>
+
+  <h3>Interests</h3>
+  <div>
+  <ul>
+  {% for item in member.interest %}
+  <li>{{ item }}</li>
+  {% endfor %}  
+  </ul>
+  </div>
+
+  <h3>Correspondence</h3>
+  <div>
+  <ul>
+  {% for item in member.correspondence %}
+  <li>{{ item }}</li>
+  {% endfor %}  
+  </ul>
+  </div>
+
+  </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 <div class="title_placeholder" id="undergraduate"></div>
 <h2>Undergraduate</h2>
 {% assign number_printed = 0 %}
