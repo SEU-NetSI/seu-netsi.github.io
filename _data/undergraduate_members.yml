@@ -5,18 +5,18 @@
 #  link: 
 #  education:
 
-#- name: Shenghao Jia
-#  chinese: 贾晟浩
-#  id: jiashenghao
-#  photo: jiashenghao.jpg
-#  info: Undergraduate Student, Started Sept. 2019
-#  email: 213192223@seu.edu.cn
-#  link: https://github.com/ShenghaoJia
-#  education: 
-#    - "<b>2021.09 ~ Now:</b> Undergraduate, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-#  interest:
-#    - "<b>Wireless Communication</b>"
-#    - "<b>Artificial Intelligence</b>"
-#  correspondence:
-#    - "<b>Github:</b> <a href='https://github.com/ShenghaoJia' target='_blank'>https://github.com/ShenghaoJia</a>"
+- name: Ye Liu
+ chinese: 刘烨
+ id: 刘烨
+ photo: 刘烨.jpg
+ info: Undergraduate Student, Started Sept. 2022
+ email: 213222890@seu.edu.cn
+ link: https://github.com/Luffy180910
+ education: 
+   - "<b>2022.09 ~ Now:</b> Undergraduate, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+ interest:
+   - "<b>Wireless Communicatio</b>"
+   - "<b>Artificial Intelligence</b>"
+ correspondence:
+   - "<b>Github:</b> <a href='https://github.com/ShenghaoJia' target='_blank'>https://github.com/Luffy180910</a>"
 
