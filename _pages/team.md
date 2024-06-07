@@ -10,7 +10,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [alumni](#alumni).
+Jump to [staff](#staff), [PhD](#phd), [master](#master), [undergraduate](#undergraduate), [alumni](#alumni).
 
 <div class="title_placeholder" id="staff"></div>
 <h2>Staff</h2>
@@ -290,10 +290,10 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
   </ul>
   </div>
 
-  <h3>Interests</h3>
+  <h3>Thesis</h3>
   <div>
   <ul>
-  {% for item in member.interest %}
+  {% for item in member.thesis %}
   <li>{{ item }}</li>
   {% endfor %}  
   </ul>
@@ -326,7 +326,7 @@ Jump to [staff](#staff), [master](#master), [undergraduate](#undergraduate), [al
 
 
 
-## Others
+## Other Alumni
 {% for member in site.data.alumni_others %}
 
 <div class="row" style="margin-bottom: 5px;">

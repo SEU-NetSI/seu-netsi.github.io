@@ -5,6 +5,23 @@
 #  link: 
 #  education:
 
+- name: Shenghao Jia
+  chinese: 贾晟浩
+  id: jiashenghao
+  photo: jiashenghao.jpg
+  info: Bachelor's degree in 2023, <br> Master student at <a href='https://www.sjtu.edu.cn' target='_blank'>Shanghai Jiaotong Univ.</a>
+  email: 213192223@seu.edu.cn
+  link: https://github.com/ShenghaoJia
+  education: 
+    - "<b>2019.09 ~ 2023.06:</b> Undergraduate, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  thesis:
+    - "基于航拍图像的神经辐射场三维重建技术研究"
+  interest:
+    - "<b>Wireless Communication</b>"
+    - "<b>Artificial Intelligence</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/ShenghaoJia' target='_blank'>https://github.com/ShenghaoJia</a>"
+
 - name: Ruiwen Xu 
   chinese: 许瑞文
   id: xuruiwen
@@ -13,8 +30,10 @@
   email: raven@seu.edu.cn
   link: https://www.linkedin.com/in/ravenxu/
   education: 
-    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2023.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2016.09 ~ 2020.06:</b> B.Sc, <a href='http://sc.neu.edu.cn/' target='_blank'>Software College</a>, <a href='http://www.neu.edu.cn/' target='_blank'>Northeastern University</a>, China"
+  thesis:
+    - "边缘辅助的无人机集群自主导航技术研究与实现"
   interest: 
     - "<b>Edge Computing</b>" 
     - "<b>Distributed System</b>"
@@ -30,8 +49,10 @@
   email: 220205222@seu.edu.cn
   link: https://github.com/aqqz
   education: 
-    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2023.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://www.hfuu.edu.cn/dzx/' target='_blank'>School of Advanced Manufacturing Engineering</a>, <a href='http://www.hfuu.edu.cn/' target='_blank'>Hefei University</a>, China"
+  thesis:
+    - "微型无人机目标检测与协作跟踪技术"
   interest:
     - "<b>Embedded System</b>"
     - "<b>Artificial intelligence</b>"
@@ -46,8 +67,10 @@
   email: 220204658@seu.edu.cn
   link: https://github.com/ChenMathilda
   education: 
-    - "<b>2020.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2023.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
+  thesis:
+    - "室内微型无人机交互编队飞行技术研究与实现"
   interest:
     - "<b>Embedded System</b>"
   correspondence:
@@ -63,6 +86,8 @@
   education: 
     - "<b>2019.09 ~ 2022.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"  
+  thesis:
+    - "可靠无人机集群协作的恶意移动源追踪技术研究与实现"
   interest:
     - "<b>Drone Swarm Network</b>"
     - "<b>Distributed System</b>"
@@ -80,6 +105,8 @@
   education: 
     - "<b>2019.09 ~ 2022.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.njust.edu.cn/' target='_blank'>School of Computer Science and Engineering</a>, <a href='http://www.njust.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"  
+  thesis:
+    - "物联网环境下无人机数据采集的调度优化技术研究与实现"
   interest:
     - "<b>UAV Flight Planning</b>" 
     - "<b>Energy Scheduling</b>" 
@@ -96,6 +123,8 @@
   education: 
     - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2014.09 ~ 2018.06:</b> B.Sc, <a href='http://computer.hdu.edu.cn/' target='_blank'>Computer and Software School</a>, <a href='http://www.hdu.edu.cn/' target='_blank'>Hangzhou Dianzi University</a>, China"
+  thesis:
+    - "基于超宽频技术的室内微型无人机集群自组网协议设计与实现"
   interest:
     - "<b>Flying Ad Hoc Network</b>"
     - "<b>Distributed System</b>"
@@ -112,6 +141,8 @@
   education: 
     - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2012.09 ~ 2016.06:</b> B.Sc, <a href='http://ci.hfut.edu.cn/' target='_blank'>School of Computer Science and Information Engineering</a>, <a href='http://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
+  thesis:
+    - "基于超宽频技术的位置信息协作感知研究与实现"
   interest:
     - "<b>Wireless Protocol</b>"
     - "<b>Localization</b>"
