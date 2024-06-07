@@ -57,15 +57,6 @@ permalink: /research/
   </div>
 
  <div class="collapse" id="{{ item.id }}-collapse">
- {% if item.video != "placeholder" %}
- <h3>Video</h3>
- {% for video_item in item.video %}
- <video controls>
-    <source src="/images/researchvideo/{{ video_item }}" type="video/mp4">
-    Your browser does not support the video tag.
- </video>
- {% endfor %}
- {% endif %}
 
  {% if has_related == 1 %}
  <h3>Related Research</h3>
