@@ -1,3 +1,4 @@
+
 - id: SLJCWLD-JSAC24
   year: 2024
   authors: Feng Shan, Junzhou Luo, Qiao Jin, Liwen Cao, Weiwei Wu, Zhen Ling, and Fang Dong
@@ -27,23 +28,43 @@
     doi: https://doi.org/10.1145/3631530
   highlight: 
     attr: 0
-  bibtex: placeholder
+  bibtex: "
+@article{huang2023communication,
+  title={Communication-Topology-preserving Motion Planning: Enabling Static Routing in UAV Networks},
+  author={Huang, Ziyao and Wu, Weiwei and Fu, Chenchen and Liu, Xiang and Shan, Feng and Wang, Jianping and Xu, Xueyong},
+  journal={ACM Transactions on Sensor Networks},
+  volume={20},
+  number={1},
+  pages={1--39},
+  year={2023},
+  publisher={ACM New York, NY}
+}"
   category: adhocnetworkingrs
 
-- id: SLJCWLD-JSAC24
+- id: XOYZSWL-MASS23
   year: 2023
   authors: Ruiwen Xu, Yongtao Ou, Hanjie Yu, Ziyi Zhang, Feng Shan, Weiwei Wu, and Junzhou Luo
   title: "Cooperative and Autonomous Mapping for Heterogeneous NAVs"
   pubinfo: "2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (<b>MASS</b>), September 25-27, 2023."
   link:
-    paper: placeholder
+    paper: https://fengshan.seu-netsi.net/papers/XOYZSWL-MASS23p.pdf
     code: placeholder
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/XOYZSWL_MASS23_slides.pdf
     video: placeholder
     doi: https://doi.ieeecomputersociety.org/10.1109/MASS58611.2023.00073
   highlight: 
     attr: 0
-  bibtex: placeholder
+  bibtex: "
+@inproceedings{xu2023cooperative,
+  title={Cooperative and Autonomous Mapping for Heterogeneous NAVs},
+  author={Xu, Ruiwen and Ou, Yongtao and Yu, Hanjie and Zhang, Ziyi and Shan, Feng and Wu, Weiwei and Luo, Junzhou},
+  booktitle={2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (MASS)},
+  pages={539--547},
+  year={2023},
+  organization={IEEE}
+}
+"
+
   category: autofly
 
 - id: shan2022tmc
