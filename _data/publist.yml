@@ -112,7 +112,10 @@
     code: https://github.com/SEU-NetSI/crazyflie-firmware
     doi: https://ieeexplore.ieee.org/abstract/document/9810917
   highlight: 
-    attr: 0
+    attr: 1
+    image: uwbrange.jpg
+    description: Nowadays, not only wearable and portable devices but also aerial and ground robots can be made smaller, lighter, cheaper, and thus as large as hundreds of them may form a swarm to participate in a complicated cooperative application, such as searching, rescuing, mapping, and war-battling.
+    source: IEEE/ACM Transactions on Networking 2022
   bibtex: "@article{shan2022ultra,
   title={Ultra-Wideband Swarm Ranging Protocol for Dynamic and Dense Networks},
   author={Shan, Feng and Huo, Haodong and Zeng, Jiaxin and Li, Zengbao and Wu, Weiwei and Luo, Junzhou},
@@ -134,7 +137,7 @@
     video: https://www.youtube.com/watch?v=jT3mPQvHadM
     doi: https://ieeexplore.ieee.org/abstract/document/9488717
   highlight: 
-    attr: 1
+    attr: 0
     image: uwbrange.jpg
     description: Nowadays, aerial and ground robots, wearable and portable devices are becoming smaller, lighter, cheaper, and thus popular. It is now possible to utilize tens and thousands of them to form a swarm to complete complicated cooperative tasks, such as searching, rescuing, mapping, and battling.
     source: IEEE INFOCOM 2021
