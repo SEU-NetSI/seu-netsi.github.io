@@ -1,4 +1,10 @@
 
+- topic: "Autonomous navigation for Nano/Micro unmanned aerial vehicles"
+  id: autofly
+  image: total_frame.jpg
+  color: primary
+  introduction: Nano unmanned aerial vehicles (NAVs) and Micro unmanned aerial vehicles (MAVs) have been increasingly used for mapping due to their advantages in weight and size, such as search, rescue and reconnaissance in confined areas. However, because the resources carried by NAVs and MAVs are extremely limited, it is a challenge to achieve efficient autonomous navigation in 3D space. To address this challenge, we proposes a new autonomous navigation model and system architecture with heterogeneous NAVs and MAVs. 
+
 - topic: "Ad hoc networking for robotic swarms"
   id: adhocnetworkingrs
   image: swarmnetworking.png
@@ -47,8 +53,3 @@
   color: warning
   introduction: More and more Internet of Things (IoT) wireless devices have been providing ubiquitous services over the recent years. Since most of these devices are powered by batteries, a fundamental trade-off to be addressed is the depleted energy and the achieved data throughput in wireless data transmission. By exploiting the rate-adaptive capacities of wireless devices, we design rate-adaptive transmission policies to maximize the amount of transmitted data bits under the energy constraints of devices with deadline constraints.
 
-- topic: "Autonomous navigation for MAVs and NAVs"
-  id: autofly
-  image: total_frame.jpg
-  color: warning
-  introduction: Nano unmanned aerial vehicles (NAVs) and Macro unmanned aerial vehicles(MAVs) have been increasingly used for mapping due to their advantages in weight and size, such as search, rescue and reconnaissance in confined areas. However, because the resources carried by NAVs and MAVs are extremely limited, it is a challenge to achieve efficient autonomous navigation in 3D space. To address this challenge, we proposes a new autonomous navigation model and system architecture with heterogeneous NAVs and MAVs. 
