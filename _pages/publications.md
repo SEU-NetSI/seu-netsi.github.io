@@ -11,7 +11,7 @@ permalink: /publication/
 # Publication
 ## Group Highlights
 
-For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
+For a full list of publications and patents can be found at [homepage](https://fengshan.seu-netsi.net/#publications) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

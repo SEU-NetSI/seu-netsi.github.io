@@ -1,30 +1,110 @@
+- id: SLJCWLD-JSAC24
+  year: 2024
+  authors: Feng Shan, Junzhou Luo, Qiao Jin, Liwen Cao, Weiwei Wu, Zhen Ling, and Fang Dong
+  title: "Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems"
+  pubinfo: "IEEE Journal on Selected Areas in Communications (<b>JSAC</b>) to appear. Accepted on May 20, 2024."
+  link:
+    paper: https://fengshan.seu-netsi.net/papers/SLJCWLD-JSAC24-extended.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: harvestingnet
+
+- id: HWFLSWX-TOSN23
+  year: 2023
+  authors: Ziyao Huang, Weiwei Wu, Chenchen Fu, Xiang Liu, Feng Shan, Jianping Wang, Xueyong Xu
+  title: "Communication-Topology Preserving Motion Planning: Enabling Static Routing in UAV Networks"
+  pubinfo: "ACM Transactions on Sensor Networks (<b>TOSN</b>) vol. 20, no. 1 (2023): 24:1-39."
+  link:
+    paper: https://fengshan.seu-netsi.net/papers/HWFLSWX-TOSN23.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://doi.org/10.1145/3631530
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: adhocnetworkingrs
+
 - id: shan2022tmc
-  year: 2022
+  year: 2023
   authors: Feng Shan, Jianping Huang, Runqun Xiong, Fang Dong, Junzhou Luo and Suyang Wang
   title: Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy Model
-  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), to appear. Accepted on Aug. 4, 2022."
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), vol. 22, no. 11, (2023): 6427-6444."
   link:
     paper: https://fengshan.seu-netsi.net/papers/SHXDLW-TMC22p.pdf
     slide: placeholder
     video: placeholder
     code: placeholder
-    doi: https://ieeexplore.ieee.org/document/9858609
+    doi: https://doi.org/10.1109/TMC.2022.3199237
   highlight: 
     attr: 0
   bibtex: "@ARTICLE{shan2022tmc,
   author={Shan, Feng and Huang, Jianping and Xiong, Runqun and Dong, Fang and Luo, Junzhou and Wang, Suyang},
   journal={IEEE Transactions on Mobile Computing}, 
   title={Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy Model}, 
-  year={2022},
+  year={2023},
   doi={10.1109/TMC.2022.3199237}
   }"
   category: uavpathplan
-  
+
+- id: dai2023tmc
+  year: 2023
+  authors: Guangli Dai, Weiwei Wu, Kai Liu, Feng Shan, Jianping Wang, Xueyong Xu, and Junzhou Luo
+  title: Joint Sleep and Rate Scheduling with Booting Costs for Energy Harvesting Communication Systems
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), vol. 22, no. 6, (2023): 3391-3406."
+  link:
+    paper: placeholder
+    slide: placeholder
+    video: placeholder
+    code: placeholder
+    doi: https://doi.org/10.1109/TMC.2021.3135865
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: harvestingnet
+
+- id: WSSYL-TVT22
+  year: 2022
+  authors: Wenjia Wu, Shengyu Sun, Feng Shan, Ming Yang, and Junzhou Luo
+  title: "Energy-Constrained UAV Flight Scheduling for IoT Data Collection with 60 GHz Communication"
+  pubinfo: "IEEE Transactions on Vehicular Technology (<b>TVT</b>), vol. 71, no. 10 (2022): 10991-11005."
+  link:
+    paper: https://fengshan.seu-netsi.net/papers/WSSYL-TVT22p.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://doi.org/10.1109/TVT.2022.3184869
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavpathplan
+ 
+- id: YLWSY-CN22
+  year: 2022
+  authors: Weidu Ye, Junzhou Luo, Wenjia Wu, Feng Shan, and Ming Yang
+  title: "MUTAA: An Online Trajectory Optimization and Task Scheduling for UAV-aided Edge Computing"
+  pubinfo: "Elsevier Computer Networks (<b>COMNET</b>), vol. 218 (2022): 109405."
+  link:
+    paper: https://fengshan.seu-netsi.net/papers/YLWSY-CN22.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://doi.org/10.1016/j.comnet.2022.109405
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavedgecomputing
+ 
 - id: shan2022ultra
   year: 2022
   authors: Feng Shan, Haodong Huo, Jiaxin Zeng, Zengbao Li, Weiwei Wu, and Junzhou Luo
   title: Ultra-Wideband Swarm Ranging Protocol for Dynamic and Dense Networks
-  pubinfo: "IEEE/ACM Transactions on Networking (<b>ToN</b>), to appear. Accepted on June 11, 2022."
+  pubinfo: "IEEE/ACM Transactions on Networking (<b>ToN</b>), vol. 30, no. 6 (2022): 2834-2848."
   link:
     paper: https://fengshan.seu-netsi.net/papers/SHZLWL-TON22.pdf
     slide: placeholder
