@@ -30,6 +30,22 @@
   bibtex: placeholder
   category: adhocnetworkingrs
 
+- id: SLJCWLD-JSAC24
+  year: 2023
+  authors: Ruiwen Xu, Yongtao Ou, Hanjie Yu, Ziyi Zhang, Feng Shan, Weiwei Wu, and Junzhou Luo
+  title: "Cooperative and Autonomous Mapping for Heterogeneous NAVs"
+  pubinfo: "2023 IEEE 20th International Conference on Mobile Ad Hoc and Smart Systems (<b>MASS</b>), September 25-27, 2023."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://doi.ieeecomputersociety.org/10.1109/MASS58611.2023.00073
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: autofly
+
 - id: shan2022tmc
   year: 2023
   authors: Feng Shan, Jianping Huang, Runqun Xiong, Fang Dong, Junzhou Luo and Suyang Wang
