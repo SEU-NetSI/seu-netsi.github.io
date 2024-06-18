@@ -83,32 +83,32 @@
 }"
   category: uavpathplan
 
-# - id: shan2020looking
-#   year: 2020
-#   authors: Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li
-#   title: "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model"
-#   pubinfo: "IEEE <b>INFOCOM</b> 2020, Virtual Conference, July 6-9, 2020."
-#   link: 
-#     paper: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20p.pdf
-#     code: placeholder
-#     slide: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20_slides.pdf
-#     video: placeholder
-#     doi: https://ieeexplore.ieee.org/document/9155376
-#   highlight: 
-#     attr: 1
-#     image: lookingb4xing.png
-#     description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling.
-#     source: IEEE INFOCOM 2020
-#     link: https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference
-#   bibtex: "@inproceedings{shan2020looking,
-#   title={Looking before crossing: An optimal algorithm to minimize UAV energy by speed scheduling with a practical flight energy model},
-#   author={Shan, Feng and Luo, Junzhou and Xiong, Runqun and Wu, Wenjia and Li, Jiashuo},
-#   booktitle={IEEE INFOCOM 2020-IEEE Conference on Computer Communications},
-#   pages={1758--1767},
-#   year={2020},
-#   organization={IEEE}
-# }"
-#   category: uavpathplan
+- id: shan2020looking
+  year: 2020
+  authors: Feng Shan, Junzhou Luo, Runqun Xiong, Wenjia Wu, and Jiashuo Li
+  title: "Looking before Crossing: An Optimal Algorithm to Minimize UAV Energy by Speed Scheduling with a Practical Flight Energy Model"
+  pubinfo: "IEEE <b>INFOCOM</b> 2020, Virtual Conference, July 6-9, 2020."
+  link: 
+    paper: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20p.pdf
+    code: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20_slides.pdf
+    video: placeholder
+    doi: https://ieeexplore.ieee.org/document/9155376
+  highlight: 
+    attr: 0
+    image: lookingb4xing.png
+    description: Unmanned aerial vehicles (UAVs) are being widely used in wireless communication, e.g., collecting data from ground nodes (GNs), where energy is critical. Existing works combine speed scheduling, i.e., the controlling of speed, with trajectory design for UAVs, making it complicated to solve while loses focus on the fundamental nature of speed scheduling.
+    source: IEEE INFOCOM 2020
+    link: https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference
+  bibtex: "@inproceedings{shan2020looking,
+  title={Looking before crossing: An optimal algorithm to minimize UAV energy by speed scheduling with a practical flight energy model},
+  author={Shan, Feng and Luo, Junzhou and Xiong, Runqun and Wu, Wenjia and Li, Jiashuo},
+  booktitle={IEEE INFOCOM 2020-IEEE Conference on Computer Communications},
+  pages={1758--1767},
+  year={2020},
+  organization={IEEE}
+}"
+  category: uavpathplan
 
 - id: shan2022energy
   year: 2022
