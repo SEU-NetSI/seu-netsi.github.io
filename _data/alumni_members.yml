@@ -9,11 +9,11 @@
   chinese: 刘志威
   id: liuzhiwei
   photo: liuzhiwei.jpg
-  info: Master's degree in 2023,<br> Freelance
+  info: Master's degree in 2024,<br> Freelance
   email: zhiwei_liu@seu.edu.cn
   link: https://github.com/lyonlui
   education: 
-    - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2012.09 ~ 2016.06:</b> B.Sc, <a href='https://sie.nchu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.nchu.edu.cn/' target='_blank'>Nanchang Hangkong University</a>, China"
   thesis:
     - "基于预训练大模型的室内机器人导航系统"
