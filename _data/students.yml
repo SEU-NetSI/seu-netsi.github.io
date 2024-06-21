@@ -40,24 +40,6 @@
     - "<b>Room:</b> 546, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/seuchengyy' target='_blank'>https://github.com/seuchengyy</a>"
 
-- name: Haodong Huo
-  chinese: 霍浩东
-  id: huohaodong
-  photo: huohaodong.jpeg
-  info: M.Sc. Student, Started Sept. 2021
-  email: huohaodong@seu.edu.cn
-  link: https://blog.huohaodong.com/
-  education: 
-    - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='http://cs.henu.edu.cn/' target='_blank'>School of Computer and Information Engineering</a>, <a href='http://www.henu.edu.cn/' target='_blank'>Henan University</a>, China"
-  interest:
-    - "<b>Algorithm Design</b>"
-    - "<b>Distributed System</b>"
-  correspondence:
-    - "<b>Room:</b> 242, Computer Building, Jiulonghu Campus, SEU"
-    - "<b>Github:</b> <a href='https://github.com/huohaodong' target='_blank'>https://github.com/huohaodong</a>"
-    - "<b>Blog:</b> <a href='https://blog.huohaodong.com' target='_blank'>https://blog.huohaodong.com</a>"
-
 - name: Xianhan Cui
   chinese: 崔鲜汉
   id: cuixianhan
