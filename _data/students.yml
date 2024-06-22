@@ -40,24 +40,6 @@
     - "<b>Room:</b> 546, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/seuchengyy' target='_blank'>https://github.com/seuchengyy</a>"
 
-- name: Xianhan Cui
-  chinese: 崔鲜汉
-  id: cuixianhan
-  photo: cuixianhan.jpg
-  info: M.Sc. Student, Started Sept. 2021
-  email: cuixianhan@seu.edu.cn
-  link: https://github.com/cuixh0
-  education: 
-    - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://ccst.jlu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='http://www.jlu.edu.cn/' target='_blank'>Jilin University</a>, China"
-  interest:
-    - "<b>Algorithm Design</b>"
-    - "<b>Internet of Things</b>"
-  correspondence:
-    - "<b>Room:</b> 702, Kechuang City B3, China (Nanjing) Software Valley"
-    - "<b>Github:</b> <a href='https://github.com/wei-yixiao' target='_blank'>https://github.com/wei-yixiao</a>"
-
-
 - name: Chunyi Li
   chinese: 黎纯一
   id: lichunyi
