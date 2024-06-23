@@ -354,27 +354,11 @@ Jump to [staff](#staff), [PhD](#phd), [master](#master), [undergraduate](#underg
 ## From NetSI, to the world!
 <div class="row">
 {% for pic in site.data.pics.memberlogo %}
-{% if pic.attr == "college" %}
 <div class="col-sm-2 col-xs-4 clearfix">
 <a href="{{ pic.link }}" target="_blank">
 <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" width="100%" style="float: left" />
 </a>
 </div>
-{% endif %}
-
-{% endfor %}
-</div>
-
-<div class="row">
-{% for pic in site.data.pics.memberlogo %}
-{% if pic.attr == "company" %}
-<div class="col-sm-2 col-xs-4 clearfix">
-<a href="{{ pic.link }}" target="_blank">
-<img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/memberlogo/{{ pic.image }}" width="100%" style="float: left" />
-</a>
-</div>
-{% endif %}
-
 {% endfor %}
 </div>
 
