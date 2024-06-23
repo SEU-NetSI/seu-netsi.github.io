@@ -41,6 +41,43 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/lyonlui' target='_blank'>https://github.com/lyonlui</a>"
 
+- name: Yuying Cheng
+  chinese: 程玉莹
+  id: chengyuying
+  photo: chengyuying.jpg
+  info: Master's degree in 2024,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
+  email: 220211990@seu.edu.cn
+  link: https://github.com/seuchengyy
+  education: 
+    - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  thesis:
+    - "面向无人机动态信号源追踪的飞行规划与协作"
+  interest:
+    - "<b>Source Tracking</b>"
+    - "<b>Mobile Network</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/seuchengyy' target='_blank'>https://github.com/seuchengyy</a>"
+
+- name: Xianhan Cui
+  chinese: 崔鲜汉
+  id: cuixianhan
+  photo: cuixianhan.jpg
+  info: Master's degree in 2024,<br> Cybersecurity Researcher at <a href='https://www.cetc.com.cn/' target='_blank'>China Electronic Technology Group Corporation</a>
+  email: cuixianhan@seu.edu.cn
+  link: https://github.com/cuixh0
+  education: 
+    - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://ccst.jlu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='http://www.jlu.edu.cn/' target='_blank'>Jilin University</a>, China"
+  thesis:
+    - "基于UWB的机器人跟随与轨迹优化技术研究与实现"
+  interest:
+    - "<b>Algorithm Design</b>"
+    - "<b>Internet of Things</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/wei-yixiao' target='_blank'>https://github.com/wei-yixiao</a>"
+
+
 - name: Shenghao Jia
   chinese: 贾晟浩
   id: jiashenghao

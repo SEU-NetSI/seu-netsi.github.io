@@ -158,6 +158,10 @@ memberlogo:
     image: stategrid.png
     link: http://js.ifeng.com/special/fangtian/
     attr: company
+  - id: China Electronics Technology Group Corporation
+    image: cetc.png
+    link: https://www.cetc.com.cn/
+    attr: company
   #- id: ZTE
   #  image: ZTE.jpg
   #  link: https://www.zte.com.cn/china/about/corporate_information.html
