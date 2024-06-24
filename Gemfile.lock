@@ -61,6 +61,7 @@ GEM
 PLATFORMS
   universal-darwin-21
   universal-darwin-22
+  x64-mingw-ucrt
   x86_64-darwin-20
 
 DEPENDENCIES
