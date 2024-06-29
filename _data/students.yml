@@ -165,6 +165,22 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/wyb217' target='_blank'>https://github.com/wyb217</a>"
+  
+- name: Yiqian Wang
+  chinese: 王奕乾
+  id: wangyiqian
+  photo: wangyiqian.jpg
+  info: M.Sc. Student, Started Sept. 2024
+  email: wyqaq@foxmail.com
+  link: https://github.com/QAQYW
+  education:
+    - "<b>2024.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2024.06:</b> B.Sc, <a href='https://bhs.njupt.edu.cn/'  target='_blank'>Bell Honors School</a>, <a href='https://www.njupt.edu.cn/' target='_blank'>Nanjing University of Posts and Telecommunications</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/QAQYW' target='_blank'>https://github.com/QAQYW</a>"
 
 - name: "This could be you!"
   chinese: placeholder
