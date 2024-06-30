@@ -181,6 +181,22 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/QAQYW' target='_blank'>https://github.com/QAQYW</a>"
+  
+- name: Zixuan Zeng
+  chinese: 曾子璇
+  id: zengzixuan
+  photo: zengzixuan.jpg
+  info: M.Sc. Student, Started Sept. 2024
+  email: 15579339652@163.com
+  link: https://github.com/zengzixuan2024
+  education:
+    - "<b>2024.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2024.06:</b> B.Sc, <a href='https://dqxx.neau.edu.cn/' target='_blank'>School of Electrical and Information</a>, <a href='https://www.neau.edu.cn/' target='_blank'>Northeast Agricultural University</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/zengzixuan2024' target='_blank'>https://github.com/zengzixuan2024</a>"
 
 - name: "This could be you!"
   chinese: placeholder
