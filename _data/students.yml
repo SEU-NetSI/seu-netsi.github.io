@@ -165,7 +165,7 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/wyb217' target='_blank'>https://github.com/wyb217</a>"
-  
+
 - name: Yiqian Wang
   chinese: 王奕乾
   id: wangyiqian
@@ -181,7 +181,7 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/QAQYW' target='_blank'>https://github.com/QAQYW</a>"
-  
+
 - name: Zixuan Zeng
   chinese: 曾子璇
   id: zengzixuan
@@ -197,6 +197,21 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/zengzixuan2024' target='_blank'>https://github.com/zengzixuan2024</a>"
+
+- name: Wangxiao Mao
+  chinese: 毛王霄
+  id: maowangxiao
+  photo: maowangxiao.jpg
+  info: M.Sc. Student, Started Sept. 2024
+  email: 2628763305@qq.com
+  link: https://github.com/BrightUiv
+  education:
+    - "<b>2024.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2024.06:</b> B.Sc, <a href='https://cs.ncepu.edu.cn/' target='_blank'>School Of Control And Computer Engineering(Department of Computer)</a>, <a href='https://www.ncepu.edu.cn/' target='_blank'>North China Electric Power University</a>,China"
+  interest:
+    - "<b>Unmanned System Swarm Cooperation</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/BrightUiv' target='_blank'>https://github.com/BrightUiv/</a>"
 
 - name: "This could be you!"
   chinese: placeholder
