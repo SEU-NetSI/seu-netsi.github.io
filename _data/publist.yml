@@ -1,3 +1,18 @@
+- id: XXWXS-CN24
+  year: 2024
+  authors: Runqun Xiong, Qing Xiao, Zhoujie Wang, Zhuqing Xu and Feng Shan
+  title: "Leveraging lightweight blockchain for secure collaborative computing in UAV Ad-Hoc Networks"
+  pubinfo: "Elsevier Computer Networks (<b>COMNET</b>), vol. 251 (2024): 110612."
+  link:
+    paper: https://www.sciencedirect.com/science/article/pii/S1389128624004444/pdfft?md5=6308b67825080070e341743ee562d3c8&pid=1-s2.0-S1389128624004444-main.pdf
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://www.sciencedirect.com/science/article/abs/pii/S1389128624004444
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: adhocnetworkingrs
 
 - id: SLJCWLD-JSAC24
   year: 2024
