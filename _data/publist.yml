@@ -8,7 +8,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://www.sciencedirect.com/science/article/abs/pii/S1389128624004444
+    doi: https://doi.org/10.1016/j.comnet.2024.110612
   highlight: 
     attr: 0
   bibtex: placeholder
@@ -66,7 +66,7 @@
     code: placeholder
     slide: https://fengshan.seu-netsi.net/papers/XOYZSWL_MASS23_slides.pdf
     video: placeholder
-    doi: https://doi.ieeecomputersociety.org/10.1109/MASS58611.2023.00073
+    doi: https://doi.org/10.1109/MASS58611.2023.00073
   highlight: 
     attr: 0
   bibtex: "
@@ -162,7 +162,7 @@
     slide: placeholder
     video: placeholder
     code: https://github.com/SEU-NetSI/crazyflie-firmware
-    doi: https://ieeexplore.ieee.org/abstract/document/9810917
+    doi: https://doi.org/10.1109/TNET.2022.3186071
   highlight: 
     attr: 1
     image: uwbrange.jpg
@@ -187,7 +187,7 @@
     code: https://github.com/SEU-NetSI/crazyflie-firmware
     slide: https://fengshan.seu-netsi.net/papers/SZLLW-INFOCOM21_slides.pdf
     video: https://www.youtube.com/watch?v=jT3mPQvHadM
-    doi: https://ieeexplore.ieee.org/abstract/document/9488717
+    doi: https://doi.org/10.1109/INFOCOM42981.2021.9488717
   highlight: 
     attr: 0
     image: uwbrange.jpg
@@ -207,7 +207,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/abstract/document/9522183
+    doi: https://doi.org/10.1109/ICCCN52240.2021.9522183
   bibtex: "@inproceedings{huang2021energy,
   title={Energy-Efficient UAV Flight Planning for a General PoI-Visiting Problem with a Practical Energy Model},
   author={Huang, Jianping and Shan, Feng and Xiong, Runqun and Shao, Yuchao and Luo, Junzhou},
@@ -228,7 +228,7 @@
     code: placeholder
     slide: https://fengshan.seu-netsi.net/papers/SLXWL-INFOCOM20_slides.pdf
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/9155376
+    doi: https://doi.org/10.1109/INFOCOM41043.2020.9155376
   highlight: 
     attr: 0
     image: lookingb4xing.png
@@ -255,7 +255,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/9858609/
+    doi: https://doi.org/10.1109/TMC.2022.3199237
   highlight: 
     attr: 1
     image: energy2022.png
@@ -281,7 +281,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://www.sciencedirect.com/science/article/pii/S1389128620312196?via%3Dihub
+    doi: https://doi.org/10.1016/j.comnet.2020.107577
   highlight: 
     attr: 0
   bibtex: "@article{ye2020offspeeding,
@@ -305,7 +305,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://dl.acm.org/doi/10.1145/3388323
+    doi: https://doi.org/10.1145/3388323
   highlight: 
     attr: 0
   bibtex: "@article{huang2020couas,
@@ -330,7 +330,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/8552363
+    doi: https://doi.org/10.1109/JIOT.2018.2883903
   highlight: 
     attr: 0
   bibtex: "@article{shan2018offloading,
@@ -355,7 +355,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/8481689/
+    doi: https://doi.org/10.1109/JSAC.2018.2872395
   highlight: 
     attr: 0
   bibtex: "@article{shan2018delay,
@@ -380,7 +380,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/8481689
+    doi: https://doi.org/10.1109/TII.2018.2821160
   bibtex: "@article{shan2018throughput,
    title={Throughput maximization for the wireless powered communication in green cities},
    author={Shan, Feng and Luo, Junzhou and Wu, Weiwei and Dong, Fang and Shen, Xiaojun},
@@ -403,7 +403,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/7426842
+    doi: https://doi.org/10.1109/TMC.2016.2539163
   bibtex: "@article{wu2016online,
   title={Online throughput maximization for energy harvesting communication systems with battery overflow},
   author={Wu, Weiwei and Wang, Jianping and Wang, Xiumin and Shan, Feng and Luo, Junzhou},
@@ -426,7 +426,7 @@
     code: placeholder
     slide: https://fengshan.seu-netsi.net/papers/SLWS-INFOCOM16_slides.pdf
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/7524521
+    doi: https://doi.org/10.1109/INFOCOM.2016.7524521
   highlight: 
     attr: 0
   bibtex: "@inproceedings{shan2016optimal,
@@ -449,7 +449,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/7676345/
+    doi: https://doi.org/10.1109/JSAC.2016.2621359
   highlight: 
     attr: 0
   bibtex: "@article{wu2016energy,
@@ -474,7 +474,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/7010886/
+    doi: https://doi.org/10.1109/JSAC.2015.2391491
   bibtex: "@article{shan2015discrete,
   title={Discrete rate scheduling for packets with individual deadlines in energy harvesting systems},
   author={Shan, Feng and Luo, Junzhou and Wu, Weiwei and Li, Minming and Shen, Xiaojun},
@@ -497,7 +497,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://www.sciencedirect.com/science/article/pii/S1389128614003843?via%3Dihub
+    doi: https://doi.org/10.1016/j.comnet.2014.10.022
   bibtex: "@article{shan2014optimal,
   title={Optimal energy efficient packet scheduling with arbitrary individual deadline guarantee},
   author={Shan, Feng and Luo, Junzhou and Shen, Xiaojun},
