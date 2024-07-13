@@ -370,28 +370,28 @@
 }"
   category: harvestingnet
 
-- id: shan2018throughput
-  year: 2018
-  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, and Xiaojun Shen
-  title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
-  pubinfo: "IEEE Transactions on Industrial Informatics (<b>TII</b>), vol. 14, no 6 (2018): 2560-2569."
-  link: 
-    paper: placeholder
-    code: placeholder
-    slide: placeholder
-    video: placeholder
-    doi: https://doi.org/10.1109/TII.2018.2821160
-  bibtex: "@article{shan2018throughput,
-   title={Throughput maximization for the wireless powered communication in green cities},
-   author={Shan, Feng and Luo, Junzhou and Wu, Weiwei and Dong, Fang and Shen, Xiaojun},
-   journal={IEEE Transactions on Industrial Informatics},
-   volume={14},
-   number={6},
-   pages={2560--2569},
-   year={2018},
-   publisher={IEEE}
-  }"
-  category: 
+#- id: shan2018throughput
+#  year: 2018
+#  authors: Feng Shan, Junzhou Luo, Weiwei Wu, Fang Dong, and Xiaojun Shen
+#  title: "Throughput Maximization for Wireless Powered Communication in Green Cities"
+#  pubinfo: "IEEE Transactions on Industrial Informatics (<b>TII</b>), vol. 14, no 6 (2018): 2560-2569."
+#  link: 
+#    paper: placeholder
+#    code: placeholder
+#    slide: placeholder
+#    video: placeholder
+#    doi: https://doi.org/10.1109/TII.2018.2821160
+#  bibtex: "@article{shan2018throughput,
+#   title={Throughput maximization for the wireless powered communication in green cities},
+#   author={Shan, Feng and Luo, Junzhou and Wu, Weiwei and Dong, Fang and Shen, Xiaojun},
+#   journal={IEEE Transactions on Industrial Informatics},
+#   volume={14},
+#   number={6},
+#   pages={2560--2569},
+#   year={2018},
+#   publisher={IEEE}
+#  }"
+#  category: 
 
 - id: wu2016online
   year: 2017
