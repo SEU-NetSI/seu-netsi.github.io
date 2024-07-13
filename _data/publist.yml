@@ -1,6 +1,6 @@
 - id: XXWXS-CN24
   year: 2024
-  authors: Runqun Xiong, Qing Xiao, Zhoujie Wang, Zhuqing Xu and Feng Shan
+  authors: Runqun Xiong, Qing Xiao, Zhoujie Wang, Zhuqing Xu, and Feng Shan
   title: "Leveraging lightweight blockchain for secure collaborative computing in UAV Ad-Hoc Networks"
   pubinfo: "Elsevier Computer Networks (<b>COMNET</b>), vol. 251 (2024): 110612."
   link:
@@ -32,7 +32,7 @@
 
 - id: HWFLSWX-TOSN23
   year: 2023
-  authors: Ziyao Huang, Weiwei Wu, Chenchen Fu, Xiang Liu, Feng Shan, Jianping Wang, Xueyong Xu
+  authors: Ziyao Huang, Weiwei Wu, Chenchen Fu, Xiang Liu, Feng Shan, Jianping Wang, and Xueyong Xu
   title: "Communication-Topology Preserving Motion Planning: Enabling Static Routing in UAV Networks"
   pubinfo: "ACM Transactions on Sensor Networks (<b>TOSN</b>) vol. 20, no. 1 (2023): 24:1-39."
   link:
@@ -84,7 +84,7 @@
 
 - id: shan2022tmc
   year: 2023
-  authors: Feng Shan, Jianping Huang, Runqun Xiong, Fang Dong, Junzhou Luo and Suyang Wang
+  authors: Feng Shan, Jianping Huang, Runqun Xiong, Fang Dong, Junzhou Luo, and Suyang Wang
   title: Energy-Efficient General PoI-Visiting by UAV with a Practical Flight Energy Model
   pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), vol. 22, no. 11, (2023): 6427-6444."
   link:
