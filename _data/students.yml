@@ -213,6 +213,22 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/BrightUiv' target='_blank'>https://github.com/BrightUiv/</a>"
 
+- name: Yunfan Li
+  chinese: 李云帆
+  id: liyunfan
+  photo: liyunfan.jpg
+  info: M.Sc. Student, Started Sept. 2024
+  email: liyunfan0618@foxmail.com
+  link: https://github.com/AndrewLi19
+  education:
+    - "<b>2024.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2024.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/AndrewLi19' target='_blank'>https://github.com/AndrewLi19</a>"
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
