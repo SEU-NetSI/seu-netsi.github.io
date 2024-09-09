@@ -198,6 +198,17 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/zengzixuan2024' target='_blank'>https://github.com/zengzixuan2024</a>"
 
+- name: Li Hao
+  chinese: 李昊
+  id: lihao
+  photo: lihao.jpg
+  info: M.Sc. Student, Started Sept. 2024
+  email: 1365101196@qq.com
+  link: https://github.com/eurkaaaa
+  education:
+    - "<b>2024.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2024.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Artificial and Intelligence</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+
 - name: Wangxiao Mao
   chinese: 毛王霄
   id: maowangxiao
@@ -227,6 +238,8 @@
     - "<b>Internet of Things</b>"
     - "<b>Algorithm Design</b>"
   correspondence:
+    - "<b>Github:</b> <a href='https://github.com/eurkaaaa' target='_blank'>https://github.com/eurkaaaa</a>"
+    
     - "<b>Github:</b> <a href='https://github.com/AndrewLi19' target='_blank'>https://github.com/AndrewLi19</a>"
 
 - name: "This could be you!"
