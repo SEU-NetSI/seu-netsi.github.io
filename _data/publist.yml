@@ -1,3 +1,19 @@
+- id: HWWYFSWL-TMC24
+  year: 2024
+  authors: Ziyao Huang, Weiwei Wu, Kui Wu, Hang Yuan, Chenchen Fu, Feng Shan, Jianping Wang, Luo Junzhou
+  title: "LI2: A New Learning-based Approach to Timely Monitoring of Points-of-Interest with UAV"
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>)to appear. Accepted on Sept. 4, 2024."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavpathplan
+
 - id: XXWXS-CN24
   year: 2024
   authors: Runqun Xiong, Qing Xiao, Zhoujie Wang, Zhuqing Xu, and Feng Shan
@@ -18,13 +34,13 @@
   year: 2024
   authors: Feng Shan, Junzhou Luo, Qiao Jin, Liwen Cao, Weiwei Wu, Zhen Ling, and Fang Dong
   title: "Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems"
-  pubinfo: "IEEE Journal on Selected Areas in Communications (<b>JSAC</b>) to appear. Accepted on May 20, 2024."
+  pubinfo: "IEEE Journal on Selected Areas in Communications (<b>JSAC</b>) early access."
   link:
     paper: https://fengshan.seu-netsi.net/papers/SLJCWLD-JSAC24-extended.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://ieeexplore.ieee.org/document/10654778
   highlight: 
     attr: 0
   bibtex: placeholder
