@@ -1,4 +1,12 @@
 ourgroup:
+  - id: 2024_11_02_Autumn_Outing
+    image: 2024_11_02_Autumn_Outing2.jpg
+    intro: "Autumn Outing 2024"
+    date: "2024-11-02"
+  - id: 2024_11_02_Autumn_Outing
+    image: 2024_11_02_Autumn_Outing1.jpg
+    intro: "Autumn Outing 2024"
+    date: "2024-11-02"
   - id: 2024_06_18_Graduation_Memory
     image: 2024_06_18_Graduation1.jpg
     intro: "Graduation Memory 2024"
@@ -7,6 +15,10 @@ ourgroup:
     image: 2023_MidAutumn_Festival.jpg
     intro: "2023 Mid Autumn Festival dinner"
     date: "2023-09-27"  
+  - id: 2023_06_22_Dragon_Boat_Festival_Gathering
+    image: 2023_06_22_Dragon_Boat_Festival_Gathering.jpeg
+    intro: "Dragon Boat Festival Gathering 2023"
+    date: "2023-06-22"
   - id: 2023_06_06_Graduation_Memory
     image: 2023_06_06_Graduation1.jpg
     intro: "Graduation Memory 2023"
