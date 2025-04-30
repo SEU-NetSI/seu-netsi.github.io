@@ -80,7 +80,7 @@ PLATFORMS
   arm64-darwin-23
   universal-darwin-21
   universal-darwin-22
-  x64-mingw-ucrt
+  x64-unknown
   x86_64-darwin-20
 
 DEPENDENCIES
@@ -88,4 +88,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.18
+   2.4.22
