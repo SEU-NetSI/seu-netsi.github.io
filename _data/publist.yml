@@ -1,18 +1,3 @@
-- id: HWWYFSWL-TMC25
-  year: 2025
-  authors: Ziyao Huang, Weiwei Wu, Kui Wu, Hang Yuan, Chenchen Fu, Feng Shan, Jianping Wang, and Junzhou Luo
-  title: "LI2: A New Learning-based Approach to Timely Monitoring of Points-of-Interest with UAV,"
-  pubinfo: "IEEE Transactions on Mobile Computing (TMC), vol. 24, no. 1, (2025): 45-61."
-  link:
-    paper: placeholder
-    code: placeholder
-    slide: placeholder
-    video: placeholder
-    doi: https://doi.org/10.1109/TMC.2024.3461708
-  highlight: 
-    attr: 0
-  bibtex: placeholder
-  category: uavpathplan
 
 - id: HS-IWQoS25
   year: 2025
@@ -25,6 +10,22 @@
     slide: placeholder
     video: placeholder
     doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavpathplan
+
+- id: HWWYFSWL-TMC25
+  year: 2025
+  authors: Ziyao Huang, Weiwei Wu, Kui Wu, Hang Yuan, Chenchen Fu, Feng Shan, Jianping Wang, and Junzhou Luo
+  title: "LI2: A New Learning-based Approach to Timely Monitoring of Points-of-Interest with UAV,"
+  pubinfo: "IEEE Transactions on Mobile Computing (TMC), vol. 24, no. 1, (2025): 45-61."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://doi.org/10.1109/TMC.2024.3461708
   highlight: 
     attr: 0
   bibtex: placeholder
