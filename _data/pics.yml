@@ -1,5 +1,9 @@
 ourgroup:
   - id: 2024_11_02_Autumn_Outing
+    image: 2025_06_06_Graduation.jpg
+    intro: "Graduation Memory 2025"
+    date: "2025-06-06"
+  - id: 2024_11_02_Autumn_Outing
     image: 2024_11_02_Autumn_Outing2.jpg
     intro: "Autumn Outing 2024"
     date: "2024-11-02"
