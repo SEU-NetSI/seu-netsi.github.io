@@ -1,7 +1,12 @@
 
+- date: June 11, 2025
+  headline: "Our paper `ASSUME: An Optimal Algorithm to Minimize UAV Energy by Altitude and Speed Schedulin' was accepted by IEEE Transactions on Mobile Computing (TMC)."
 
 - date: May 30, 2025
-  headline: "Our paper SLIM: Scheduling Deadline-Driven Tasks with a Minimum Number of UAVs was accepted by IEEE/ACM IWQoS 2025."
+  headline: "Our paper `SLIM: Scheduling Deadline-Driven Tasks with a Minimum Number of UAVs' was accepted by IEEE/ACM IWQoS 2025."
+
+- date: May 26, 2025
+  headline: "Our paper `Optimal Adaptive Scheduling to Maximize Throughput for Battery Constrained Time-varying RF-Powered Systems' was accepted by Elsevier Computer Networks (COMNET)."
 
 - date: Sept. 4, 2024
   headline: "Our paper <a href='https://doi.org/10.1109/TMC.2024.3461708'>LI2: A New Learning-based Approach to Timely Monitoring of Points-of-Interest with UAV</a> was accepted by IEEE Transactions on Mobile Computing (TMC)."
