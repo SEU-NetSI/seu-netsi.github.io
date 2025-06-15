@@ -93,6 +93,20 @@
     - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
 ```
 
+## 工作/升学单位logo添加
+
+如果你工作入职的单位或者升学入学的学校，没有在NetSI的过去的记录中，请你添加。
+
+打开`pics.yml`文件，拉到最下面的memberlogo字段，添加一条记录。例如
+```yml
+  - id: China Electronics Technology Group Corporation
+    image: cetc.png
+    link: https://www.cetc.com.cn/
+    attr: company
+```
+并且在`images/teampic/memberlogo/`目录中添加公司/学校的logo图片。
+
+
 ## 照片或其他信息
 
 可以更新一下照片，或者其他信息。
