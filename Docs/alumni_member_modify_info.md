@@ -1,5 +1,5 @@
 
-毕业的同学即将成为校友，本文的目的是指导你如何修改小组页面的“团队成员”页面(https://seu-netsi.net/team/)[https://seu-netsi.net/team/]，
+毕业的同学即将成为校友，本文的目的是指导你如何修改小组页面的“团队成员”页面https://seu-netsi.net/team/，
 把自己信息移动到“校友（Alumni）”栏目中，并添加自己的硕士论文标题，及修改其他信息。
 
 ## 数据目录与内容简介
@@ -46,7 +46,6 @@
     - "<b>Algorithm design</b>"
     - "<b>UAV application</b>"
   correspondence:
-    - "<b>Room:</b> 431, Computer Building, Jiulonghu Campus, SEU"
     - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
 ```
 把你的上面的信息剪切并删除。
