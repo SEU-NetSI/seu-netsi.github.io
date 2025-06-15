@@ -15,7 +15,7 @@ Jump to [staff](#staff), [PhD](#phd), [master](#master), [undergraduate](#underg
 <div class="title_placeholder" id="staff"></div>
 <h2>Staff</h2>
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.staff_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -126,7 +126,7 @@ Jump to [staff](#staff), [PhD](#phd), [master](#master), [undergraduate](#underg
 <div class="title_placeholder" id="master"></div>
 <h2>Master</h2>
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.master_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
