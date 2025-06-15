@@ -1,4 +1,20 @@
 
+- id: LSLCWC-RAL25
+  year: 2025
+  authors: Shushuai Li, Feng Shan, Jiangpeng Liu, Mario Coppola, Christophe De Wagter, and Guido de Croon
+  title: "Onboard Ranging-based Relative Localization and Stability for Lightweight Aerial Swarms"
+  pubinfo: "IEEE Robotics and Automation Letters (<b>RA-L</b>) , Conditionally Accepted on Jun 15, 2025."
+  link:
+    paper: https://shushuai3.github.io/autonomous-swarm/
+    code: https://github.com/shushuai3/cf_onboard_swarm/tree/swarm
+    slide: placeholder
+    video: https://www.youtube.com/playlist?list=PL_KSX9GOn2P9sgaX3DHnPsnBCJ76fLNJ5
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uwbswarmrl
+
 - id: HSLXW-TMC25
   year: 2025
   authors: Jianping Huang, Feng Shan, Junzhou Luo, Runqun Xiong, and Wenjia Wu
@@ -161,7 +177,6 @@
   organization={IEEE}
 }
 "
-
   category: autofly
 
 - id: shan2022tmc
