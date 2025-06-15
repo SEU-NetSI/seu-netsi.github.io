@@ -5,6 +5,26 @@
 #  link: 
 #  education:
 
+- name: Yuming Gao
+  chinese: 高钰铭
+  id: gaoyuming
+  photo: gaoyuming.jpeg
+  info: Master's degree in 2025,<br>. 
+  email: withod@seu.edu.cn
+  link: https://github.com/Withod
+  education:
+    - "<b>2021.09 ~ 2025.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  thesis:
+    - "面向智能无人机场的集群复杂任务调度"  
+  interest:
+    - "<b>Algorithm design</b>"
+    - "<b>UAV application</b>"
+  correspondence:
+    - "<b>Room:</b> 431, Computer Building, Jiulonghu Campus, SEU"
+    - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
+
+
 - name: Haodong Huo
   chinese: 霍浩东
   id: huohaodong
