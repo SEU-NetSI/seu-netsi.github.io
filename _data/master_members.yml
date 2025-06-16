@@ -5,23 +5,6 @@
 #  link:
 #  education:
 
-- name: Chunyi Li
-  chinese: 黎纯一
-  id: lichunyi
-  photo: lichunyi.jpg
-  info: M.Sc. Student, Started Sept. 2022
-  email: 1403198796@qq.com
-  link: https://github.com/L-somebody
-  education:
-    - "<b>2022.09 ~ Now:</b> M.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2018.09 ~ 2022.06:</b> B.Sc, <a href='http://www.cse.cqu.edu.cn/' target='_blank'>School of Big Data & Software Engineering</a>, <a href='https://www.cqu.edu.cn/' target='_blank'>Chongqing University</a>, China"
-  interest:
-    - "<b>Internet of Things</b>"
-    - "<b>Operating System</b>"
-  correspondence:
-    - "<b>Room:</b> 403, Sanjiang Building, Suzhou Campus, SEU"
-    - "<b>Github:</b> <a href='https://github.com/L-somebody' target='_blank'>https://github.com/L-somebody</a>"
-
 - name: Hanjie Yu
   chinese: 郁寒杰
   id: yuhanjie
