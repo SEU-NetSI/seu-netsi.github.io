@@ -211,6 +211,22 @@
   correspondence: 
     - "<b>Github:</b> <a href='https://github.com/AndrewLi19' target='_blank'>https://github.com/AndrewLi19</a>"
 
+- name: Ziyi Fan
+  chinese: 范子怡
+  id: fanziyi
+  photo: fanziyi.jpg
+  info: M.Sc. Student, Started Sept. 2025
+  email: geniusfanziyi@163.com
+  link: https://github.com/bunnykeke
+  education:
+    - "<b>2025.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2021.09 ~ 2025.06:</b> B.Sc, <a href='https://cs.njupt.edu.cn/' target='_blank'>School of Computer Science</a>, <a href='https://www.njupt.edu.cn/' target='_blank'>Nanjing University of Posts and Telecommunications</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/bunnykeke' target='_blank'>https://github.com/bunnykeke</a>"
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
