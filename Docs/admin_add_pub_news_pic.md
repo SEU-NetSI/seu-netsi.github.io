@@ -1,3 +1,4 @@
+# 如何添加出版发表、新闻、活动照片
 ## 添加出版发表条目
 在Publication页面添加刊物条目
 ### 操作步骤
@@ -42,7 +43,7 @@
 - image：
   - 命名：日期 + 活动
   - 尺寸：2048 * 1152 像素
-  - 图片存放目录：seu-netsi.github.io/images
+  - 图片存放目录：seu-netsi.github.io/images/gallery
 - intro：会展示在图片下方的图片介绍
   
 
