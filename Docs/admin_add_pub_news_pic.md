@@ -3,8 +3,7 @@
 ### 操作步骤
 在data/publist.yml文件中复制之前的一条刊物条目代码，粘贴后修改，以下面这个条目的代码为例：
 - id：作者姓氏首字母-期刊缩写+年份
-- category: 有uwbswarmrl、uavpathplan、harvestingnet、adhocnetworkingrs、uavedgecomputing几个分类，在条目中天呐分类标签后，刊物条目也会在Research
-页面相应的研究方向中展示
+- category: 有uwbswarmrl、uavpathplan、harvestingnet、adhocnetworkingrs、uavedgecomputing几个分类，在条目中添加分类标签后，刊物条目也会在Research页面相应的研究方向中展示
 - 其余信息可仿照其他条目来填写
 
 ```yml
