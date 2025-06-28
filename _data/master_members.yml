@@ -227,6 +227,22 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/bunnykeke' target='_blank'>https://github.com/bunnykeke</a>"
 
+- name: Xuanyu Chen
+  chinese: 陈宣羽
+  id: chenxuanyu
+  photo: chenxuanyu.jpg
+  info: M.Sc. Student, Started Sept. 2025
+  email: cxy675013591@163.com
+  link: https://github.com/Cxy030322
+  education:
+    - "<b>2025.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2021.09 ~ 2025.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Artificial Intelligence</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Nanjing Agricultural University</a>, China"
+  interest:
+    - "<b>Algorithm design</b>"
+    - "<b>Internet of Things</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Cxy030322</a>"
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
