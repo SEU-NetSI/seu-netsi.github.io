@@ -1,4 +1,21 @@
 
+- id: WHSGXL-TMC25
+  year: 2025
+  authors: Yiqian Wang, Jianping Huang, Feng Shan, Yuming Gao, Runqun Xiong, and Junzhou Luo
+  title: "Optimizing Joint Speed and Altitude Schedule for UAV Data Collection in Low-Altitude Airspace"
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), Accpeted on July 17, 2025."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavpathplan
+
+
 - id: LSLCWC-RAL25
   year: 2025
   authors: Shushuai Li, Feng Shan, Jiangpeng Liu, Mario Coppola, Christophe De Wagter, and Guido de Croon
@@ -19,13 +36,13 @@
   year: 2025
   authors: Jianping Huang, Feng Shan, Junzhou Luo, Runqun Xiong, and Wenjia Wu
   title: "ASSUME: An Optimal Algorithm to Minimize UAV Energy by Altitude and Speed Scheduling"
-  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), Accpeted on June 11, 2025."
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), Eealy Access, June 23, 2025."
   link:
     paper: placeholder
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1109/tmc.2025.3581929
   highlight: 
     attr: 0
   bibtex: placeholder
@@ -36,13 +53,13 @@
   year: 2025
   authors: Fangyu Zhou, Feng Shan, Weiwei Wu, Runqun Xiong, and Junzhou Luo
   title: "Optimal Adaptive Scheduling to Maximize Throughput for Battery Constrained Time-varying RF-Powered System"
-  pubinfo: "Elsevier Computer Networks (<b>COMNET</b>), Accpeted on May 26, 2025."
+  pubinfo: "Elsevier Computer Networks (<b>COMNET</b>), vol. 269 (2025): 111414."
   link:
-    paper: placeholder
+    paper: https://fengshan.seu-netsi.net/papers/ZSWXL-CN25.pdf
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1016/j.comnet.2025.111414
   highlight: 
     attr: 0
   bibtex: placeholder
