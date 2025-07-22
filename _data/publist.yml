@@ -1,6 +1,22 @@
 
 - id: WHSGXL-TMC25
   year: 2025
+  authors: 单冯，张雅芬，陈慈媛，程玉莹，熊润群，凌振，罗军舟.
+  title: "面向移动信号源追踪的高斯过程时空建模与无人机在线飞行规划算法"
+  pubinfo: "计算机学报，录用于2025年7月22日."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: sourcest
+
+- id: WHSGXL-TMC25
+  year: 2025
   authors: Yiqian Wang, Jianping Huang, Feng Shan, Yuming Gao, Runqun Xiong, and Junzhou Luo
   title: "Optimizing Joint Speed and Altitude Schedule for UAV Data Collection in Low-Altitude Airspace"
   pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), Accpeted on July 17, 2025."
