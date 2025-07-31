@@ -226,6 +226,23 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Cxy030322</a>"
 
+- name: Shibo Wang
+  chinese: 王诗博
+  id: wangshibo
+  photo: wangshibo.jpg
+  info: M.Sc. Student, Started Sept. 2025
+  email: shibonwang@gmail.com
+  link: https://github.com/shibonW
+  education:
+    - "<b>2025.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2021.09 ~ 2025.06:</b> B.Sc, <a href='https://xxxy.fafu.edu.cn/main.htm' target='_blank'>College of Computer and Information Science</a>, <a href='https://www.fafu.edu.cn/' target='_blank'>Fujian Agriculture and Forestry University</a>, China"
+  interest:
+    - "<b>Embedded hardware & software development</b>"
+    - "<b>Internet of Things</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/shibonW' target='_blank'>https://github.com/shibonW</a>"
+
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
