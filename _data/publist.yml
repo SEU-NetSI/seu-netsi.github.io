@@ -19,13 +19,13 @@
   year: 2025
   authors: Yiqian Wang, Jianping Huang, Feng Shan, Yuming Gao, Runqun Xiong, and Junzhou Luo
   title: "Optimizing Joint Speed and Altitude Schedule for UAV Data Collection in Low-Altitude Airspace"
-  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), Accpeted on July 17, 2025."
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), Eealy Access, July 22, 2025."
   link:
     paper: placeholder
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1109/TMC.2025.3591698
   highlight: 
     attr: 0
   bibtex: placeholder
@@ -117,13 +117,13 @@
   year: 2024
   authors: Ziyao Huang, Weiwei Wu, Kui Wu, Hang Yuan, Chenchen Fu, Feng Shan, Jianping Wang, Luo Junzhou
   title: "LI2: A New Learning-based Approach to Timely Monitoring of Points-of-Interest with UAV"
-  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>)to appear. Accepted on Sept. 4, 2024."
+  pubinfo: "IEEE Transactions on Mobile Computing (<b>TMC</b>), vol. 24, no. 1, (2025): 45-61."
   link:
     paper: placeholder
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1109/TMC.2024.3461708
   highlight: 
     attr: 0
   bibtex: placeholder
