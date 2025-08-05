@@ -182,3 +182,7 @@ memberlogo:
     image: cetc.png
     link: https://www.cetc.com.cn/
     attr: company
+  - id: OPPO
+    image: oppo.png
+    link: https://www.oppo.com/
+    attr: company
