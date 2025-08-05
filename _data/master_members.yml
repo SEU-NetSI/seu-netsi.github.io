@@ -258,6 +258,22 @@
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/kkkkkk111111' target='_blank'>https://github.com/kkkkkk111111</a>"
 
+- name: Le Lin
+  chinese: 林乐
+  id: linle
+  photo: linle.jpg
+  info: M.Sc. Student, Started Sept. 2025
+  email: 15050581368@163.com
+  link: https://github.com/Lin-030425
+  education:
+    - "<b>2025.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2021.09 ~ 2025.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Communication Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Nanjing Tech University</a>, China"
+  interest:
+    - "<b>Algorithm design</b>"
+    - "<b>Internet of Things</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/Lin-030425' target='_blank'>https://github.com/Lin-030425</a>"
+
 
 - name: "This could be you!"
   chinese: placeholder
