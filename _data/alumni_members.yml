@@ -5,6 +5,24 @@
 #  link: 
 #  education:
 
+- name: Hanjie Yu
+  chinese: 郁寒杰
+  id: yuhanjie
+  photo: yuhanjie.jpg
+  info: Master's degree in 2025,<br> Research developer at <a href='http://www.sgcc.com.cn/html/sgcc_main/gb/index.shtml' target='_blank'>State Grid</a>
+  email: mfxjx000205@163.com
+  link: https://github.com/mfxjx000205
+  education:
+    - "<b>2022.09 ~ 2025.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cs.njupt.edu.cn/' target='_blank'>School of Computer Science</a>, <a href='https://www.njupt.edu.cn/' target='_blank'>Nanjing University of Posts and Telecommunications</a>, China"
+  thesis:
+    - "节能协作的纳型无人机自主导航技术研究与实现"  
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Embedded System</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/mfxjx000205' target='_blank'>https://github.com/mfxjx000205</a>"
+
 - name: Chunyi Li
   chinese: 黎纯一
   id: lichunyi
