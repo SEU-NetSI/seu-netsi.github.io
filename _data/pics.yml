@@ -1,4 +1,12 @@
 ourgroup:
+  - id: 2025_10_25_Professor_Guido_de_Croon_Visiting
+    image: 2025_10_25_Professor_Guido_de_Croon2.jpeg
+    intro: "Professor Guido de Croon Visiting Our Lab"
+    date: "2025-10-25"
+  - id: 2025_10_25_Professor_Guido_de_Croon_Visiting
+    image: 2025_10_25_Professor_Guido_de_Croon.jpeg
+    intro: "Professor Guido de Croon Visiting Our Lab"
+    date: "2025-10-25"
   - id: 2025_09_28_MidAutumn_Festival
     image: 2025_09_28_MidAutumn_Festival.jpg
     intro: "2025 Mid Autumn Festival dinner"
