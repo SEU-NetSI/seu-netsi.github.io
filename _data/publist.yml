@@ -1,4 +1,36 @@
 
+- id: HSMLLWXL-INFOCOM26
+  year: 2026
+  authors: Yunxi Hou, Feng Shan, Wangxiao Mao, Jiangpeng Liu, Ye Liu, Wenjia Wu, Runqun Xiong, and Junzhou Luo
+  title: "Optimal Swarm Ranging Protocol for Dynamic and Dense Ultra-Wideband Networks"
+  pubinfo: "IEEE INFOCOM 2026, Tokyo, Japan,  May 18-21, 2026."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: edgescheduling
+
+- id: HLS-INFOCOM26
+  year: 2026
+  authors: Jianping Huang, Xiang Liu, and Feng Shan
+  title: "RESCUE: Opportunistic Online Scheduling of Model Retraining on Underutilized Edges"
+  pubinfo: "IEEE INFOCOM 2026, Tokyo, Japan,  May 18-21, 2026."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: edgescheduling
+
 - id: WHSGXL-TMC25
   year: 2025
   authors: Baixin Wan, Feng Shan, and Jianping Huang
