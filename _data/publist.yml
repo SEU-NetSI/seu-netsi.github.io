@@ -1,3 +1,19 @@
+- id: HLS-SECON26
+  year: 2026
+  authors: Jianping Huang, Xiang Liu, and Feng Shan
+  title: "Ballet in Sky: Online Satellite Downlink with Joint ISL Balancing and GS Selection under Uncertainty,"
+  pubinfo: "IEEE SECON 2026, Pisa, Italy, June 3-6, 2026."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: adhocnetworkingrs
+  
 - id: ZWLYSL-TMC26
   year: 2026
   authors: Yusen Zhou, Wenjia Wu, Hui Lv, Ming Yang, Feng Shan, and Junzhou Luo
