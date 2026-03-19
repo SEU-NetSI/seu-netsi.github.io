@@ -1,3 +1,29 @@
+- id: li2025onboard
+  year: 2025
+  authors: Li, Shushuai and Shan, Feng and Liu, Jiangpeng and Coppola, Mario and De Wagter, Christophe and De Croon, Guido CHE
+  title: Onboard Ranging-Based Relative Localization and Stability for Lightweight Aerial Swarms 
+  pubinfo: "IEEE Robotics and Automation Letters (<b>RA-L</b>), vol. 10, no. 10, (2025):10066-10073."
+  link:
+    paper: https://shushuai3.github.io/autonomous-swarm/
+    slide: placeholder
+    video: https://www.youtube.com/playlist?list=PL_KSX9GOn2P9sgaX3DHnPsnBCJ76fLNJ5
+    code: https://github.com/shushuai3/cf_onboard_swarm/tree/swarm
+    doi: https://doi.org/10.1109/lra.2025.3597039
+  highlight: 
+    attr: 1
+    image: relativeLoc.png
+    description: For an environment without external GPS or motion capture systems, this work presents an autonomous multi-robot relative localization technique by fusing ultra-wideband (UWB) wireless distance measurements and state information obtained onboard and from peers.
+    source: IEEE Robotics and Automation Letters
+    link: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369
+  bibtex: "@article{li2025onboard,
+  title={Onboard Ranging-Based Relative Localization and Stability for Lightweight Aerial Swarms},
+  author={Li, Shushuai and Shan, Feng and Liu, Jiangpeng and Coppola, Mario and De Wagter, Christophe and De Croon, Guido CHE},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
+}"
+  category: uwbswarmrl
+
 - id: HLS-SECON26
   year: 2026
   authors: Jianping Huang, Xiang Liu, and Feng Shan
