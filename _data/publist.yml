@@ -1,3 +1,19 @@
+- id: HSL-TMC26
+  year: 2026
+  authors: Jianping Huang, Feng Shan, and Junzhou Luo,
+  title: "SLIM+: Jointly Optimizing EIV Placement and UAV Fleet Sizing for Deadline-Driven Tasks"
+  pubinfo: "IEEE Transactions on Mobile Computing (TMC), Accepted, (26 April 2026)."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: uavedgecomputing
+
 - id: li2025onboard
   year: 2025
   authors: Li, Shushuai and Shan, Feng and Liu, Jiangpeng and Coppola, Mario and De Wagter, Christophe and De Croon, Guido CHE
