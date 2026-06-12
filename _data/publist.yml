@@ -2,13 +2,13 @@
   year: 2026
   authors: Jianping Huang, Feng Shan, and Junzhou Luo
   title: "SLIM+: Jointly Optimizing EIV Placement and UAV Fleet Sizing for Deadline-Driven Tasks"
-  pubinfo: "IEEE Transactions on Mobile Computing (TMC), Accepted, (26 April 2026)."
+  pubinfo: "IEEE Transactions on Mobile Computing (TMC), Early Access, (06 May 2026)."
   link:
     paper: placeholder
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1109/TMC.2026.3690854
   highlight: 
     attr: 0
   bibtex: placeholder
@@ -20,9 +20,9 @@
   title: "Ballet in Sky: Online Satellite Downlink with Joint ISL Balancing and GS Selection under Uncertainty"
   pubinfo: "IEEE SECON 2026, Pisa, Italy, June 3-6, 2026."
   link:
-    paper: placeholder
+    paper: https://fengshan.seu-netsi.net/papers/HLS-SECON26.pdf
     code: placeholder
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/HLS-SECON26-slides.pdf
     video: placeholder
     doi: placeholder
   highlight: 
@@ -34,13 +34,13 @@
   year: 2026
   authors: Yusen Zhou, Wenjia Wu, Hui Lv, Ming Yang, Feng Shan, and Junzhou Luo
   title: "ODGMAC: On-demand Grouping-based MAC for Dense IoT Networks"
-  pubinfo: "IEEE Transactions on Mobile Computing (TMC), pp. 1-18, Early Access, 2026."
+  pubinfo: "IEEE Transactions on Mobile Computing (TMC), Early Access, (13 March 2026)."
   link:
     paper: placeholder
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/11434532
+    doi: https://doi.org/10.1109/TMC.2026.3673836
   highlight: 
     attr: 0
   bibtex: placeholder
@@ -54,7 +54,7 @@
   link:
     paper: https://fengshan.seu-netsi.net/papers/HSMLLWXL-INFOCOM26.pdf
     code: placeholder
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/HSMLLWXL-INFOCOM26-slides.pdf
     video: placeholder
     doi: placeholder
   highlight: 
@@ -70,7 +70,7 @@
   link:
     paper: https://fengshan.seu-netsi.net/papers/HLS-INFOCOM26.pdf
     code: placeholder
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/HLS-INFOCOM26-slides.pdf
     video: placeholder
     doi: placeholder
   highlight: 
@@ -78,17 +78,17 @@
   bibtex: placeholder
   category: edgescheduling
 
-- id: WHSGXL-TMC25
+- id: WSH-ICPADS25
   year: 2025
   authors: Baixin Wan, Feng Shan, and Jianping Huang
   title: "From Docking Station to Docking Station: Completing Tasks in Minimum Time by Cooperative UAV Fleets"
   pubinfo: "ICPADS 2025, Hefei, China, December 14-18, 2025."
   link:
-    paper: placeholder
+    paper: https://fengshan.seu-netsi.net/papers/WSH-ICPADS25.pdf
     code: placeholder
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/WSH-ICPADS25-slides.pdf
     video: placeholder
-    doi: https://ieeexplore.ieee.org/document/11323001
+    doi: https://doi.org/10.1109/ICPADS67057.2025.11323001
   highlight: 
     attr: 0
   bibtex: placeholder
@@ -134,7 +134,7 @@
   link:
     paper: https://shushuai3.github.io/autonomous-swarm/
     code: https://github.com/shushuai3/cf_onboard_swarm/tree/swarm
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/LSLCWC-RAL25-Poster-ICRA26.pdf
     video: https://www.youtube.com/playlist?list=PL_KSX9GOn2P9sgaX3DHnPsnBCJ76fLNJ5
     doi: https://doi.org/10.1109/LRA.2025.3597039
   highlight: 
@@ -191,11 +191,11 @@
   title: "SLIM: Scheduling Deadline-Driven Tasks with a Minimum Number of UAVs"
   pubinfo: "IEEE/ACM IWQoS 2025, Gold Coast, Australia, July 2-4, 2025."
   link:
-    paper: placeholder
+    paper: https://fengshan.seu-netsi.net/papers/HS-IWQoS2025.pdf
     code: placeholder
-    slide: placeholder
+    slide: https://fengshan.seu-netsi.net/papers/HS-IWQoS2025-slides.pdf
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1109/IWQoS65803.2025.11143433
   highlight: 
     attr: 0
   bibtex: placeholder
