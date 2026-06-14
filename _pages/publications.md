@@ -9,7 +9,7 @@ permalink: /publication/
 <div class="page-container">
 
 # Publication
-## Group Highlights
+## Research Highlights
 
 For a full list of publications and patents can be found at [homepage](https://fengshan.seu-netsi.net/#publications) or go to [Google Scholar](https://scholar.google.com/citations?user=7N_fRVwAAAAJ).
 
@@ -53,7 +53,7 @@ For a full list of publications and patents can be found at [homepage](https://f
 </div>
 {% endif %}
 
-## Full List of Publications
+## List of Publications
 {% assign thisyear = 0 %}
 
 {% for publi in site.data.publist %}
