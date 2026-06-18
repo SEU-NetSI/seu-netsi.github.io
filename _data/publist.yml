@@ -53,12 +53,16 @@
   pubinfo: "IEEE INFOCOM 2026, Tokyo, Japan,  May 18-21, 2026."
   link:
     paper: https://fengshan.seu-netsi.net/papers/HSMLLWXL-INFOCOM26.pdf
-    code: placeholder
+    code: https://github.com/SEU-NetSI/crazyflie-firmware.git
     slide: https://fengshan.seu-netsi.net/papers/HSMLLWXL-INFOCOM26-slides.pdf
     video: placeholder
     doi: placeholder
   highlight: 
-    attr: 0
+    attr: 1
+    image: srv2-infocom26.png
+    description: This paper introduces Swarm Ranging 2.0, a theoretically optimal UWB swarm ranging protocol for dynamic and dense networks. By adding compensatory ranging and a state-machine-based design, it improves robustness under packet loss and inconsistent ranging frequencies, with 25-drone experiments showing a 47.8% improvement over SRv1.
+    source: IEEE INFOCOM 2026
+    link: https://infocom2026.ieee-infocom.org/
   bibtex: placeholder
   category: edgescheduling
 
@@ -398,7 +402,7 @@
     code: https://github.com/SEU-NetSI/crazyflie-firmware
     doi: https://doi.org/10.1109/TNET.2022.3186071
   highlight: 
-    attr: 1
+    attr: 0
     image: uwbrange.jpg
     description: Nowadays, not only wearable and portable devices but also aerial and ground robots can be made smaller, lighter, cheaper, and thus as large as hundreds of them may form a swarm to participate in a complicated cooperative application, such as searching, rescuing, mapping, and war-battling.
     source: IEEE/ACM Transactions on Networking 2022
