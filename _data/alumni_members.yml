@@ -5,6 +5,74 @@
 #  link: 
 #  education:
 
+- name: Yunxi Hou
+  chinese: 侯云曦
+  id: houyunxi
+  photo: houyunxi.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: hyx18234172491@163.com
+  link: https://github.com/hyx18234172491
+  education:
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://ccst.tyut.edu.cn/' target='_blank'>College of Computer Science and Technology(College of Data Science)</a>, <a href='https://www.tyut.edu.cn/' target='_blank'>Taiyuan University of Technology</a>, China"
+  interest:
+    - "<b>Unmanned System Swarm Cooperation</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/hyx18234172491' target='_blank'>https://github.com/hyx18234172491</a>"
+  thesis: placeholder  
+  gradinfo: placeholder  
+
+- name: Jiangpeng Liu
+  chinese: 刘江鹏
+  id: liujiangpeng
+  photo: liujiangpeng.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: 220236192@seu.edu.cn
+  link: https://liudamie.github.io/
+  education:
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://maths.hfut.edu.cn/' target='_blank'>School of Mathematics</a>, <a href='https://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
+  interest:
+    - "<b>Unmanned System Swarm Cooperation</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/Liudamie' target='_blank'>https://github.com/Liudamie</a>"
+  thesis: placeholder  
+  gradinfo: placeholder  
+
+- name: Yafen Zhang
+  chinese: 张雅芬
+  id: zhangyafen
+  photo: zhangyafen.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: 220235333@seu.edu.cn
+  link: https://github.com/AZyfen
+  education:
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='https://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/AZyfen' target='_blank'>https://github.com/AZyfen</a>"
+  thesis: placeholder  
+  gradinfo: placeholder  
+
+- name: WenYu Wang
+  chinese: 王文虞
+  id: wangwenyu
+  photo: wangwenyu.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: wangwenyu_0113@163.com
+  link: https://github.com/WenYu1706
+  education:
+    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  interest:
+    - "<b>scientific researching</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/WenYu1706' target='_blank'>https://github.com/WenYu1706</a>"
+  thesis: placeholder  
+  gradinfo: placeholder  
+
 - name: Yifan Xie
   chinese: 谢伊凡
   id: xieyifan
@@ -42,25 +110,6 @@
     - "节能协作的纳型无人机自主导航技术研究与实现"  
   gradinfo: Master's degree in 2025,<br> Research developer at <a href='http://www.sgcc.com.cn/html/sgcc_main/gb/index.shtml' target='_blank'>State Grid</a>
 
-- name: Chunyi Li
-  chinese: 黎纯一
-  id: lichunyi
-  photo: lichunyi.jpg
-  info: Master's degree in 2025,<br> Research developer at <a href='https://www.oppo.com/' target='_blank'>OPPO</a>
-  email: 1403198796@qq.com
-  link: https://github.com/L-somebody
-  education:
-    - "<b>2022.09 ~ 2025.06:</b> M.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2018.09 ~ 2022.06:</b> B.Sc, <a href='http://www.cse.cqu.edu.cn/' target='_blank'>School of Big Data & Software Engineering</a>, <a href='https://www.cqu.edu.cn/' target='_blank'>Chongqing University</a>, China"
-  interest:
-    - "<b>Internet of Things</b>"
-    - "<b>Operating System</b>"
-  correspondence:
-    - "<b>Github:</b> <a href='https://github.com/L-somebody' target='_blank'>https://github.com/L-somebody</a>"
-  thesis:
-    - "基于超宽带技术的无人机集群协作通信与位置规划"  
-  gradinfo: Master's degree in 2025,<br> Research developer at <a href='https://www.oppo.com/' target='_blank'>OPPO</a>
-
 - name: Yongtao Ou
   chinese: 欧勇涛
   id: ouyongtao
@@ -80,6 +129,25 @@
     - "异构微型无人系统定位与协作建图技术研究与实现"  
   gradinfo: Master's degree in 2025,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
 
+- name: Chunyi Li
+  chinese: 黎纯一
+  id: lichunyi
+  photo: lichunyi.jpg
+  info: Master's degree in 2025,<br> Research developer at <a href='https://www.oppo.com/' target='_blank'>OPPO</a>
+  email: 1403198796@qq.com
+  link: https://github.com/L-somebody
+  education:
+    - "<b>2022.09 ~ 2025.06:</b> M.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2018.09 ~ 2022.06:</b> B.Sc, <a href='http://www.cse.cqu.edu.cn/' target='_blank'>School of Big Data & Software Engineering</a>, <a href='https://www.cqu.edu.cn/' target='_blank'>Chongqing University</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Operating System</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/L-somebody' target='_blank'>https://github.com/L-somebody</a>"
+  thesis:
+    - "基于超宽带技术的无人机集群协作通信与位置规划"  
+  gradinfo: Master's degree in 2025,<br> Research developer at <a href='https://www.oppo.com/' target='_blank'>OPPO</a>
+
 - name: Yuming Gao
   chinese: 高钰铭
   id: gaoyuming
@@ -98,7 +166,6 @@
   thesis:
     - "面向智能无人机场的集群复杂任务调度"  
   gradinfo: Master's degree in 2025,<br>. 
-
 
 - name: Haodong Huo
   chinese: 霍浩东
@@ -175,7 +242,6 @@
   thesis:
     - "基于UWB的机器人跟随与轨迹优化技术研究与实现"
   gradinfo: Master's degree in 2024,<br> Cybersecurity Researcher at <a href='https://www.cetc.com.cn/' target='_blank'>China Electronic Technology Group Corporation</a>
-
 
 - name: Shenghao Jia
   chinese: 贾晟浩
