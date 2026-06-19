@@ -272,7 +272,7 @@ Jump to [staff](#staff), [PhD](#phd), [master](#master), [undergraduate](#underg
 <div class="col-sm-6 clearfix">
   <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left" />
   <h4>{{ member.name }} | {{member.chinese}}</h4>
-  <i>{{ member.info }}</i>
+  <i>{{ member.gradinfo }}</i>
   {% if member.id != "placeholder" %}
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#{{ member.id }}" aria-expanded="false" aria-controls="collapseExample">
     See More

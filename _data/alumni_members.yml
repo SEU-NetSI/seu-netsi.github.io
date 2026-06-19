@@ -5,6 +5,24 @@
 #  link: 
 #  education:
 
+- name: Yifan Xie
+  chinese: 谢伊凡
+  id: xieyifan
+  photo: xieyifan.jpg
+  info: M.Sc. Student, Started Sept. 2023
+  email: 1584594639@qq.com
+  link: https://iven0322.github.io/
+  education:
+    - "<b>2023.09 ~ 2026.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='https://cs.njust.edu.cn/' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.njust.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"
+  interest:
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/Iven0322' target='_blank'>https://github.com/Iven0322</a>"
+  thesis: placeholder  
+  gradinfo: placeholder  
+
 - name: Hanjie Yu
   chinese: 郁寒杰
   id: yuhanjie
@@ -15,13 +33,14 @@
   education:
     - "<b>2022.09 ~ 2025.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cs.njupt.edu.cn/' target='_blank'>School of Computer Science</a>, <a href='https://www.njupt.edu.cn/' target='_blank'>Nanjing University of Posts and Telecommunications</a>, China"
-  thesis:
-    - "节能协作的纳型无人机自主导航技术研究与实现"  
   interest:
     - "<b>Internet of Things</b>"
     - "<b>Embedded System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/mfxjx000205' target='_blank'>https://github.com/mfxjx000205</a>"
+  thesis:
+    - "节能协作的纳型无人机自主导航技术研究与实现"  
+  gradinfo: Master's degree in 2025,<br> Research developer at <a href='http://www.sgcc.com.cn/html/sgcc_main/gb/index.shtml' target='_blank'>State Grid</a>
 
 - name: Chunyi Li
   chinese: 黎纯一
@@ -33,13 +52,14 @@
   education:
     - "<b>2022.09 ~ 2025.06:</b> M.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2018.09 ~ 2022.06:</b> B.Sc, <a href='http://www.cse.cqu.edu.cn/' target='_blank'>School of Big Data & Software Engineering</a>, <a href='https://www.cqu.edu.cn/' target='_blank'>Chongqing University</a>, China"
-  thesis:
-    - "基于超宽带技术的无人机集群协作通信与位置规划"  
   interest:
     - "<b>Internet of Things</b>"
     - "<b>Operating System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/L-somebody' target='_blank'>https://github.com/L-somebody</a>"
+  thesis:
+    - "基于超宽带技术的无人机集群协作通信与位置规划"  
+  gradinfo: Master's degree in 2025,<br> Research developer at <a href='https://www.oppo.com/' target='_blank'>OPPO</a>
 
 - name: Yongtao Ou
   chinese: 欧勇涛
@@ -51,13 +71,14 @@
   education:
     - "<b>2022.09 ~ 2025.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2018.09 ~ 2022.06:</b> B.Sc, <a href='http://math.suda.edu.cn/' target='_blank'>School of Mathematical Sciences</a>, <a href='https://www.suda.edu.cn/' target='_blank'>Soochow University</a>, China"
-  thesis:
-    - "异构微型无人系统定位与协作建图技术研究与实现"  
   interest:
     - "<b>Algorithm Design</b>"
     - "<b>UAV application</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/shang-huan' target='_blank'>https://github.com/shang-huan</a>"
+  thesis:
+    - "异构微型无人系统定位与协作建图技术研究与实现"  
+  gradinfo: Master's degree in 2025,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
 
 - name: Yuming Gao
   chinese: 高钰铭
@@ -69,13 +90,14 @@
   education:
     - "<b>2021.09 ~ 2025.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-  thesis:
-    - "面向智能无人机场的集群复杂任务调度"  
   interest:
     - "<b>Algorithm design</b>"
     - "<b>UAV application</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
+  thesis:
+    - "面向智能无人机场的集群复杂任务调度"  
+  gradinfo: Master's degree in 2025,<br>. 
 
 
 - name: Haodong Huo
@@ -88,13 +110,14 @@
   education: 
     - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='http://cs.henu.edu.cn/' target='_blank'>School of Computer and Information Engineering</a>, <a href='http://www.henu.edu.cn/' target='_blank'>Henan University</a>, China"
-  thesis:
-    - "微型无人机集群测距与组网通信技术研究与实现"  
   interest:
     - "<b>Algorithm Design</b>"
     - "<b>Distributed System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/huohaodong' target='_blank'>https://github.com/huohaodong</a>"
+  thesis:
+    - "微型无人机集群测距与组网通信技术研究与实现"  
+  gradinfo: Master's degree in 2024,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
 
 - name: Zhiwei Liu
   chinese: 刘志威
@@ -106,13 +129,14 @@
   education: 
     - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2012.09 ~ 2016.06:</b> B.Sc, <a href='https://sie.nchu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.nchu.edu.cn/' target='_blank'>Nanchang Hangkong University</a>, China"
-  thesis:
-    - "基于预训练大模型的室内机器人导航系统"
   interest:
     - "<b>Internet of Things</b>"
     - "<b>Autonomous Driving</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/lyonlui' target='_blank'>https://github.com/lyonlui</a>"
+  thesis:
+    - "基于预训练大模型的室内机器人导航系统"
+  gradinfo: Master's degree in 2024,<br> Freelance
 
 - name: Yuying Cheng
   chinese: 程玉莹
@@ -124,13 +148,14 @@
   education: 
     - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cose.seu.edu.cn/' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-  thesis:
-    - "面向无人机动态信号源追踪的飞行规划与协作"
   interest:
     - "<b>Source Tracking</b>"
     - "<b>Mobile Network</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/seuchengyy' target='_blank'>https://github.com/seuchengyy</a>"
+  thesis:
+    - "面向无人机动态信号源追踪的飞行规划与协作"
+  gradinfo: Master's degree in 2024,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
 
 - name: Xianhan Cui
   chinese: 崔鲜汉
@@ -142,13 +167,14 @@
   education: 
     - "<b>2021.09 ~ 2024.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://ccst.jlu.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='http://www.jlu.edu.cn/' target='_blank'>Jilin University</a>, China"
-  thesis:
-    - "基于UWB的机器人跟随与轨迹优化技术研究与实现"
   interest:
     - "<b>Algorithm Design</b>"
     - "<b>Internet of Things</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/wei-yixiao' target='_blank'>https://github.com/wei-yixiao</a>"
+  thesis:
+    - "基于UWB的机器人跟随与轨迹优化技术研究与实现"
+  gradinfo: Master's degree in 2024,<br> Cybersecurity Researcher at <a href='https://www.cetc.com.cn/' target='_blank'>China Electronic Technology Group Corporation</a>
 
 
 - name: Shenghao Jia
@@ -160,13 +186,14 @@
   link: https://github.com/ShenghaoJia
   education: 
     - "<b>2019.09 ~ 2023.06:</b> Undergraduate, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-  thesis:
-    - "基于航拍图像的神经辐射场三维重建技术研究"
   interest:
     - "<b>Wireless Communication</b>"
     - "<b>Artificial Intelligence</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/ShenghaoJia' target='_blank'>https://github.com/ShenghaoJia</a>"
+  thesis:
+    - "基于航拍图像的神经辐射场三维重建技术研究"
+  gradinfo: Bachelor's degree in 2023, <br> Master student at <a href='https://www.sjtu.edu.cn' target='_blank'>Shanghai Jiaotong Univ.</a>
 
 - name: Ruiwen Xu 
   chinese: 许瑞文
@@ -178,13 +205,14 @@
   education: 
     - "<b>2020.09 ~ 2023.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2016.09 ~ 2020.06:</b> B.Sc, <a href='http://sc.neu.edu.cn/' target='_blank'>Software College</a>, <a href='http://www.neu.edu.cn/' target='_blank'>Northeastern University</a>, China"
-  thesis:
-    - "边缘辅助的无人机集群自主导航技术研究与实现"
   interest: 
     - "<b>Edge Computing</b>" 
     - "<b>Distributed System</b>"
   correspondence: 
     - "<b>Github:</b> <a href='https://github.com/RavenLite' target='_blank'>https://github.com/RavenLite</a>"
+  thesis:
+    - "边缘辅助的无人机集群自主导航技术研究与实现"
+  gradinfo: Master's degree in 2023,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
     - "<b>Blog:</b> <a href='https://ravenxu.top' target='_blank'>https://ravenxu.top</a>"
 
 - name: Zhi Tao
@@ -197,13 +225,14 @@
   education: 
     - "<b>2020.09 ~ 2023.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://www.hfuu.edu.cn/dzx/' target='_blank'>School of Advanced Manufacturing Engineering</a>, <a href='http://www.hfuu.edu.cn/' target='_blank'>Hefei University</a>, China"
-  thesis:
-    - "微型无人机目标检测与协作跟踪技术"
   interest:
     - "<b>Embedded System</b>"
     - "<b>Artificial intelligence</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/aqqz' target='_blank'>https://github.com/aqqz</a>"
+  thesis:
+    - "微型无人机目标检测与协作跟踪技术"
+  gradinfo: Master's degree in 2023,<br> Research developer at <a href='https://www.zte.com.cn/china/' target='_blank'>ZTE</a>
 
 - name: Naiting Chen
   chinese: 陈乃婷
@@ -215,12 +244,13 @@
   education: 
     - "<b>2020.09 ~ 2023.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"
-  thesis:
-    - "室内微型无人机交互编队飞行技术研究与实现"
   interest:
     - "<b>Embedded System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/ChenMathilda' target='_blank'>https://github.com/ChenMathilda</a>"
+  thesis:
+    - "室内微型无人机交互编队飞行技术研究与实现"
+  gradinfo: Master's degree in 2023,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
 
 - name: Zengbao Li
   chinese: 李增保
@@ -232,14 +262,15 @@
   education: 
     - "<b>2019.09 ~ 2022.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.ahut.edu.cn/' target='_blank'>School of Computer Science and Technology</a>, <a href='https://www.ahut.edu.cn/' target='_blank'>Anhui University of Technology</a>, China"  
-  thesis:
-    - "可靠无人机集群协作的恶意移动源追踪技术研究与实现"
   interest:
     - "<b>Drone Swarm Network</b>"
     - "<b>Distributed System</b>"
     - "<b>Source Tracking</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/shuaibibao</a>"
+  thesis:
+    - "可靠无人机集群协作的恶意移动源追踪技术研究与实现"
+  gradinfo: Master's degree in 2022,<br> Research developer at <a href='https://about.meituan.com/' target='_blank'>Meituan</a>
 
 - name: Jianping Huang
   chinese: 黄剑萍
@@ -251,13 +282,14 @@
   education: 
     - "<b>2019.09 ~ 2022.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2015.09 ~ 2019.06:</b> B.Sc, <a href='http://cs.njust.edu.cn/' target='_blank'>School of Computer Science and Engineering</a>, <a href='http://www.njust.edu.cn/' target='_blank'>Nanjing University of Science and Technology</a>, China"  
-  thesis:
-    - "物联网环境下无人机数据采集的调度优化技术研究与实现"
   interest:
     - "<b>UAV Flight Planning</b>" 
     - "<b>Energy Scheduling</b>" 
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/hjp1997' target='_blank'>https://github.com/hjp1997</a>"
+  thesis:
+    - "物联网环境下无人机数据采集的调度优化技术研究与实现"
+  gradinfo: Master's degree in 2022,<br> Research developer at <a href='https://www.huawei.com/' target='_blank'>Huawei</a>
 
 - name: Yuchao Shao
   chinese: 邵瑜超
@@ -269,13 +301,14 @@
   education: 
     - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://cyber.seu.edu.cn/' target='_blank'>School of Cyber Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2014.09 ~ 2018.06:</b> B.Sc, <a href='http://computer.hdu.edu.cn/' target='_blank'>Computer and Software School</a>, <a href='http://www.hdu.edu.cn/' target='_blank'>Hangzhou Dianzi University</a>, China"
-  thesis:
-    - "基于超宽频技术的室内微型无人机集群自组网协议设计与实现"
   interest:
     - "<b>Flying Ad Hoc Network</b>"
     - "<b>Distributed System</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/YuchaoS' target='_blank'>https://github.com/YuchaoS</a>"
+  thesis:
+    - "基于超宽频技术的室内微型无人机集群自组网协议设计与实现"
+  gradinfo: Master's degree in 2021,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
   
 - name: Jiaxin Zeng
   chinese: 曾嘉鑫
@@ -287,11 +320,12 @@
   education: 
     - "<b>2018.09 ~ 2021.06:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2012.09 ~ 2016.06:</b> B.Sc, <a href='http://ci.hfut.edu.cn/' target='_blank'>School of Computer Science and Information Engineering</a>, <a href='http://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
-  thesis:
-    - "基于超宽频技术的位置信息协作感知研究与实现"
   interest:
     - "<b>Wireless Protocol</b>"
     - "<b>Localization</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/unJASON' target='_blank'>https://github.com/unJASON</a>"
+  thesis:
+    - "基于超宽频技术的位置信息协作感知研究与实现"
+  gradinfo: Master's degree in 2021,<br> Research developer at <a href='http://www.unionpayintl.com/' target='_blank'>China UnionPay</a>
 
