@@ -146,6 +146,10 @@ seuview:
     intro: "Landscape lake"
 
 memberlogo:
+  - id: Southeast University
+    image: southeastuniversity.png
+    link: https://www.seu.edu.cn/english/main.htm
+    attr: college
   - id: Peking University
     image: pekinguniversity.png
     link: https://english.pku.edu.cn/
@@ -158,9 +162,9 @@ memberlogo:
     image: copenhagenuniversity.png
     link: https://www.ku.dk/
     attr: college
-  - id: Southeast University
-    image: southeastuniversity.png
-    link: https://www.seu.edu.cn/english/main.htm
+  - id: Shanghai Jiao Tong University
+    image: sjtu.png
+    link: https://www.sjtu.edu.cn/
     attr: college
   - id: Huawei
     image: huawei.png
@@ -187,7 +191,7 @@ memberlogo:
     link: http://js.ifeng.com/special/fangtian/
     attr: company
   - id: ZTE
-    image: ZTE.png
+    image: ZTE.jpeg
     link: https://www.zte.com.cn/china/about/corporate_information.html
     attr: company
   - id: China Electronics Technology Group Corporation
