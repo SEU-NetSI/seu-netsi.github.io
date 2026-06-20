@@ -34,24 +34,26 @@
 如果你是硕士生，打开`master_members.yml`并添加信息;如果你是本科生，打开`undergraduate_members.yml`并添加信息。
 下面是一个例子。
 ```yml
-- name: Yuming Gao
-  chinese: 高钰铭
-  id: gaoyuming
-  photo: gaoyuming.jpeg
-  info: M.Sc. Student, Started Sept. 2021
-  email: withod@seu.edu.cn
-  link: https://github.com/Withod
+- name: Hao Li
+  chinese: 李昊
+  id: lihao
+  photo: lihao.jpg
+  info: M.Sc. Student, Started Sept. 2024
+  email: 1365101196@qq.com
+  link: https://github.com/eurkaaaa
   education:
-    - "<b>2021.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
-    - "<b>2017.09 ~ 2021.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2024.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2020.09 ~ 2024.06:</b> B.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Artificial and Intelligence</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
   interest:
-    - "<b>Algorithm design</b>"
-    - "<b>UAV application</b>"
+    - "<b>Internet of Things</b>"
+    - "<b>Algorithm Design</b>"
   correspondence:
-    - "<b>Github:</b> <a href='https://github.com/Withod' target='_blank'>https://github.com/Withod</a>"
+    - "<b>Github:</b> <a href='https://github.com/eurkaaaa' target='_blank'>https://github.com/eurkaaaa</a>"
+  thesis: placeholder  
+  gradinfo: placeholder 
 ```
 参考上面的样式信息，编写你自己的相关内容，添加到对应的yml文件当中。
 
 
-2. 添加个人照片：把你的照片（如`zhangsan.jpg`）上传到 `images/teampic`文件夹里，大小控制在100KB以内，因为页面展示尺寸很小。
+2. 添加个人照片：把你的照片（如`zhangsan.jpg`）上传到 `images/teampic`文件夹里，比例裁剪成方形，大小控制在100KB以内，因为页面展示尺寸很小。
 
