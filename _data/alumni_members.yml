@@ -88,8 +88,9 @@
     - "<b>Algorithm Design</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/Iven0322' target='_blank'>https://github.com/Iven0322</a>"
-  thesis: placeholder  
-  gradinfo: placeholder  
+  thesis:
+    - "基于数据驱动的微型无人机自主导航技术研究与实现"  
+  gradinfo: Master's degree in 2025,<br> Research developer at <a href='https://www.tencent.com/zh-cn/' target='_blank'>Tencent</a> 
 
 - name: Hanjie Yu
   chinese: 郁寒杰
