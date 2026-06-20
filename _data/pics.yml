@@ -198,3 +198,7 @@ memberlogo:
     image: oppo.png
     link: https://www.oppo.com/
     attr: company
+  - id: Tencent
+    image: tencent.png
+    link: https://www.tencent.com/zh-cn/
+    attr: company
