@@ -1,4 +1,12 @@
 ourgroup:
+  - id: 2026_06_11_Graduation_Party
+    image: 2026_06_11_Graduation_Party.jpg
+    intro: "Graduation Memory 2026"
+    date: "2026-06-11"
+  - id: 2026_06_11_Graduation
+    image: 2026_06_11_Graduation.JPG
+    intro: "Graduation Memory 2026"
+    date: "2026-06-11"
   - id: 2025_10_25_Professor_Guido_de_Croon_Visiting
     image: 2025_10_25_Professor_Guido_de_Croon2.jpeg
     intro: "Professor Guido de Croon Visiting Our Lab"
@@ -203,6 +211,10 @@ memberlogo:
     link: https://www.oppo.com/
     attr: company
   - id: Tencent
-    image: tencent.png
+    image: tencent.jpeg
     link: https://www.tencent.com/zh-cn/
+    attr: company
+  - id: ChinaTobacco
+    image: ChinaTobacco.jpg
+    link: http://www.tobacco.gov.cn
     attr: company
