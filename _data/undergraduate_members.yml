@@ -22,3 +22,17 @@
   thesis: placeholder  
   gradinfo: placeholder  
  
+- name: Baixin Wan
+  chinese: 万佰鑫
+  id: wanbaixin
+  photo: wanbaixin.jpeg
+  info: Undergraduate Student, Started Mar. 2025
+  email: baixinwan@seu.edu.cn
+  link: https://zeroffa233.github.io/
+  education:
+    - "<b>2023.08 ~ Now:</b> Undergraduate, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+  interest:
+    - "<b>Algorithm design</b>"
+    - "<b>Efficient ML System</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/zeroffa233' target='_blank'>https://github.com/zeroffa233</a>"
