@@ -30,14 +30,14 @@
   email: 220236192@seu.edu.cn
   link: https://liudamie.github.io/
   education:
-    - "<b>2023.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2023.09 ~ 2026.06:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>College of Software Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
     - "<b>2019.09 ~ 2023.06:</b> B.Sc, <a href='http://maths.hfut.edu.cn/' target='_blank'>School of Mathematics</a>, <a href='https://www.hfut.edu.cn/' target='_blank'>Hefei University of Technology</a>, China"
   interest:
     - "<b>Unmanned System Swarm Cooperation</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/Liudamie' target='_blank'>https://github.com/Liudamie</a>"
-  thesis: placeholder  
-  gradinfo: placeholder  
+  thesis: 微型无人机集群协同定位与自主导航飞行技术的研究与实现  
+  gradinfo: Master's degree in 2026,<br> Research developer at <a href='https://leihuo.163.com/' target='_blank'>NetEase</a>   
 
 - name: Yafen Zhang
   chinese: 张雅芬
