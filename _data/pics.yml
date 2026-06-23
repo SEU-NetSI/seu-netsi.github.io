@@ -218,3 +218,7 @@ memberlogo:
     image: ChinaTobacco.jpg
     link: http://www.tobacco.gov.cn
     attr: company
+  - id: NetEase
+    image: NetEase.png
+    link: https://leihuo.163.com/
+    attr: company
