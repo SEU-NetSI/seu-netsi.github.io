@@ -335,7 +335,8 @@
     - "<b>Distributed System</b>"
     - "<b>Source Tracking</b>"
   correspondence:
-    - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/shuaibibao</a>"
+    - "<b>Github:</b> <a href='https://github.com/shuaibibao' target='_blank'>https://github.com/RecurTree</a>"
+
   thesis:
     - "可靠无人机集群协作的恶意移动源追踪技术研究与实现"
   gradinfo: Master's degree in 2022,<br> Research developer at <a href='https://about.meituan.com/' target='_blank'>Meituan</a>
