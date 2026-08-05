@@ -202,6 +202,24 @@
   thesis: placeholder  
   gradinfo: placeholder  
 
+- name: Kai Cheng
+  chinese: 程凯
+  id: chengkai
+  photo: chengkai.jpg
+  info: M.Sc. Student, Started Sept. 2026
+  email: treelazy123@163.com
+  link: https://github.com/treelazy123
+  education:
+    - "<b>2026.09 ~ Now:</b> M.Sc, <a href='https://smjgs.seu.edu.cn/' target='_blank'>SEU-Monash Joint Graduate School</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2022.09 ~ 2026.06:</b> B.Sc, <a href='https://cs.zjut.edu.cn' target='_blank'>College of Communication Engineering</a>, <a href='https://www.zjut.edu.cn/' target='_blank'>Zjiang University of Technology</a>, China"
+  interest:
+    - "<b>Algorithm design</b>"
+    - "<b>Embedded hardware</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/treelazy123' target='_blank'>https://github.com/treelazy123</a>"
+  thesis: placeholder  
+  gradinfo: placeholder  
+
 
 - name: "This could be you!"
   chinese: placeholder
