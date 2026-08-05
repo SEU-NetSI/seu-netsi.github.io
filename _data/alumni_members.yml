@@ -19,8 +19,8 @@
     - "<b>Unmanned System Swarm Cooperation</b>"
   correspondence:
     - "<b>Github:</b> <a href='https://github.com/hyx18234172491' target='_blank'>https://github.com/hyx18234172491</a>"
-  thesis: placeholder  
-  gradinfo: placeholder  
+  thesis: 微型无人机集群测距与定位关键技术的研究与实现  
+  gradinfo: Master's degree in 2026,<br> Research developer at <a href='https://www.bytedance.com/' target='_blank'>ByteDance</a>   
 
 - name: Jiangpeng Liu
   chinese: 刘江鹏
@@ -279,10 +279,10 @@
     - "<b>Distributed System</b>"
   correspondence: 
     - "<b>Github:</b> <a href='https://github.com/RavenLite' target='_blank'>https://github.com/RavenLite</a>"
+    - "<b>Blog:</b> <a href='https://ravenxu.top' target='_blank'>https://ravenxu.top</a>"
   thesis:
     - "边缘辅助的无人机集群自主导航技术研究与实现"
   gradinfo: Master's degree in 2023,<br> Research developer at <a href='https://www.alibabagroup.com/' target='_blank'>Alibaba</a>
-    - "<b>Blog:</b> <a href='https://ravenxu.top' target='_blank'>https://ravenxu.top</a>"
 
 - name: Zhi Tao
   chinese: 陶智
