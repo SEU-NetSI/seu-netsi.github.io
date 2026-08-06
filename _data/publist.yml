@@ -1,3 +1,36 @@
+
+- id: ZWSW-CN26
+  year: 2026
+  authors: Fangyu Zhou, Yiqian Wang, Feng Shan, and Wenjia Wu
+  title: "Enhancing Routing in Dynamic and Dense Networks through UWB Swarm Ranging for Embodied Intelligence"
+  pubinfo: "Elsevier Computer Networks (COMNET), Accepted on Aug. 3, 2026."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: adhocnetworkingrs
+
+- id: PYCSX-TNSM26
+  year: 2026
+  authors: Jiahang Pu, Hongyu Ye, Jing Cheng, Feng Shan, and Runqun Xiong
+  title: "Balancing Timeliness and Accuracy: A Hybrid Data-Control Plane Framework for Volumetric DDoS Defense in IoT"
+  pubinfo: "IEEE Transactions on Network and Service Management (TNSM), vol. 23, (2026): 4647-4662."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: https://doi.org/10.1109/TNSM.2026.3693266
+  highlight: 
+    attr: 0
+  bibtex: placeholder
+  category: others
+
 - id: HSL-TMC26
   year: 2026
   authors: Jianping Huang, Feng Shan, and Junzhou Luo
@@ -34,7 +67,7 @@
   year: 2026
   authors: Yusen Zhou, Wenjia Wu, Hui Lv, Ming Yang, Feng Shan, and Junzhou Luo
   title: "ODGMAC: On-demand Grouping-based MAC for Dense IoT Networks"
-  pubinfo: "IEEE Transactions on Mobile Computing (TMC), Early Access, (13 March 2026)."
+  pubinfo: "IEEE Transactions on Mobile Computing (TMC), vol. 25, no. 9, (2026): 13638-13655."
   link:
     paper: placeholder
     code: placeholder
