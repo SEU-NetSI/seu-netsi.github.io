@@ -274,6 +274,24 @@
   thesis: placeholder
   gradinfo: placeholder
 
+- name: Xingqi Dong
+  chinese: 董星岐
+  id: dongxingqi
+  photo: dongxingqi.jpg
+  info: M.Sc. Student, Started Sept. 2026
+  email: 1604973862@qq.com
+  link: https://github.com/suifeng187
+  education:
+    - "<b>2026.09 ~ Now:</b> M.Sc, <a href='https://cse.seu.edu.cn/main.htm' target='_blank'>School of Computer Science and Engineering</a>, <a href='https://www.seu.edu.cn/' target='_blank'>Southeast University</a>, China"
+    - "<b>2022.09 ~ 2026.06:</b> B.Sc, <a href='https://cis.swu.edu.cn/' target='_blank'>College of Computer and Information Science</a>, <a href='https://www.swu.edu.cn/' target='_blank'>Southwest University</a>, China"
+  interest:
+    - "<b>Artificial Intelligence</b>"
+    - "<b>Unmanned System Swarm Cooperation</b>"
+  correspondence:
+    - "<b>Github:</b> <a href='https://github.com/suifeng187' target='_blank'>https://github.com/suifeng187</a>"
+  thesis: placeholder
+  gradinfo: placeholder
+
 - name: "This could be you!"
   chinese: placeholder
   id: placeholder
