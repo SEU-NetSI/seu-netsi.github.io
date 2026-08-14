@@ -9,7 +9,7 @@
     code: placeholder
     slide: placeholder
     video: placeholder
-    doi: placeholder
+    doi: https://doi.org/10.1016/j.comnet.2026.112648
   highlight: 
     attr: 0
   bibtex: placeholder
