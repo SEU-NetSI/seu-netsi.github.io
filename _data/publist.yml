@@ -19,13 +19,14 @@
   year: 2026
   authors: Fangyu Zhou, Yiqian Wang, Feng Shan, and Wenjia Wu
   title: "Enhancing Routing in Dynamic and Dense Networks through UWB Swarm Ranging for Embodied Intelligence"
-  pubinfo: "Elsevier Computer Networks (COMNET), Accepted on Aug. 3, 2026."
+  pubinfo: "Elsevier Computer Networks (COMNET), vol. 289 (2026): 112648."
   link:
     paper: placeholder
     code: placeholder
     slide: placeholder
     video: placeholder
     doi: https://doi.org/10.1016/j.comnet.2026.112648
+
   highlight: 
     attr: 0
   bibtex: placeholder
