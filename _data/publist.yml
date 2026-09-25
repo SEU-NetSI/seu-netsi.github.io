@@ -1,4 +1,20 @@
 
+- id: HLS-NEURIPS26
+  year: 2026
+  authors: Jianping Huang, Xiang Liu, and Feng Shan
+  title: "DialBandit: Adaptive Sequential Search with Tunable Evaluation Fidelity"
+  pubinfo: "NeurIPS 2026, Sydney, Australia, December 8-10, 2026."
+  link:
+    paper: placeholder
+    code: placeholder
+    slide: placeholder
+    video: placeholder
+    doi: placeholder
+  highlight:
+    attr: 0
+  bibtex: placeholder
+  category: edgescheduling
+
 - id: CXSXWYLJ-TSC26
   year: 2026
   authors: Ciyuan Chen, Zhuqing Xu, Feng Shan, Runqun Xiong, Weizheng Wang, Zhimeng Yin, Junzhou Luo, and Xiaohua Jia
